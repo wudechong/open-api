@@ -1,0 +1,2510 @@
+[
+	{
+		"expressID": "97E03FD7586835B58BF21CD2E22512CD",
+		"expressName": "瑞庭配件百世快递（拼多多）",
+		"localCode": "0000000022",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "B3C174BA0DC533B382C095C9380B1E8D",
+		"expressName": "瑞庭配件百世快递",
+		"localCode": "00000021",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2589915164583B468F54C15F51AEB89D",
+		"expressName": "木喆中通（拼多多）",
+		"localCode": "00000052",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "80DF4056F043366AB8135388B899B137",
+		"expressName": "常州配件：中通（加字）",
+		"localCode": "0000007",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "03927A4AB3C33FA98DE5782E3F71500F",
+		"expressName": "京淘配件：百世快递",
+		"localCode": "0000020",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3D1AFCD104FA3CF6B1A5F40935FCB197",
+		"expressName": "木喆中通",
+		"localCode": "0000051",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "5B97D98A8040348298E180D769249819",
+		"expressName": "山东拼多多-申通",
+		"localCode": "00001",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "4084CD75608E3C3D85475834F4D4E0BF",
+		"expressName": "山东菜鸟-圆通",
+		"localCode": "000010",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "CD549EA54F3A38E9AB72E9A18659832E",
+		"expressName": "沭阳配件淘宝：申通",
+		"localCode": "000019",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "21490FCF9D2532DD8FF140D984C19011",
+		"expressName": "沭阳配件淘宝：百世",
+		"localCode": "000020",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "8F329581BFA537D695ECDE5D1CB92BA3",
+		"expressName": "山东：德邦快递",
+		"localCode": "000022",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "4948D166374C3D2FBD1090478AF01530",
+		"expressName": "山东菜鸟-中通",
+		"localCode": "00003",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "E658A52744EE3418B615CA56D8155B43",
+		"expressName": "山东菜鸟-申通",
+		"localCode": "00004",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "6F6A884648C73AF1AC64E112E0DB7061",
+		"expressName": "常州配件：中通",
+		"localCode": "00006",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "DCAD09523D56395986BC0094639FA79F",
+		"expressName": "山东拼多多-中通",
+		"localCode": "00008",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "18F980C569673D9BB9918DB6820B0AE8",
+		"expressName": "常州配件：江阴中通",
+		"localCode": "000081",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "29A5AC6A5F573067BFA81CB360F41E86",
+		"expressName": "山东京东-中通",
+		"localCode": "00009",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "595646992DE93DB780F3A5B706C62E97",
+		"expressName": "虚拟发货快递",
+		"localCode": "00010",
+		"taobaoCode": "其他"
+	},
+	{
+		"expressID": "1B42EC5FC0E531B2A94DC8A364A479CF",
+		"expressName": "山氏：京广速递",
+		"localCode": "00052",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "4EB3221B96213DF6ADAA53AB7687DA96",
+		"expressName": "徐州德邦大件",
+		"localCode": "0038",
+		"taobaoCode": "CN7000001009020"
+	},
+	{
+		"expressID": "A83DE05D52B736CDB123DDD4EC6101CC",
+		"expressName": "山东:汇通",
+		"localCode": "01HTKY",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "EA96ED04ECFF3C1AADA8B8487A7E23F2",
+		"expressName": "山东:邮政小包",
+		"localCode": "01POSTB",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "6FDA613524683EA192CA3122A3449846",
+		"expressName": "山东:申通",
+		"localCode": "01STO",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "79C720170939354A88FFC0360932FCB5",
+		"expressName": "山东:新圆通",
+		"localCode": "01YTO",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "C2E2F0D57FFB3AA894E0F85308AB899B",
+		"expressName": "山东:韵达",
+		"localCode": "01YUNDA",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "F40020F397103318B98B3C3C2718F87E",
+		"expressName": "山东:中通",
+		"localCode": "01ZTO",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "9CB9E8DCF9043CE3B23AB7EF53AAF99E",
+		"expressName": "壹米滴答",
+		"localCode": "2744832184_543",
+		"taobaoCode": "2744832184_543"
+	},
+	{
+		"expressID": "64F9549EB6483CA6A40D246C33BCC8B0",
+		"expressName": "安能物流",
+		"localCode": "ANE",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "268F516B8D2F3B66A266403A854C294D",
+		"expressName": "代发：宾城德邦",
+		"localCode": "BCDB",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "8C9183E05F823A8E9C83F4BB9EA36A60",
+		"expressName": "代发：宾城韵达",
+		"localCode": "BCWJYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "CF0A2E5A4B9433C5BD50D7A246760C57",
+		"expressName": "徐州百世（天猫）",
+		"localCode": "BEST3",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "30DEFE9135323AAAB262F83947B58A66",
+		"expressName": "徐州百世（拼多多）",
+		"localCode": "BEST4",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "AB3D9E4EE4123374B943F6723E2A0A63",
+		"expressName": "胜芳：百世快运",
+		"localCode": "BEST9",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "50090EF2EA7C3ACD89C127B0E954D713",
+		"expressName": "胜芳：百世快运2",
+		"localCode": "BESTQJT-1",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "53C3511082E2390DB78FFE8977BBB554",
+		"expressName": "常州：百世快运",
+		"localCode": "BESTQJT001",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "192DB4D09A9B3626911B5742AE4159D2",
+		"expressName": "胜芳：北京圆通",
+		"localCode": "BJYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "C010BA7322EA32FDB62AE35231B876B1",
+		"expressName": "代发：柏瑞朗安能",
+		"localCode": "BRLan",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "2C3B59FD57373E3A82FF4BE3849AF2EC",
+		"expressName": "山东代发：柏森百世（天猫）",
+		"localCode": "BSBS20210713",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "1CC2B8A8A48136AEA82D25E391492932",
+		"expressName": "胜芳：百世快递",
+		"localCode": "BSKD11",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "D1793F99C3CB3B5BA56C0F3F0020E49C",
+		"expressName": "常州：百世快递小件",
+		"localCode": "BSKDXJ",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3C15AF2494993418A7204CD382588EB7",
+		"expressName": "常州配件：百世快运",
+		"localCode": "BSKY005",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "458C97634A9D333BA1CF1D535A0AA8F6",
+		"expressName": "常州配件：百世快运（拼多多）",
+		"localCode": "BSKY006",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "A32EBF6FDF493DF8AAD670BD247A19A7",
+		"expressName": "常州：赛杉百世快运",
+		"localCode": "BSKY6",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "1A23C16DF9B2310FB116E19E512CFFEF",
+		"expressName": "安徽：百世快运",
+		"localCode": "BSKY99",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "F94FE50CA2BD3377B7AE32230297402B",
+		"expressName": "山东代发：柏森中通",
+		"localCode": "BSZT20210702",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "7128190B11A235BEBAE5F1F793B8CAE3",
+		"expressName": "山东代发：柏森中通（拼多多）",
+		"localCode": "BSZTPDD0702",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "983E3F9AEFE73E129BCFB7A7DCC872EF",
+		"expressName": "代发：奔腾安能",
+		"localCode": "BTAN",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "5089F173CE883ABE91B756C8FAA84D1D",
+		"expressName": "代发：奔腾百世",
+		"localCode": "BTBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "EC3B470B7A3B3252A96825A7D365A855",
+		"expressName": "代发：奔腾拼多多百世",
+		"localCode": "BTBS1",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2A569806A5A1377E93FEE1CA260C7738",
+		"expressName": "代发：奔腾京广快递",
+		"localCode": "BTJGKD",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "755274257CB33CB8BA9065ED243C6C7A",
+		"expressName": "奔腾代发：顺丰",
+		"localCode": "BTSF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "1DAB505A598B326282FCF1DD7D4E5A00",
+		"expressName": "奔腾：拼多多顺丰",
+		"localCode": "BTSF1",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "4B59415D1A2D3060B0B6C21682113884",
+		"expressName": "代发：奔腾中通",
+		"localCode": "BTZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "86ECE04416A9365386CC243382FAF918",
+		"expressName": "代发：奔腾中通快递",
+		"localCode": "BTZT1222",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "150900D4DE9030A5876FCC964B575E37",
+		"expressName": "测试用顺丰",
+		"localCode": "CC",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "95F72541369030818145FB974AC0D9C6",
+		"expressName": "成武百世",
+		"localCode": "CHBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "C8901AC994B03CCC840D9BEC24D040E9",
+		"expressName": "代发拼多多：常宏顺风",
+		"localCode": "CHSF1",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "214F9FDDEE2D34F4A41AA3691FC0A2FA",
+		"expressName": "代发：常宏顺丰3",
+		"localCode": "CHSFSOT",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "3086B6CC023135368CD260A2EDC620EC",
+		"expressName": "代发：常宏申通",
+		"localCode": "CHST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "77CE315E87A734B28AFCCB7F4047C37E",
+		"expressName": "代发：常宏申通（拼）",
+		"localCode": "CHST1",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "31EB3389840830FDA12B14275A25793E",
+		"expressName": "代发：常鑫顺丰",
+		"localCode": "CXDF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "16DC68C765E33C299FE4BB310E7925BE",
+		"expressName": "常州：德邦快递二区",
+		"localCode": "CZDBKDEQ",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "908BB771212F3644A624658E611CFCA1",
+		"expressName": "常州：壹米滴答",
+		"localCode": "CZYMDD",
+		"taobaoCode": "2744832184_543"
+	},
+	{
+		"expressID": "F85B3D5E097238CCB4B0B293C180BC24",
+		"expressName": "常州：优速快递",
+		"localCode": "CZYS01",
+		"taobaoCode": "UC"
+	},
+	{
+		"expressID": "BD0794829C7F3C9F8211D201A426B9F2",
+		"expressName": "常州：圆通快递",
+		"localCode": "CZYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "6A9C70DBE70B36BDBF5C387863931C98",
+		"expressName": "常州：中通快运",
+		"localCode": "CZZTKY",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "4203A94EE18F308DB6B45D10570721A5",
+		"expressName": "代发：伟圆韵达",
+		"localCode": "DAFYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "48D4271F6B71311B8D2D87B1A01B21C0",
+		"expressName": "德邦快递",
+		"localCode": "DBKD",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "3A5F69491DF33942AFDFAE3D31564FD2",
+		"expressName": "胜芳：胜芳DB",
+		"localCode": "DBKD01",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "E5875A133DFF359E9BFBAC31A942195C",
+		"expressName": "徐州德邦小件",
+		"localCode": "DBKD2",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "711BEE7B1EEA331ABE13F62805E8042E",
+		"expressName": "常州：拼多多DP1",
+		"localCode": "DBKD3",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "37151C8435983D959C7112583CB29D0C",
+		"expressName": "安徽：拼多多DP",
+		"localCode": "DBKDAH01",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "F89F40383D6037A0B1B5834981064DB4",
+		"expressName": "山东：拼多多dp",
+		"localCode": "DBKK",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "7431776DABA335EFAA207AA8FF6B5A63",
+		"expressName": "德邦快运",
+		"localCode": "DBKY",
+		"taobaoCode": "DBL"
+	},
+	{
+		"expressID": "37F0D758EAA83E5AA972AA392FB077E0",
+		"expressName": "山东：德邦",
+		"localCode": "DBKa",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "EC7F1EE2C187304A96E66DC4B74E36E2",
+		"expressName": "常州：DP物流",
+		"localCode": "DBL001",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "2E03CC6FBE5930F5A7DBFFD080AAAB2E",
+		"expressName": "山东代发：莱州韵达（天猫）",
+		"localCode": "DF0001",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "C282D5DA0D1F351B8A78D7A305BAB67B",
+		"expressName": "山东代发：莱州韵达拼多多",
+		"localCode": "DF0002",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "53E16C3838C2340DB3044F154A013C6E",
+		"expressName": "山东代发：莱州韵达京东",
+		"localCode": "DF0003",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "A42E15915C8F3265A1E88EEF55F3390A",
+		"expressName": "山东代发：莱州汇通（天猫）",
+		"localCode": "DF0004",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2A2AB2DF36F33E56AA4D86AF5A75E22D",
+		"expressName": "山东代发：莱州申通（天猫）",
+		"localCode": "DF0005",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "4DD62B2CDD7A3E5F901E19880892623F",
+		"expressName": "代发：山氏韵达",
+		"localCode": "DF00052",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "7DBBF5D5550D3B3A90D9F26D07F4162E",
+		"expressName": "代发：雅心晴百世快运",
+		"localCode": "DF00055",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "BA0BC4DCFFFB3ADFA4864FE929FAE815",
+		"expressName": "山东代发：创意邮政（天猫）",
+		"localCode": "DF0006",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "7A3003B46B1037FF890C88D2DF08F688",
+		"expressName": "山东代发：创意百世（天猫）",
+		"localCode": "DF0007",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "C5EE2DEBA2903DF892EC5FBCB5DBC085",
+		"expressName": "山东代发：喜勒圆通（天猫）",
+		"localCode": "DF0008",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "F5D92E79FD3233FFA0ACEDC01A9411E0",
+		"expressName": "山东代发：临沂韵达（天猫）",
+		"localCode": "DF0009",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "2579E410EE11354D8EEA8B434D63B713",
+		"expressName": "山东代发：临沂百世1（天猫）",
+		"localCode": "DF0010",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "CFF6380CDA5B30D29D19AC80EE4F3461",
+		"expressName": "山东代发：莱州汇通拼多多",
+		"localCode": "DF0011",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "9B88B647C40E3C56AB74E80DD1906A77",
+		"expressName": "山东代发：临沂百世1拼多多",
+		"localCode": "DF0012",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "E660C08B9DCF329DA9B12B4CCD629717",
+		"expressName": "山东代发：创意百世拼多多",
+		"localCode": "DF0013",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "5B1B4C0E05833AAF9887E7DB1B3602D9",
+		"expressName": "山东代发：韵达",
+		"localCode": "DF0014",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "361F4FC5C9A235DC8AA1509C5B888141",
+		"expressName": "山东代发：中通",
+		"localCode": "DF0015",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "6840BFA3305A30948CBAFB0635A88D97",
+		"expressName": "山东代发：百世",
+		"localCode": "DF0016",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "D0293B99B3E630E4AB6F53F2E5B4E2B7",
+		"expressName": "山东代发：顺丰",
+		"localCode": "DF0017",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "E0985838F56433478D8C68D39C187131",
+		"expressName": "山东代发：德邦",
+		"localCode": "DF0018",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "829D9CE776B73E1BAC677D0206011EE2",
+		"expressName": "山东代发：圆通",
+		"localCode": "DF0019",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "0CD5362CAA7435B599AAC8723E42A76A",
+		"expressName": "山东代发：邮政",
+		"localCode": "DF0020",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "733AE5AF5619347FAF75F81B722D3B5D",
+		"expressName": "山东代发：申通",
+		"localCode": "DF0021",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "0E032E6B68BD32C487F1DB299E4483DF",
+		"expressName": "山东代发：安能物流",
+		"localCode": "DF0022",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "EEEC3A61B7553B7D990CEC6D109BF5AF",
+		"expressName": "山东代发：韵达快运",
+		"localCode": "DF0023",
+		"taobaoCode": "DISTRIBUTOR_13421750"
+	},
+	{
+		"expressID": "55A39DAF686F3791BA18193F77756381",
+		"expressName": "山东代发：临沂百世2（天猫）",
+		"localCode": "DF0024",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "9707365C632735AB877DDB14D38987F6",
+		"expressName": "山东代发：中通快运",
+		"localCode": "DF0025",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "5761883760363F2C896AF3695B54F336",
+		"expressName": "山东代发：临沂百世1（京东）",
+		"localCode": "DF0026",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "B63A67DADB4C3539A4D1C6CDA5E430E3",
+		"expressName": "山东代发：顺心捷达",
+		"localCode": "DF0027",
+		"taobaoCode": "DISTRIBUTOR_13484485"
+	},
+	{
+		"expressID": "E563B0A54C1D37D38A38355A6990E2B2",
+		"expressName": "山东代发：创意邮政拼多多",
+		"localCode": "DF0028",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "13ABCB8A6F0A389DB062C0B27C8A5EF1",
+		"expressName": "山东代发：优速",
+		"localCode": "DF0029",
+		"taobaoCode": "UC"
+	},
+	{
+		"expressID": "33591960BF143CFAB6811FCB1EC13168",
+		"expressName": "代发：凯顺邮政",
+		"localCode": "DF0030",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "744A9E58A16231508C875D76D4B41411",
+		"expressName": "代发：康杭圆通",
+		"localCode": "DF0031",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "66B3121C11233FBCA5BC67515F75F325",
+		"expressName": "代发：启泰百世",
+		"localCode": "DF0032",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "968746518C023BF2A32E7F23B703DA3B",
+		"expressName": "代发：启泰韵达",
+		"localCode": "DF0033",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "5D467106A2E53B86A64F97B2A9CB8E85",
+		"expressName": "代发：常宏韵达",
+		"localCode": "DF0034",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "4C6E6E1503323FD1A9737FD122E06CB8",
+		"expressName": "代发：常宏百世",
+		"localCode": "DF0035",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "D0CFA8B9CEA0333C97DB839CC4C148C1",
+		"expressName": "代发：常宏中通",
+		"localCode": "DF0036",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "1D61E4050FFD3D3AB9DAE4D28765974C",
+		"expressName": "代发：常宏顺丰",
+		"localCode": "DF0037",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "D3F3464D45FB393B8F83A557A72E6DD8",
+		"expressName": "山东代发：临沂百世2拼多多",
+		"localCode": "DF0038",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "4326D94FA5ED33C4B943D53081994EAC",
+		"expressName": "代发：康行圆通（拼多多）",
+		"localCode": "DF0039",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "B75CBC300E883CB793DD207E6A178163",
+		"expressName": "代发：康杭百世",
+		"localCode": "DF0040",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2B674D2F1334348F8C8F4ED31E3E58C6",
+		"expressName": "山东代发：京东",
+		"localCode": "DF0041",
+		"taobaoCode": "其他"
+	},
+	{
+		"expressID": "3C56B0EBB24F3D6D85BD3F2CD936A515",
+		"expressName": "山东代发：极兔快递",
+		"localCode": "DF0042",
+		"taobaoCode": "JTSD"
+	},
+	{
+		"expressID": "FF8AC91847B33E6BB234703F3B3F8321",
+		"expressName": "山东代发：壹米滴答",
+		"localCode": "DF0043",
+		"taobaoCode": "2744832184_543"
+	},
+	{
+		"expressID": "C3844CA9EDE03DF5A11B1B33D7BC131A",
+		"expressName": "山东代发：徐州百世",
+		"localCode": "DF0044",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "6D2DAAFEE88F3920915F6208C9E9E5DC",
+		"expressName": "代发：康杭百世配件",
+		"localCode": "DF0045",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "9DE458D867743D27B39DFA9A823E1F5E",
+		"expressName": "山东代发：临沂邮政（天猫）",
+		"localCode": "DF0046",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "A2A529302E7233AB814C3DA847CB197F",
+		"expressName": "山东代发：临沂韵达2",
+		"localCode": "DF0047",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "B462CF7049E73416B64C5EC6DF3CBD6C",
+		"expressName": "山东代发：临沂韵达2（拼多多）",
+		"localCode": "DF0048",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D3E2E8AAE1333742B22FE94FAC375CBC",
+		"expressName": "山东批货物流",
+		"localCode": "DF0049",
+		"taobaoCode": "ZJS"
+	},
+	{
+		"expressID": "24D35BC35094323D9440FD520DBB526B",
+		"expressName": "山东代发：临沂百世3",
+		"localCode": "DF0050",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "C91A81ECBCA63FA0A3787E3901CCD163",
+		"expressName": "山东代发：临沂百世3（拼多多）",
+		"localCode": "DF0051",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "725A9A2C83713E759095B863C7E12DDD",
+		"expressName": "山东代发：百世快运",
+		"localCode": "DF0052",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "8AC845A7EE773862A1937F3B9D77A319",
+		"expressName": "山东代发：金信德邦",
+		"localCode": "DF0054",
+		"taobaoCode": "DBL"
+	},
+	{
+		"expressID": "DF5B0D5B4BC534AC9DD5A18B555DCBEB",
+		"expressName": "山东代发：临沂韵达3",
+		"localCode": "DF0055",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "5929856C0EDB383ABA312A006880F19C",
+		"expressName": "山东代发：临沂邮政（拼多多）",
+		"localCode": "DF0056",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "B90C86F1F1A73AA18737C458B9D78271",
+		"expressName": "山东代发：临沂韵达3（拼多多）",
+		"localCode": "DF0057",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "70EF95C4319633439BAB39BFFEB56CFC",
+		"expressName": "山东代发：江樊韵达（天猫）",
+		"localCode": "DF0058",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "F6D542F178583CC18E58708D0E76CCDE",
+		"expressName": "代发：康行圆通（京东）",
+		"localCode": "DF0059",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "65A4F865F8E23AE19EAC458AC28AEB69",
+		"expressName": "山东代发：江樊韵达（拼多多）",
+		"localCode": "DF0060",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D43B897EE9803868858E122750EAADA1",
+		"expressName": "山东代发：京广速递",
+		"localCode": "DF0061",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "8BCD3DD03DA534FBAAEE46EE39E5DE40",
+		"expressName": "山东代发：临沂百世4",
+		"localCode": "DF0062",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2B8D4958481E3A1EB02B99D4A7A04BD0",
+		"expressName": "山东代发：临沂百世4（拼多多）",
+		"localCode": "DF00621",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "AE5821E8EFDA365C90B55B52C875862C",
+		"expressName": "山东代发：临沂韵达4",
+		"localCode": "DF0063",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "9DB9A86FB4BC36B882DE8282CDE34C82",
+		"expressName": "山东代发：临沂韵达4（拼多多）",
+		"localCode": "DF00631",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "08E61AE64D923F3F82C4AC78436059DF",
+		"expressName": "山东代发：吉曼诗中通",
+		"localCode": "DF0064",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "798C8758CB7B3A75B261D8FDC8E340EF",
+		"expressName": "山东代发：吉曼诗中通（PDD）",
+		"localCode": "DF00641",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "7E912354567A3F7F9274A36CE0B8B048",
+		"expressName": "山东代发：吉曼诗申通",
+		"localCode": "DF0065",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "46DB282AF45C37BFA23731646DFB64FB",
+		"expressName": "山东代发：吉曼诗申通（PDD）",
+		"localCode": "DF00651",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "878720827231358491EB5592D662DB6F",
+		"expressName": "山东代发：EMS",
+		"localCode": "DF0066",
+		"taobaoCode": "EMS"
+	},
+	{
+		"expressID": "6C9FA3C2CA55388FA9B8052201CF7E1F",
+		"expressName": "代发：康杭邮政",
+		"localCode": "DF0077",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "195C3AF135DC3563834AF26A28217535",
+		"expressName": "代发：木昇韵达",
+		"localCode": "DF0080",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "A8BB6557A399357BB8DFD2FE26B491EE",
+		"expressName": "代发：木昇韵达（京东）",
+		"localCode": "DF0081",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "9795EE0B2B313632A9FA952F1CF4ABC6",
+		"expressName": "代发：木昇韵达（拼多多）",
+		"localCode": "DF0082",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "C4BC41E59A4337C2A85767102532E791",
+		"expressName": "代发：木昇顺丰",
+		"localCode": "DF0083",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "0E81193D69C733F9A42784C820A96025",
+		"expressName": "代发：睢宁百世快运",
+		"localCode": "DF0090",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "53CCF45807A43F42BA19929916061475",
+		"expressName": "代发：睢宁百世快运（拼多多）",
+		"localCode": "DF0091",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "BFABA6F568263C26A318125011704F82",
+		"expressName": "代发：仟约安能",
+		"localCode": "DF0101",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "9A9B2A2173E430EB92DBD9D691B44500",
+		"expressName": "代发：啊飘飘圆通（京东）",
+		"localCode": "DF012332",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "F15FF98B449336FC8BAD1FA08B97CBDB",
+		"expressName": "代发：胡晓伟德邦",
+		"localCode": "DF012345",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "A79247531A0B3209A434F954482C554D",
+		"expressName": "代发：森然中通",
+		"localCode": "DF055",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "E8631A7973793E609A31408C850BB6F8",
+		"expressName": "代发：森然安能",
+		"localCode": "DF056",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "589F836A1D2F338986687F440CCE4C1E",
+		"expressName": "代发：森然顺心快运",
+		"localCode": "DF057",
+		"taobaoCode": "DISTRIBUTOR_13484485"
+	},
+	{
+		"expressID": "B29D9DB29E963C56ADBE02669A5F36D9",
+		"expressName": "代发：绘梦百世（拼多多）",
+		"localCode": "DF098",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "32E19F810B0C3C5CB462152F0870F199",
+		"expressName": "代发：绘梦百世（天猫）",
+		"localCode": "DF099",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "4F2B0C303D8E31B19EA32D61E1652A16",
+		"expressName": "代发：大王安能",
+		"localCode": "DF0999",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "591BE48C1A4F326C95EE15838B8CA3D0",
+		"expressName": "代发：鑫乐韵达",
+		"localCode": "DF123123",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "17D943558BEF35C9B84BF38CDE57E353",
+		"expressName": "代发：鑫乐申通",
+		"localCode": "DF123456",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "664E56175CBB3D248CB75881DCB709A6",
+		"expressName": "代发：啊飘飘圆通",
+		"localCode": "DF321321",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "D8F55FFEBDDF38B89BA9B35ED43EA8A9",
+		"expressName": "代发：啊飘飘圆通（拼多多）",
+		"localCode": "DF321654",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "1A6C59C59CCB322FBE908B78A93BDF58",
+		"expressName": "代发：西马仑安能",
+		"localCode": "DF555",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "F8C4EAA759E53D16B8C98406AB31CEC5",
+		"expressName": "代发：金猫中通",
+		"localCode": "DF987",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "86E90CC4AD773D1BA27EA93071B26912",
+		"expressName": "代发：福莱胜百世",
+		"localCode": "DFBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3B87948B93C33224839FFA4910A9E2E5",
+		"expressName": "代发：沙县德邦",
+		"localCode": "DFDB",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "1BD07D5362F6380288B7D8098C070A88",
+		"expressName": "代发：耀凯德邦",
+		"localCode": "DFDB05",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "670D005774833B83BCD4BA8416321CCF",
+		"expressName": "代发：迎发德邦",
+		"localCode": "DFDBK",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "E55B7C5F546C32DB8296573180A6EAC5",
+		"expressName": "代发：柏瑞朗德邦",
+		"localCode": "DFDBKD",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "602E9D0B9F9B30769B7644C2B4B44391",
+		"expressName": "代发：天瑞德邦",
+		"localCode": "DFDBKD05",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "08C40C015EBC3718B21964A303F4101A",
+		"expressName": "代发：大桐百世",
+		"localCode": "DFDTBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "58EE46D0FD3A31CE87B1ED91D55488A2",
+		"expressName": "代发：大桐顺丰",
+		"localCode": "DFDTSF",
+		"taobaoCode": "FENGWANG"
+	},
+	{
+		"expressID": "E403DEE4866E36DD9099EF6877878F08",
+		"expressName": "代发：绘梦中通",
+		"localCode": "DFHM01",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "960DDD34550639A9B4E753E1FA6AA951",
+		"expressName": "代发：金猫优速",
+		"localCode": "DFJM97",
+		"taobaoCode": "UC"
+	},
+	{
+		"expressID": "36B4C5622F3931F3804025BC40B46F1F",
+		"expressName": "代发：金猫邮政小包",
+		"localCode": "DFJM98",
+		"taobaoCode": "5000000007756"
+	},
+	{
+		"expressID": "980D57F618C93B8A913978F1BF489ED3",
+		"expressName": "代发：金猫申通",
+		"localCode": "DFJM99",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "7A4064A79D2239B2AE602F2AA9308C1D",
+		"expressName": "代发：金猫圆通",
+		"localCode": "DFJMYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "4DAF40AFA9D1302FA7EC18508746A796",
+		"expressName": "代发：名屋居德邦",
+		"localCode": "DFMWJ",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "A44EFADAEE773EB2A659EBDC55BC9DA5",
+		"expressName": "代发：啊飘飘邮政",
+		"localCode": "DFPOSTB01",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "36DC3917A5F7308A96A6B540F79CB1D7",
+		"expressName": "代发：啊飘飘邮政（拼多多）",
+		"localCode": "DFPOSTB02",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "8B533EC0E775330EA352C1C9FA19AFCE",
+		"expressName": "代发：啊飘飘邮政（京东）",
+		"localCode": "DFPOSTB03",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "FFE856DA071734E5837502FAB7F7E29B",
+		"expressName": "代发：绘梦顺丰",
+		"localCode": "DFSF099",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "946EF4166EEE3A3A9C011273BDBB3D9F",
+		"expressName": "代发：沙县申通",
+		"localCode": "DFSTO",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "7D38857F9F1437A385EF418CD52888A2",
+		"expressName": "代发：沙县申通拼多多",
+		"localCode": "DFSTO01",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "E62762AAA637374ABCBCF2646953A6B1",
+		"expressName": "代发：啊飘飘申通",
+		"localCode": "DFSTO011",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "AF380154FF3837DD9FF3D5AAD5646C03",
+		"expressName": "代发：啊飘飘申通（拼多多）",
+		"localCode": "DFSTO015",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "CAFC60CE34773701B1FCF89DCAF183DD",
+		"expressName": "代发：福莱胜天天",
+		"localCode": "DFTT",
+		"taobaoCode": "TTKDEX"
+	},
+	{
+		"expressID": "250E8CDAC15C387FA4B36438468D455D",
+		"expressName": " 天天快递",
+		"localCode": "DFTT01",
+		"taobaoCode": "TTKDEX"
+	},
+	{
+		"expressID": "144FD34E04493B2BB78E44AC67ABEA6B",
+		"expressName": "天天快递（拼多多）",
+		"localCode": "DFTT02",
+		"taobaoCode": "TTKDEX"
+	},
+	{
+		"expressID": "0ABB1B7571B730129D582E90CF92DC4C",
+		"expressName": "代发：沙县天天",
+		"localCode": "DFTTKD",
+		"taobaoCode": "TTKDEX"
+	},
+	{
+		"expressID": "C9C12B72B1B231F09B918BF8CE061286",
+		"expressName": "代发：星优申通",
+		"localCode": "DFXYST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "D6D01E9A741A33F9A51644E6A3BA9FF6",
+		"expressName": "代发：星优邮政",
+		"localCode": "DFXYYZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "AFA5D2394ACE334AA3C6382D1B852130",
+		"expressName": "代发：星优中通",
+		"localCode": "DFXYZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "DC2F3B2C8F593EE1A5023C0AAADE581F",
+		"expressName": "代发：越鼎安能",
+		"localCode": "DFYDAN",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "55BD1924F60A377B89F86C9B3E0076F4",
+		"expressName": "代发：越鼎百世",
+		"localCode": "DFYDBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "93C0B552AD2E376A846B252EFBF27484",
+		"expressName": "代发：惠众圆通（京东）",
+		"localCode": "DFYT97",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "125B4D34C1C7320D9855E3E6A45055EC",
+		"expressName": "代发：惠众圆通（拼多多）",
+		"localCode": "DFYT98",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "F16D76FAB6C7314F916B3800781EF6EE",
+		"expressName": "代发：惠众圆通（天猫）",
+		"localCode": "DFYT99",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "F590725209673092A6F670426FE035D8",
+		"expressName": "代发：福莱胜韵达",
+		"localCode": "DFYUND",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "94483AE121633AA483E61AA606886589",
+		"expressName": "代发：雅心晴邮政",
+		"localCode": "DFYXQ01",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "720D1A0BEDA432EDBA22BD01C0123AAF",
+		"expressName": "代发：雅心晴京广快递",
+		"localCode": "DFYXQ02",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "C4ACA0B330AE30C5833760119D882FE5",
+		"expressName": "代发：中本邮政",
+		"localCode": "DFYZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "C547293B840C3EB498CB84BFB681BC34",
+		"expressName": "代发：星优韵达",
+		"localCode": "DFYZYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "688411622B9B3778860EF81938190265",
+		"expressName": "代发：沙县中通京东",
+		"localCode": "DFZT0003",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "A80B007B515D37C8815EC90398AB2C76",
+		"expressName": "代发：啊飘飘中通",
+		"localCode": "DFZT0005",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "DBC7379977C732CEBBD05E9C01F0800C",
+		"expressName": "代发：啊飘飘中通（拼多多）",
+		"localCode": "DFZT0006",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "EBEA05324E8B322EB7715DF2B8639FEE",
+		"expressName": "代发：啊飘飘中通（京东）",
+		"localCode": "DFZT0007",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "A785D2B5050F32E3ADFB262302F0DACF",
+		"expressName": "代发：沙县中通",
+		"localCode": "DFZT001",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "115BC7B3FC253B7AA27E0E0C36AE9F38",
+		"expressName": "代发：沙县中通拼多多",
+		"localCode": "DFZT002",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "EEE5532E4E13330CB7C7BDF4B43C5A0F",
+		"expressName": "代发：申威优速",
+		"localCode": "DFZT0098",
+		"taobaoCode": "UC"
+	},
+	{
+		"expressID": "2B9279B4858E37E791F267454C569D45",
+		"expressName": "代发：申威中通",
+		"localCode": "DFZT0099",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "818B9170787A3665842DA67C38DCBA06",
+		"expressName": "代发：帝图韵达",
+		"localCode": "DTYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "7BEA9132A9FD3D16897F41AC47AAC82E",
+		"expressName": "代发：大唐中通3",
+		"localCode": "DTZTSOT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "43D892D6CF903F6982F751E4BA324921",
+		"expressName": "代发：福莱胜申通",
+		"localCode": "FLSST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "647F63CE4A1736D0817958C187A7F9AF",
+		"expressName": "代发：福莱胜圆通",
+		"localCode": "FLSYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "D1E70C5701CF3597B52FDF5969810250",
+		"expressName": "代发：福莱胜邮政",
+		"localCode": "FLSYZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "ED8A42301FF7395CA60F9F56E3CC7356",
+		"expressName": "代发：福莱胜中通拼多多",
+		"localCode": "FLSZTKD",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "DB23214C7F5A314B96B8BF8496C755C6",
+		"expressName": "国通",
+		"localCode": "GT",
+		"taobaoCode": "GTO"
+	},
+	{
+		"expressID": "795187FDE5C337FC99FBBB2340297A4F",
+		"expressName": "孝感：韵达",
+		"localCode": "HBYD01",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "8755C9B6217A381093D02127E633854B",
+		"expressName": "华林代发：EMS",
+		"localCode": "HLDAF001",
+		"taobaoCode": "EMS"
+	},
+	{
+		"expressID": "A354A67184FE390B884C5A2EED8AF24C",
+		"expressName": "代发：华林申通",
+		"localCode": "HLST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "071456B532B13CA7AFDAC8CC9E23882A",
+		"expressName": "代发：华莱鑫百世",
+		"localCode": "HLXBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3140C314978C31AAB8EE3B6C89C6372B",
+		"expressName": "代发：华林韵达",
+		"localCode": "HLYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "51D75B4A43F83F30BDC95C6503C4EEF9",
+		"expressName": "代发：华莱鑫韵达",
+		"localCode": "HLYYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "2B80FDEADBFE356E85977D728C7B1E02",
+		"expressName": "代发：华林邮政",
+		"localCode": "HLYZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "0FB10E3B85E1378492BAB84C9638B8A0",
+		"expressName": "代发：华林邮政小件",
+		"localCode": "HLYZXJ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "C6C68F898535376AB78A297D3C20DF76",
+		"expressName": "代发：华林中通",
+		"localCode": "HLZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "A1EA5F5AFD873A03939D06FAFC0B256F",
+		"expressName": "代发：瀚明百世",
+		"localCode": "HMBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "264D27C49B853D8EA1A7D15E4A8CA48B",
+		"expressName": "代发：瀚明百世（拼）",
+		"localCode": "HMBS1",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "F6E1E25222533C7B8ACB6F925D8C27BB",
+		"expressName": "代发：瀚明申通",
+		"localCode": "HMST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "8CECCA8994E031269254CA18F595FF8D",
+		"expressName": "代发：瀚明申通（拼）",
+		"localCode": "HMST1",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "5E3A6DFDB3EA3B26A9320D47B199D4B4",
+		"expressName": "河南配件：雷格圆通",
+		"localCode": "HNPJ",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "0CE2A86F4D593EFEA41A6C43C5AB69E6",
+		"expressName": "河南配件：雷格配件（拼多多）",
+		"localCode": "HNPJ01",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "57A33DF486243D9DA584EA1BD6BFF664",
+		"expressName": "河南配件：雷格圆通（京东）",
+		"localCode": "HNPJ02",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "759AC775853837B29F35262E2BE2A15C",
+		"expressName": "常州配件：百世快递",
+		"localCode": "HTKY",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "BBDA0FA8112F30CE91899982DFD9F0D4",
+		"expressName": "常州：无锡百世1",
+		"localCode": "HTKY001",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3A9C18D935973ADF9117B34921BE9703",
+		"expressName": "孝感：百世快运",
+		"localCode": "HTKY002",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "9D2AD9886A3B3E82BB1EB3C3569D8484",
+		"expressName": "孝感：湖北百世",
+		"localCode": "HTKY01",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "EE26912AE5EB3CB4BA754CF6A05478E6",
+		"expressName": "常州：常州百世",
+		"localCode": "HTKY7",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2DDC71CA06173270995250093DB063BB",
+		"expressName": "常州：常州百世一区",
+		"localCode": "HTKY9",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "148DC490D110347C9C87FEFA866034CE",
+		"expressName": "代发：豪炫捷韵达",
+		"localCode": "HXJyd",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "245C02C6D9413E30A59892A35BE741B9",
+		"expressName": "代发：宏宇韵达",
+		"localCode": "HYYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "72A5668A12A838D58DA714E379A49292",
+		"expressName": "山东代发：江樊圆通（天猫）",
+		"localCode": "JFYT20210619",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "6122219C12DD3CBA81721D5B9F54233B",
+		"expressName": "山东代发：江樊圆通（拼多多）",
+		"localCode": "JFYT20210619PDD",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "14A4820A5F6334FC874AFFC9AA497FC4",
+		"expressName": "鑫诺翔：拼多多京广快递",
+		"localCode": "JGKD2",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "312937AB2DD83DF9B29D92930FA810EC",
+		"expressName": "代发：洁美韵达",
+		"localCode": "JMYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "03C203B0044E3C7EBD387C2EA7BDDD29",
+		"expressName": "代发：鑫诺翔京广快递",
+		"localCode": "LGKD",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "EE5F6F8CB1433BBD9105FD99557D5237",
+		"expressName": "山东代发：乐美顺丰",
+		"localCode": "LMSF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "50B8FE7CF2793FA7AC73B01D0875670D",
+		"expressName": "山东代发：乐美中通",
+		"localCode": "LMZT20210514",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "432E76F151F83E1595EF009205F7B066",
+		"expressName": "山东代发：临沂韵达5（天猫）",
+		"localCode": "LYYD20210511",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "60CCF8688C2D3523BFAC569075FD98BC",
+		"expressName": "山东代发：临沂韵达6（天猫）",
+		"localCode": "LYYD20210513",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "57FB0187684E3C818EC6466C48E572CF",
+		"expressName": "山东代发：临沂韵达7（天猫）",
+		"localCode": "LYYD20210619",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "450FFBD02D8031398EE0EA3115641D46",
+		"expressName": "山东代发：临沂韵达7（拼多多）",
+		"localCode": "LYYD20210619PDD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "0A1D234395E032C3A2A08F11FF1C2810",
+		"expressName": "山东代发：临沂韵达8（天猫）",
+		"localCode": "LYYD20210626",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D7B85AC462F83FE8A6DC4C59131AEFFF",
+		"expressName": "山东代发：临沂韵达9（天猫）",
+		"localCode": "LYYD20210712",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "F4AABA7A91923B3D994883A0CBAFB5CE",
+		"expressName": "山东代发：临沂韵达8（拼多多）",
+		"localCode": "LYYDPDD20210626",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "1150734A97B73CCABF0F36D33FD042B8",
+		"expressName": "山东代发：临沂圆通（天猫）",
+		"localCode": "LYYT20210712",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "C643A6F8E9FA3D4F9D4A45610B17E055",
+		"expressName": "山东代发：临沂圆通（拼多多）",
+		"localCode": "LYYTPDD0712",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "9AB9753C092F307FBC10E240B9A4B06D",
+		"expressName": "山东代发：莱州德邦",
+		"localCode": "LZDB20210715",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "3286191F5740327492A3F01D85C25E40",
+		"expressName": "木喆邮政",
+		"localCode": "MZYZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "8CE9231976C0329580EC2EF1717567E3",
+		"expressName": "代发：伟园韵达3",
+		"localCode": "PDDYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "2D01607DB6E83E06B9A04BAC6849E59B",
+		"expressName": "代发：菜鸟邮政",
+		"localCode": "POST123",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "845398D3F8B534189204894D93F84C4E",
+		"expressName": "常州：邮政小包",
+		"localCode": "POSTB001",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "4F3A393D3ECF31C2A1DEC0FBD15D5D4B",
+		"expressName": "邮政小包（拼多多）",
+		"localCode": "POSTB002",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "20CDFBB581CA3CDD92F635CF608FA3A3",
+		"expressName": "邮政小包（天猫）",
+		"localCode": "POSTB009",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "9EBC6E9DC0B538AD922138B8CCC2F73C",
+		"expressName": "常州：上海邮政小包",
+		"localCode": "POSTB05",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "A76902D81EFE3352B3DC49D946593203",
+		"expressName": "邮政小包（京东）",
+		"localCode": "POSTB06",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "13BE66E46BDB321382622798108E52EB",
+		"expressName": "代发：旗木堂顺丰",
+		"localCode": "QMTSF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "0EC3363BDE8431AAB6BF96761054E9E9",
+		"expressName": "代发：瑞邦百世",
+		"localCode": "RBKY",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "72BF2D497AB636BD99E223C1A69A6C30",
+		"expressName": "代发：瑞邦韵达",
+		"localCode": "RBYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "5836F8D25A953AD8AC7AF8F6E087339C",
+		"expressName": "代发：瑞邦配件韵达",
+		"localCode": "RBYD1",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "ED33C05B5568316F9699A26042D37B6A",
+		"expressName": "代发：瑞邦中通",
+		"localCode": "RBZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "4C88D151E3833BC48DA093D279EF7964",
+		"expressName": "山东安能快运",
+		"localCode": "SDANKY",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "9B422C68161136F5ABAA7FD09BFF6308",
+		"expressName": "鑫诺翔：京东京广快递",
+		"localCode": "SDCXNMKL",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "8E9B95D933DB37BE8EA1F51996AD4F9C",
+		"expressName": "山东德邦快运",
+		"localCode": "SDDBKY",
+		"taobaoCode": "DISTRIBUTOR_13327526"
+	},
+	{
+		"expressID": "71D0C821EE2F3DDDA8DF444F11B62C8D",
+		"expressName": "山东菜鸟汇通",
+		"localCode": "SDHT",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "3395F3876D22376E921D442044D8968B",
+		"expressName": "山东极兔速递",
+		"localCode": "SDJT",
+		"taobaoCode": "JTSD"
+	},
+	{
+		"expressID": "5AB51071EEA83C48BE201CB244C14FBB",
+		"expressName": "山东顺丰",
+		"localCode": "SDSF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "3BE70A23E495302E84F23F163EB5E64E",
+		"expressName": "山东天地华宇",
+		"localCode": "SDTDHY",
+		"taobaoCode": "HOAU"
+	},
+	{
+		"expressID": "3A13238765993539A0434FD16DB113A7",
+		"expressName": "山东中通快运",
+		"localCode": "SDZTKY",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "D3B26E7847B031C39EDED320C0FF39E6",
+		"expressName": "常州：顺丰普运--黑吉辽",
+		"localCode": "SF0004",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "B486D8813284315F9F35C4DB26C246A0",
+		"expressName": "常州：顺丰普运--云黑",
+		"localCode": "SF0005",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "24E8981BAA7F348D92FED5EE22CCF8AA",
+		"expressName": "代发：山氏顺丰",
+		"localCode": "SF00053",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "BB8FC29E894D3C2E90C60CA3C6037D58",
+		"expressName": "代发：雅心晴顺丰",
+		"localCode": "SF00055",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "006A456781C33CEAAB8024E266E7B62F",
+		"expressName": "常州：顺丰普运--云南",
+		"localCode": "SF0007",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "C97C223665123669832DF2C4B5A2B466",
+		"expressName": "常州：顺丰普运--贵州",
+		"localCode": "SF0008",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "8C81EB3F01613ADD9746DE3F361747DD",
+		"expressName": "常州：顺丰特惠大件",
+		"localCode": "SF0011",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "AAF5A5916A05358AB160251166507830",
+		"expressName": "常州：顺丰普运--云贵川",
+		"localCode": "SF0012",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "5713F79F4A3F39DCB4D9442923B0CA97",
+		"expressName": "常州：顺丰专线普运混发",
+		"localCode": "SF0013",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "978709CFF1DB30209797C3200276AAA6",
+		"expressName": "常州：顺丰普运--京津冀",
+		"localCode": "SF0015",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "C5C5F4423962375DB3C764E62B364CF8",
+		"expressName": "常州：顺丰普运--四川",
+		"localCode": "SF0016",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "3CE6E018CF0337EAB0CD1DC6F07BD69E",
+		"expressName": "常州：顺丰专线普运",
+		"localCode": "SF0020",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "07D540A9A35833AEA3BE111DE7553D95",
+		"expressName": "常州：顺丰专线普运山东",
+		"localCode": "SF0025",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "D6254C8AEE033C348451D497CF80DBEE",
+		"expressName": "常州：顺丰普运--广东",
+		"localCode": "SF006",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "987257126A773EA7919919ED555BC482",
+		"expressName": "常州：拼多多SF普运",
+		"localCode": "SF007",
+		"taobaoCode": "DISTRIBUTOR_12005087"
+	},
+	{
+		"expressID": "B3C8142B091E3DDDA67A81CEB3E084D5",
+		"expressName": "常州：拼多多SF特惠",
+		"localCode": "SF009",
+		"taobaoCode": "DISTRIBUTOR_12005087"
+	},
+	{
+		"expressID": "99D478652B7030A0A3E4CFE15FAC5A2D",
+		"expressName": "代发：天瑞顺丰",
+		"localCode": "SF10005",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "2DE5BEDE246A3E3D9A48949796E6CE53",
+		"expressName": "常州：拼多SF普运（京津冀）",
+		"localCode": "SF13",
+		"taobaoCode": "DISTRIBUTOR_12005087"
+	},
+	{
+		"expressID": "F2A0CE84D87A3AF890403BC41CBA89E1",
+		"expressName": "胜芳：河北中通",
+		"localCode": "SFHBZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "0E8E106998A434AE84FC067AA27212A1",
+		"expressName": "胜芳：河北圆通",
+		"localCode": "SFYT1",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "F33C453F8DF037E4B0261A49629B0257",
+		"expressName": "胜芳：中通",
+		"localCode": "SFZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "92B2F66E16333FC5BC3B90BB6EE35010",
+		"expressName": "河北代发：菜鸟顺丰",
+		"localCode": "SHUNF123",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "57C20137FD7D3F81AC385734B061C36F",
+		"expressName": "常州：常州申通",
+		"localCode": "STO001",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "7D81021213783EC2BFB88CF49CB017C4",
+		"expressName": "常州：常州申通一区",
+		"localCode": "STO003",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "27AE987AD60031B3AF271254E0C00AC9",
+		"expressName": "常州：常州申通二区",
+		"localCode": "STO004",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "E9B9BCF8782A3257837481FF1BB91DA5",
+		"expressName": "孝感：湖北申通",
+		"localCode": "STO02",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "FA78508A7D5F3E78B78DB8A1EB72E520",
+		"expressName": "胜芳：申通快递",
+		"localCode": "STO11",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "AC17F418119531C4A41A9227F4CB313A",
+		"expressName": "沭阳：百世",
+		"localCode": "SYBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "404EBEBB2DD339F1A7DE36CC11A6FCE9",
+		"expressName": "沭阳：德邦",
+		"localCode": "SYDP",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "FE3FC2EABCAC3C55A81B649190A1BCF5",
+		"expressName": "沭阳：拼多多DP",
+		"localCode": "SYDP1",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "F5D13564BBE53B87B32154CEBE413622",
+		"expressName": "沭阳：邮政",
+		"localCode": "SYEMS",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "D3A84905945E3AA8832F296D6334D31E",
+		"expressName": "沭阳：申通",
+		"localCode": "SYST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "8215071FFDA33A16B3D46E22BEB78B7B",
+		"expressName": "沭阳：圆通",
+		"localCode": "SYYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "55CB4128C84A36A7A9B29A500723C81C",
+		"expressName": "代发：天旺顺心捷达",
+		"localCode": "TWSXJD",
+		"taobaoCode": "DISTRIBUTOR_13484485"
+	},
+	{
+		"expressID": "65D8A3EA41C3367AB3F74C324D5D26AC",
+		"expressName": "代发：天旺中通",
+		"localCode": "TWZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "21BBB247E7E23EDDB25163D1710BC74B",
+		"expressName": "代发：天旺德邦",
+		"localCode": "TWdb",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "C94CF53309DF3773A78C7E1FDCF5BF1C",
+		"expressName": "代发：文安百世",
+		"localCode": "WAbs",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "B91D9336A611373382028CF53D91E044",
+		"expressName": "代发：维士兰中通",
+		"localCode": "WSLZT",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "F9D94D98A6223412985EDB02C6492C0D",
+		"expressName": "河北代发：菜鸟百世快递",
+		"localCode": "XBZ123",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "53247B790AD53975B2836450EEEC64F0",
+		"expressName": "代发：驰旭圆通",
+		"localCode": "XCYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "167ACB195B5A3572AAEDB03AD7BD60CC",
+		"expressName": "孝感：新圆通",
+		"localCode": "XGXYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "547898177A623554A491A65D24295F0F",
+		"expressName": "山东代发：喜勒百世",
+		"localCode": "XLBS",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "524C3368EF4B358D9D28062AA6A3B088",
+		"expressName": "山东代发：喜勒百世2",
+		"localCode": "XLBS20210703",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "FCBA6E07C41D3E5DAF36BB6BDAE66797",
+		"expressName": "山东代发：喜勒百世3",
+		"localCode": "XLBS20210706",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "BC29F5B7AA7B3DF3BDE59B4BD994A111",
+		"expressName": "山东代发：喜勒百世（拼多多）",
+		"localCode": "XLBSP0520",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "FE14ECC85A0F377288B216E0F5483AD6",
+		"expressName": "山东代发：喜勒申通",
+		"localCode": "XLST20210705",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "0C678CABAA7E3F92A8683EFBC2BF3172",
+		"expressName": "山东代发：喜勒圆通2（天猫）",
+		"localCode": "XLYT20210512",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "9575BB56E0443A0D8411A2707E19832C",
+		"expressName": "山东代发：喜勒圆通2（拼多多）",
+		"localCode": "XLYTP",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "33B06445E9D134A09261691474CA11A1",
+		"expressName": "山东代发：喜勒中通",
+		"localCode": "XLZT20210628",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "3833EC45C0F73DE0B2BBFEC9BF1C8F73",
+		"expressName": "山东代发：喜勒中通（拼多多）",
+		"localCode": "XLZTPDD20210628",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "7A98EAD5DA9B303381980F0DA41DA0D5",
+		"expressName": "鑫诺翔申通",
+		"localCode": "XNST",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "CA30F4CF09B73EFB80B384E731D7D348",
+		"expressName": "代发仓:鑫诺翔快运",
+		"localCode": "XNXKUY",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "C76330B7E202339D87571B963E50E33A",
+		"expressName": "代发：鑫诺翔壹米",
+		"localCode": "XNXYM",
+		"taobaoCode": "2744832184_543"
+	},
+	{
+		"expressID": "BAF970F3901C3BA6A871CE3554AEA7A9",
+		"expressName": "山东代发：向荣百世",
+		"localCode": "XRBS20210619",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "C9D86BFB635B3470A77EA20DE6CBFAE2",
+		"expressName": "山东代发：向荣邮政",
+		"localCode": "XRYZ20210628",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "36338AF4380C37DF9740F357047CCFE4",
+		"expressName": "徐州配件：圆通",
+		"localCode": "XZ0000",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "65A4DDCBAFA33FAABF1EB94931555965",
+		"expressName": "徐州配件拼多多：圆通",
+		"localCode": "XZ0001",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "E29902AAFAE033B5A45D19C2DA32E836",
+		"expressName": "徐州：安能",
+		"localCode": "XZANWL",
+		"taobaoCode": "DISTRIBUTOR_12017865"
+	},
+	{
+		"expressID": "63BB27A2000C3C2AA296D834E3B646FA",
+		"expressName": "代发：拼多多百世快递",
+		"localCode": "XZB200",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "948F1EB17B3B38AB98BD901B965100D5",
+		"expressName": "徐州：百世（活动）",
+		"localCode": "XZBSHD",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "0EBC35B71F983424A9BF57D84E500454",
+		"expressName": "徐州：百世快递",
+		"localCode": "XZBSKD",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "9D995C27752B3F55B2D9F32F04AAE85B",
+		"expressName": "徐州：百世快运",
+		"localCode": "XZBSKY",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "A328F7D5363A3F448764BBECF7939C75",
+		"expressName": "徐州：百世快运小件",
+		"localCode": "XZBSKY1",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "E7592E5B182233F499957569B0DCCC33",
+		"expressName": "徐州",
+		"localCode": "XZDP",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "43A324968EB33848AF5234168BC7C9BA",
+		"expressName": "徐州：拼多多DP",
+		"localCode": "XZDP1",
+		"taobaoCode": "DBKD"
+	},
+	{
+		"expressID": "2B21983CA0CF382F83185A9A31FBB925",
+		"expressName": "徐州配件：百世快运",
+		"localCode": "XZPJBSKY",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "639DB8E8CD2A32DA8347F6A72AFCBB80",
+		"expressName": "徐州：壹米滴答",
+		"localCode": "XZYMDD",
+		"taobaoCode": "2744832184_543"
+	},
+	{
+		"expressID": "575778C7DBF2375282331F1A874B8C82",
+		"expressName": "徐州：圆通",
+		"localCode": "XZYTKD",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "B13C95F4F6973ECDAADD051423AFD48D",
+		"expressName": "徐州：中通快运",
+		"localCode": "XZZTKY",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "208ECBD2D2C63294A540F43177EACBEC",
+		"expressName": "代发：勇博圆通",
+		"localCode": "YBYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "BED8EC95CEFD38F1BE61BEF73C79E260",
+		"expressName": "山东:韵达快运",
+		"localCode": "YDKY",
+		"taobaoCode": "DISTRIBUTOR_13421750"
+	},
+	{
+		"expressID": "EFF0492923A338729BD28F054CD3A985",
+		"expressName": "代发：越鼑圆通2",
+		"localCode": "YDYT",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "1BEE03A9738C3E35BCDBE602DA550D99",
+		"expressName": "代发：越鼑圆通1",
+		"localCode": "YDYT1",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "53E409DCB99536A8AD2AB3072D3C3BD9",
+		"expressName": "代发：越鼑圆通3",
+		"localCode": "YDYT3",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "2BB9E578EA2A3D7F9086E3586233E768",
+		"expressName": "代发：煜鑫韵达",
+		"localCode": "YLYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D0ABF0C0D99D3C45AD957055B0072DE9",
+		"expressName": "代发：雅心晴圆通",
+		"localCode": "YT00052",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "A6879619AFBB31528FB8AB795FB08EDE",
+		"expressName": "安徽：圆通",
+		"localCode": "YT00099",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "777182B13F7231039824738A1A1CF054",
+		"expressName": "代发：菜鸟圆通",
+		"localCode": "YT100",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "3FE7591AB1893BF7ADD8E7B420CB520F",
+		"expressName": "孝感：湖北圆通",
+		"localCode": "YTO006",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "4F6180D06E6032C0AA51E35F1EE97099",
+		"expressName": "徐州圆通",
+		"localCode": "YTO5",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "9564F947A9923D9C8A84201D068115F8",
+		"expressName": "代发：越鼑韵达3",
+		"localCode": "YUEDING",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "76FB37530DC330868091250CB20DC2A6",
+		"expressName": "代发：越鼑韵达2",
+		"localCode": "YUEDINGYUBND",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "90068F2294543F0A887A4926E1CE9769",
+		"expressName": "代发：越鼑顺丰",
+		"localCode": "YUEDSF",
+		"taobaoCode": "SF"
+	},
+	{
+		"expressID": "6DFDACD24A1D387B9307192E0A54C0F3",
+		"expressName": "代发：越鼑韵达1",
+		"localCode": "YUEDYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "76FC7C701E1633C5A5107036766DCDE2",
+		"expressName": "越鼑：韵达（大）",
+		"localCode": "YUEDYUND",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "8DC77EA4D29F352B8A5FDD62C4A11A3D",
+		"expressName": "代发：伟圆韵达2",
+		"localCode": "YUND",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "5401AF144E3A341CA8785B804945B4BD",
+		"expressName": "胜芳：韵达快递",
+		"localCode": "YUND1",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "69671C8B00BA3EF5B651C778CA98ADBD",
+		"expressName": "代发：菜鸟韵达快递",
+		"localCode": "YUND100",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D26EE2D526E337D4B83F69443D138505",
+		"expressName": "胜芳韵达大件",
+		"localCode": "YUND2",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "08D7557971F33A66AACA19642A32462D",
+		"expressName": "河北代发：菜鸟韵达快递",
+		"localCode": "YUNDA123",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "362B0656C7393BB49B31A781C9FF9C96",
+		"expressName": "河北代发：京东韵达快递",
+		"localCode": "YUNDA13",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "D0497B850AB63BB486733D9AF51E362D",
+		"expressName": "韵达快递（天猫）",
+		"localCode": "YUNDA20",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "45B8CD1251BE338A941BA28FF51008BE",
+		"expressName": "代发：拼多多韵达快递",
+		"localCode": "YUNDA200",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "08330FD2968D3147B7256F083BBA1311",
+		"expressName": "韵达快递（拼多多）",
+		"localCode": "YUNDA21",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "245CC8C1536F3D2EBFF21E534984E764",
+		"expressName": "韵达快递（京东）",
+		"localCode": "YUNDA22",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "95F9BDD270D33ABC8DF853FCA7F633B0",
+		"expressName": "常州：韵达快递",
+		"localCode": "YUNDA3",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "C62C121F04693372BF84A6AA8B2FA406",
+		"expressName": "代发：京东韵达快递",
+		"localCode": "YUNDA300",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "705DD20AE19E3F139B6A6FE254CBA6BA",
+		"expressName": "胜芳配件：韵达",
+		"localCode": "YUNDPJ",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "7AD2092764E739919229E1CF603BE3DB",
+		"expressName": "常宏：邮政",
+		"localCode": "YZ",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "98DE01BFBC013A06B3F9B30C9B8B5F59",
+		"expressName": "常宏拼多多：邮政",
+		"localCode": "YZCHX",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "A3A45FD292203224BF8414F23D697D7F",
+		"expressName": "常宏京东：邮政",
+		"localCode": "YZJD",
+		"taobaoCode": "POSTB"
+	},
+	{
+		"expressID": "0ECC7D0882103B0C85261A45A2D00D72",
+		"expressName": "代发：怡之然韵达",
+		"localCode": "YZRYD",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "76059B181BFC316595E8B201CBEB5283",
+		"expressName": "代发：中胜韵达",
+		"localCode": "ZSyd",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "C6592726E7543C9D9C10D5A24F36E5E2",
+		"expressName": "河北代发：菜鸟中通",
+		"localCode": "ZT123",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "1978D89C7B00337D80B7F6AAFCE0E003",
+		"expressName": "代发：菜鸟笙茂中通",
+		"localCode": "ZT251",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "93DD2F9C2E5D341F95B05469671DDC76",
+		"expressName": "河北代发：京东中通",
+		"localCode": "ZT321",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "8133422C7490378697A114B63190E9AA",
+		"expressName": "代发：大唐中通",
+		"localCode": "ZTDF",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "000460AA32D63665B47F04C11E86FDD5",
+		"expressName": "常州：常州中通三区",
+		"localCode": "ZTO0002",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "AFE6E345DD3E3BAE833EF23CD732EA5E",
+		"expressName": "常州：常州中通二区",
+		"localCode": "ZTO0003",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "05256AE34DC532BA86DC5C160F24F996",
+		"expressName": "常州：常州中通",
+		"localCode": "ZTO001",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "6CCA57A180FD3FB085D23993D87DE190",
+		"expressName": "常州：安吉中通",
+		"localCode": "ZTO003",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "F3EB744DCD7633D4A3541506C3B6562E",
+		"expressName": "常州：广东中通",
+		"localCode": "ZTO004",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "83E997EAAE3331E6AA969A2FA11265DC",
+		"expressName": "常州：广东中通三区",
+		"localCode": "ZTO009",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "F5FC416F63ED306D917B2F4FFEEF5B74",
+		"expressName": "常州：菜鸟中通快运",
+		"localCode": "ZTOKY001",
+		"taobaoCode": "3108002701_1011"
+	},
+	{
+		"expressID": "E1DEE8B9F7AF34E1BB15E8FC59EE44EF",
+		"expressName": "安徽配件：圆通",
+		"localCode": "ahpj12975",
+		"taobaoCode": "YTO"
+	},
+	{
+		"expressID": "7BF96E5B59AA370F9D82E57382E5F213",
+		"expressName": "代发：宾城中通",
+		"localCode": "bczt",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "EAC7DA6CA6B237A889350294458ED161",
+		"expressName": "胜芳：百世配件",
+		"localCode": "bspj",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "2C0B842688553EE893CBCE332A62FABA",
+		"expressName": "奔腾代发：拼多多中通",
+		"localCode": "btzt1",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "1E91166B2EAC3413AA0434565A5BE1DB",
+		"expressName": "代发：帝图中通",
+		"localCode": "dtzt",
+		"taobaoCode": "ZTO"
+	},
+	{
+		"expressID": "AC25881D654335C4B061DC756E1876CC",
+		"expressName": "代发：宏煜京广快递",
+		"localCode": "hyjgkd",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "01416E31783D3866B82B079D274B4246",
+		"expressName": "代发：越鼑京广快递",
+		"localCode": "jgsd",
+		"taobaoCode": "DISTRIBUTOR_13462882"
+	},
+	{
+		"expressID": "9CF1E7A69B7730A1BE941809B52AF1DD",
+		"expressName": "鑫诺翔代发：拼多多申通",
+		"localCode": "pddst",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "7A993CA1E1DB3934B6FD12B67C32D7CC",
+		"expressName": "山东百世快运",
+		"localCode": "sdbsky",
+		"taobaoCode": "BESTQJT"
+	},
+	{
+		"expressID": "2F9D6978ABA73051A6C1F33ACF7CF85B",
+		"expressName": "山氏：京东快递",
+		"localCode": "ssjgsd",
+		"taobaoCode": "JDDJ"
+	},
+	{
+		"expressID": "106282FAD44E38938D2BACAE64C562F3",
+		"expressName": "山氏：跨越速运",
+		"localCode": "sskysy",
+		"taobaoCode": "DISTRIBUTOR_13211725"
+	},
+	{
+		"expressID": "B071EC08CBC637948B4DD592DA2F2CEC",
+		"expressName": "鑫诺翔代发：天津申通",
+		"localCode": "xnx",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "1A57149B28323B73AC4E9417A4AAB01C",
+		"expressName": "鑫诺翔代发：申通二部",
+		"localCode": "xnxdf",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "46550A093EC0311BBA296991C66E3D35",
+		"expressName": "鑫诺翔代发：拼多多申通二部",
+		"localCode": "xnxpdd",
+		"taobaoCode": "STO"
+	},
+	{
+		"expressID": "46251DC78930385787B288DB7C4C91D3",
+		"expressName": "越鼑：拼多多百世",
+		"localCode": "ydbs",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "B68AADDB21E035E2BBAAB1B44AAB747F",
+		"expressName": "越鼑：百世快递",
+		"localCode": "ydst",
+		"taobaoCode": "HTKY"
+	},
+	{
+		"expressID": "1287A227AF2A3700AA87D103B80622C5",
+		"expressName": "越鼑拼多多：韵达（大）",
+		"localCode": "yued",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "2D560DA6DC753945B05C1DC2769A3065",
+		"expressName": "越鼑京东：韵达（大）",
+		"localCode": "yued2",
+		"taobaoCode": "YUNDA"
+	},
+	{
+		"expressID": "BF2D7D871B623CB0AB19F8609C74CA37",
+		"expressName": "代发中胜：京东韵达",
+		"localCode": "zsnj",
+		"taobaoCode": "YUNDA"
+	}
+]

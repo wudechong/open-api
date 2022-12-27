@@ -1,0 +1,58 @@
+{"data":[{
+	"tp_item_size": "4",
+	"unit": "件",
+	"pic1 ": "",
+	"goods_name": "泡面",
+	"spec_code": "123456",
+    "specName":"da",
+    "spec1_value":"11",
+    "spec2_value":"11",
+	"bar_code": "bacode",
+    "goods_spec_uid":1,
+    "sn":[{
+        "snValue":11,
+        "skuUid":1
+    }],
+    "batch":[{
+        "spec_uid":11,
+        "batch_date":"",
+        "expiry_date":"",
+        "spec_uid":1,
+        "batch_code":11
+    },{
+        "spec_uid":12,
+        "batch_date":"",
+        "expiry_date":"",
+        "spec_uid":2,
+        "batch_code":22
+    }]
+
+},{
+    "tp_item_size": "2",
+	"unit": "件",
+	"pic1 ": "",
+	"goods_name": "泡面2",
+	"spec_code": "12345226",
+    "spec1_value":"1221",
+    "spec2_value":"1221",
+	"bar_code": "bacode22",
+    "is_package":"1",
+    "goods_spec_uid":2,
+    "sn":[{
+        "snValue":11,
+        "skuUid":1
+    },{
+        "snValue":22,
+        "skuUid":2 
+    }],
+    "batch":[{
+        "spec_uid":11,
+        "batch_date":"",
+        "expiry_date":"",
+        "spec_uid":2,
+        "batch_code":22
+    }]
+
+
+}
+]}

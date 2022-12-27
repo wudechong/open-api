@@ -1,0 +1,47 @@
+{
+  "$entityCount":99,
+  "$data":[
+    {
+      "operNick":"alice",
+      "shopName":"店铺1",
+      "encryptType":0,
+      "billId":"111111",
+      "decryptRecordExt":{
+        "settleStatus":0,
+        "dsrValue":"18668043112-9999",
+        "validEndTime":""
+      },
+      "encrySource":1,
+      "createTime":""
+
+    },
+    {
+      "operNick":"alice",
+      "shopName":"店铺2",
+      "encryptType":0,
+      "billId":"222222",
+      "decryptRecordExt":{
+        "settleStatus":1,
+        "dsrValue":"18668043112-9999",
+        "validEndTime":""
+      },
+      "encrySource":1,
+      "createTime":""
+
+    },
+    {
+      "operNick":"alice",
+      "shopName":"店铺2",
+      "encryptType":0,
+      "billId":"333333",
+      "decryptRecordExt":{
+        "settleStatus":1,
+        "dsrValue":"18668043112-9999",
+        "validEndTime":""
+      },
+      "encrySource":1,
+      "createTime":""
+
+    }
+  ]
+}

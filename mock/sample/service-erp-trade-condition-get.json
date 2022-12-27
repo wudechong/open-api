@@ -1,0 +1,42 @@
+[
+  {
+    "userID": "902045593339352991",
+    "label": "123我abbbc",
+    "condition": "{\"data\":{\"tradeQueryViewType\":1,\"tradeTimeFilterVO\":{\"dateType\":2},\"tradeCoreFilterVO\":{\"shopIDs\":[],\"tradeCode\":null,\"expressIDs\":[\"96F1DB08662E3E79BA8924624D693A7F\",\"26CB22CC298C3271ABDF7C8D1FD80863\"],\"warehouseIDs\":[]},\"tradeMarkFilterVO\":{\"tradeBizType\":1,\"tradeMarkTypes\":[]},\"tradeAddressFilterVO\":{\"deliveryRegionIDs\":[]},\"tradeOrderFilterVO\":{\"includeCombSubs\":false,\"skuIDs\":[],\"codes\":[],\"includeExCombSubs\":false,\"unRelated\":false,\"useOccupyInv\":false,\"exSkuIDs\":[],\"exCodes\":[]},\"tradeOtherFilterVO\":{\"canMerge\":false},\"tradeRangeFilterVO\":{},\"tradeRemarkFilterVO\":{\"queryType\":0},\"sensitiveDataFilterVO\":{\"mobile\":null},\"invoiceFilterVO\":{},\"tradeOperatorFilterVO\":{\"operatorIDs\":[],\"salesmanIDs\":[]},\"unapprovedChecked\":false,\"sensitiveType\":1,\"rangeType\":null}}",
+    "createTime": "2022-01-25T11:47:21.000+0800",
+    "conditionType": 1,
+    "id": "975688752460589314"
+  },
+  {
+    "userID": "902045593339352991",
+    "label": "快递kdkd我",
+    "condition": "{\"data\":{\"tradeQueryViewType\":1,\"tradeTimeFilterVO\":{\"dateType\":2},\"tradeCoreFilterVO\":{\"shopIDs\":[],\"tradeCode\":null,\"expressIDs\":[\"96F1DB08662E3E79BA8924624D693A7F\"],\"warehouseIDs\":[]},\"tradeMarkFilterVO\":{\"tradeBizType\":1,\"tradeMarkTypes\":[]},\"tradeAddressFilterVO\":{\"deliveryRegionIDs\":[]},\"tradeOrderFilterVO\":{\"includeCombSubs\":false,\"skuIDs\":[],\"codes\":[],\"includeExCombSubs\":false,\"unRelated\":false,\"useOccupyInv\":false,\"exSkuIDs\":[],\"exCodes\":[]},\"tradeOtherFilterVO\":{\"canMerge\":false},\"tradeRangeFilterVO\":{},\"tradeRemarkFilterVO\":{\"queryType\":0},\"sensitiveDataFilterVO\":{\"mobile\":null},\"invoiceFilterVO\":{},\"tradeOperatorFilterVO\":{\"operatorIDs\":[],\"salesmanIDs\":[]},\"unapprovedChecked\":false,\"sensitiveType\":1,\"rangeType\":null}}",
+    "createTime": "2022-01-25T11:46:33.000+0800",
+    "conditionType": 1,
+    "id": "517469997098258887"
+  },
+  {
+    "userID": "902045593339352991",
+    "label": "hupunhupun",
+    "condition": "{\"data\":{\"tradeQueryViewType\":1,\"tradeTimeFilterVO\":{\"dateType\":2},\"tradeCoreFilterVO\":{\"shopIDs\":[],\"tradeCode\":null,\"expressIDs\":[-1],\"warehouseIDs\":[]},\"tradeMarkFilterVO\":{\"tradeMarkTypes\":[]},\"tradeAddressFilterVO\":{\"deliveryRegionIDs\":[]},\"tradeOrderFilterVO\":{\"includeCombSubs\":false,\"skuIDs\":[],\"codes\":[],\"includeExCombSubs\":false,\"unRelated\":false,\"useOccupyInv\":false,\"exSkuIDs\":[],\"exCodes\":[]},\"tradeOtherFilterVO\":{\"canMerge\":false},\"tradeRangeFilterVO\":{},\"tradeRemarkFilterVO\":{\"queryType\":0},\"sensitiveDataFilterVO\":{\"mobile\":null},\"invoiceFilterVO\":{},\"tradeOperatorFilterVO\":{\"operatorIDs\":[],\"salesmanIDs\":[]},\"unapprovedChecked\":false,\"sensitiveType\":1,\"rangeType\":null}}",
+    "createTime": "2022-01-24T18:17:35.000+0800",
+    "conditionType": 1,
+    "id": "678184498324907607"
+  },
+  {
+    "userID": "902045593339352991",
+    "label": "我我我我我",
+    "condition": "{\"data\":{\"tradeQueryViewType\":1,\"tradeTimeFilterVO\":{\"dateType\":2},\"tradeCoreFilterVO\":{\"shopIDs\":[],\"tradeCode\":null,\"expressIDs\":[],\"warehouseIDs\":[]},\"tradeMarkFilterVO\":{\"tradeBizType\":1,\"tradeMarkTypes\":[]},\"tradeAddressFilterVO\":{\"deliveryRegionIDs\":[]},\"tradeOrderFilterVO\":{\"includeCombSubs\":false,\"skuIDs\":[],\"codes\":[],\"includeExCombSubs\":false,\"unRelated\":false,\"useOccupyInv\":false,\"exSkuIDs\":[],\"exCodes\":[]},\"tradeOtherFilterVO\":{\"canMerge\":false},\"tradeRangeFilterVO\":{},\"tradeRemarkFilterVO\":{\"queryType\":0},\"sensitiveDataFilterVO\":{\"mobile\":null},\"invoiceFilterVO\":{},\"tradeOperatorFilterVO\":{\"operatorIDs\":[],\"salesmanIDs\":[]},\"unapprovedChecked\":false,\"sensitiveType\":1,\"rangeType\":null}}",
+    "createTime": "2022-01-20T23:31:05.000+0800",
+    "conditionType": 1,
+    "id": "371408783703674279"
+  },
+  {
+    "userID": "902045593339352991",
+    "label": "first",
+    "condition": "{\"data\":{\"tradeQueryViewType\":1,\"tradeTimeFilterVO\":{\"dateType\":2},\"tradeCoreFilterVO\":{\"shopIDs\":[],\"tradeCode\":null,\"expressIDs\":[],\"warehouseIDs\":[\"5390CA18CC9D3CD685BCB4E9D21C78A5\"]},\"tradeMarkFilterVO\":{\"tradeMarkTypes\":[]},\"tradeAddressFilterVO\":{\"deliveryRegionIDs\":[]},\"tradeOrderFilterVO\":{\"includeCombSubs\":false,\"skuIDs\":[],\"codes\":[],\"includeExCombSubs\":false,\"unRelated\":false,\"useOccupyInv\":false,\"exSkuIDs\":[],\"exCodes\":[]},\"tradeOtherFilterVO\":{\"canMerge\":false},\"tradeRangeFilterVO\":{},\"tradeRemarkFilterVO\":{\"queryType\":0},\"sensitiveDataFilterVO\":{\"mobile\":null},\"invoiceFilterVO\":{},\"tradeOperatorFilterVO\":{\"operatorIDs\":[],\"salesmanIDs\":[]},\"unapprovedChecked\":false,\"sensitiveType\":1,\"rangeType\":null}}",
+    "createTime": "2022-01-17T18:35:59.000+0800",
+    "conditionType": 1,
+    "id": "206221071737022306"
+  }
+]

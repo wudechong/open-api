@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "tradeID": "1B23551E66C137AB925E7292BA08E917",
+    "buyer": "139****9968",
+    "receiverName": "林**",
+    "mobile": "139****9968",
+    "phone": "051****227103",
+    "province": "河北省",
+    "city": "石家庄市",
+    "district": "长安区",
+    "address": "三香路***",
+    "zip": "215000",
+    "fuzzyColumns": [
+      "receiverName",
+      "mobile",
+      "phone",
+      "address"
+    ],
+    "featureKind": -1
+  }
+}

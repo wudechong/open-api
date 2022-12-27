@@ -1,0 +1,950 @@
+[
+	{
+		"warehouseID": "0B30B1DEC7FA3E7A910B71C1A70328F0",
+		"warehouseName": "测试武进仓"
+	},
+	{
+		"warehouseID": "D628484E757036E0986E04B514731A23",
+		"warehouseName": "徐州代发：米创"
+	},
+	{
+		"warehouseID": "C0C3B49CFF2A37649C8118A4430657F4",
+		"warehouseName": "徐州代发：淘宜居"
+	},
+	{
+		"warehouseID": "5737343B7F433650973494F5EF581681",
+		"warehouseName": "徐州代发：蛮牛居"
+	},
+	{
+		"warehouseID": "511DEED8316539D59F7C908E64268CC3",
+		"warehouseName": "徐州代发：坤鸿"
+	},
+	{
+		"warehouseID": "5672D8F81CF7359BA84C4B18880AB02E",
+		"warehouseName": "徐州代发：优尚"
+	},
+	{
+		"warehouseID": "FC3E38267AAC3F86B741C051A4CD3D3A",
+		"warehouseName": "徐州代发：沪佰"
+	},
+	{
+		"warehouseID": "306D92326CC63EE1908963ED602A5378",
+		"warehouseName": "徐州代发：舒佳"
+	},
+	{
+		"warehouseID": "2C61ED44D364385682DDFE98A0FF5C42",
+		"warehouseName": "徐州代发：耀凯"
+	},
+	{
+		"warehouseID": "135755A50D473520A86963890D79E6AA",
+		"warehouseName": "徐州代发：新朝阳"
+	},
+	{
+		"warehouseID": "6D2BD1C7ED55377B9CE2BB06A38A4CE6",
+		"warehouseName": "孝感配件仓"
+	},
+	{
+		"warehouseID": "83587229083529",
+		"warehouseName": "默认仓库"
+	},
+	{
+		"warehouseID": "AD6C4DF8BD5E350186CED9436EAA95A3",
+		"warehouseName": "山东仓"
+	},
+	{
+		"warehouseID": "0B90225530073F35B126B3AD45A5866C",
+		"warehouseName": "山东配件仓"
+	},
+	{
+		"warehouseID": "6E65CA0E8F033ED7B0CB30924D351057",
+		"warehouseName": "胜芳配件仓"
+	},
+	{
+		"warehouseID": "524D97FA37A93B768DBFAF6AD751B5B3",
+		"warehouseName": "沭阳配件仓"
+	},
+	{
+		"warehouseID": "F449AC4A9C3434009906D2FD64F204AB",
+		"warehouseName": "常州拼多多仓"
+	},
+	{
+		"warehouseID": "E50129D2FFE63A29A6A84D721A8334DB",
+		"warehouseName": "主仓"
+	},
+	{
+		"warehouseID": "575A4103E7B7355481165CC604F5F64A",
+		"warehouseName": "常州配件仓"
+	},
+	{
+		"warehouseID": "C0CC00F4A2D93D298B03866067E49F65",
+		"warehouseName": "河北代发：大唐"
+	},
+	{
+		"warehouseID": "5AF79F7D51F03ABFA5E8578745AD5BF8",
+		"warehouseName": "河北代发：福莱胜"
+	},
+	{
+		"warehouseID": "204AECFEAAC534E388D1C3478F6C8CCA",
+		"warehouseName": "河北代发：博瑞朗"
+	},
+	{
+		"warehouseID": "A8CE354FBF2C3F9F9775314FFC74939F",
+		"warehouseName": "河北代发：乐科"
+	},
+	{
+		"warehouseID": "8227BB973EDB3AF7B1016758E2C8E5D4",
+		"warehouseName": "河北代发：越鼎"
+	},
+	{
+		"warehouseID": "E9724CBEEB863D4D80C391BDEC262976",
+		"warehouseName": "山东代发：洛阳思德来"
+	},
+	{
+		"warehouseID": "6EFD4CE6E8FF3FBFA86C268B16809DCC",
+		"warehouseName": "福建布拉斯卡代发仓"
+	},
+	{
+		"warehouseID": "BB88CA523B9C37228C0C054E56311259",
+		"warehouseName": "福建中本代发仓"
+	},
+	{
+		"warehouseID": "B331E2754D5D3B6F8CF33B5141184384",
+		"warehouseName": "河北代发：迎发"
+	},
+	{
+		"warehouseID": "B26EB4F38F4F3A12BD5EDCAC196D47DD",
+		"warehouseName": "山东代发：定陶久久"
+	},
+	{
+		"warehouseID": "B9A6CCC0E6C7317FA07A649B199BC4DB",
+		"warehouseName": "广州康杭代发仓"
+	},
+	{
+		"warehouseID": "024E7C211B9231E29D8C37F3BA574C50",
+		"warehouseName": "河北代发：常宏"
+	},
+	{
+		"warehouseID": "124D949DDBB2323686A43985F94CB85E",
+		"warehouseName": "徐州代发：大力"
+	},
+	{
+		"warehouseID": "FEB90B7A11B235F7B53D41C1FCC4BEC9",
+		"warehouseName": "下架没货仓"
+	},
+	{
+		"warehouseID": "7DD87E4593623189BA5C4A13C97AB0C0",
+		"warehouseName": "备用仓"
+	},
+	{
+		"warehouseID": "260B44A7C68A3E349EB7E1E6B4101AFE",
+		"warehouseName": "徐州配件仓"
+	},
+	{
+		"warehouseID": "4DB9708C4E533F618C4013E7A7A100CB",
+		"warehouseName": "山东代发：浙江沃峰"
+	},
+	{
+		"warehouseID": "FCC31AC65B4F3BAB82ABA18BDBA88ECA",
+		"warehouseName": "山东代发：淮安家德宝"
+	},
+	{
+		"warehouseID": "61176660C6C732B787EF30812A5CD534",
+		"warehouseName": "山东代发：徐州豪圣达"
+	},
+	{
+		"warehouseID": "36E1AB82FB4F393F99D9BD8CFDFA74F3",
+		"warehouseName": "山东代发：徐州老木匠"
+	},
+	{
+		"warehouseID": "0380B0673B1434DCB1214DA0C93B68C1",
+		"warehouseName": "山东代发：浙江浩瀚"
+	},
+	{
+		"warehouseID": "E93B0A720DDB3930A4528DA99EDBBF9D",
+		"warehouseName": "浙江代发：安吉笙茂"
+	},
+	{
+		"warehouseID": "5213FFD3835D383CBB78B5B2DCA220AD",
+		"warehouseName": "浙江代发:庆元启泰"
+	},
+	{
+		"warehouseID": "A2A0AB73E5BD317B9C5BA617FAFD67E7",
+		"warehouseName": "河北代发：伟圆梯具"
+	},
+	{
+		"warehouseID": "5C9AEF2DD81E3F1CB60EFF75A1507AFB",
+		"warehouseName": "河北代发：河北翔天"
+	},
+	{
+		"warehouseID": "5112D3855D6C3571AD6BCF22312124A2",
+		"warehouseName": "福建布拉斯卡配件仓"
+	},
+	{
+		"warehouseID": "BDED37CE99AA34EE94B2ED6937E16F01",
+		"warehouseName": "福建中本配件仓"
+	},
+	{
+		"warehouseID": "4F303F4D90F23B338807D8B84324409C",
+		"warehouseName": "广州康杭配件仓"
+	},
+	{
+		"warehouseID": "E6BFDD0E103C3024B183C5C35C33DCDF",
+		"warehouseName": "河北代发：柏瑞朗"
+	},
+	{
+		"warehouseID": "9059EE6F5167301FB460F1107406C29F",
+		"warehouseName": "河北代发配件：常宏"
+	},
+	{
+		"warehouseID": "5A67743EA77F37C2BB93A56F3A62595B",
+		"warehouseName": "河北代发配件：大唐"
+	},
+	{
+		"warehouseID": "CC37C9029BF83069B2595F9741D95BED",
+		"warehouseName": "河北代发配件：福莱胜"
+	},
+	{
+		"warehouseID": "0CA388EE70EA3563AE6E85F93C312A46",
+		"warehouseName": "河北代发配件：乐科"
+	},
+	{
+		"warehouseID": "1E5D790AA9E734A898C672A4336EDD18",
+		"warehouseName": "河北代发配件：迎发"
+	},
+	{
+		"warehouseID": "A1EA19D523613CCCAEC32A61953C2442",
+		"warehouseName": "河北代发配件：越鼎"
+	},
+	{
+		"warehouseID": "A81B6844C4283C49963F06E9499FAAB2",
+		"warehouseName": "浙江代发配件：凯顺"
+	},
+	{
+		"warehouseID": "99CFE10501D4307DBF3F9BE53E048451",
+		"warehouseName": "浙江代发配件：安吉笙茂"
+	},
+	{
+		"warehouseID": "1A7678577D9A30F29B525579D3AEDD7F",
+		"warehouseName": "浙江代发配件：庆元启泰"
+	},
+	{
+		"warehouseID": "C474021FA36A3AEBA11DAF317DD23652",
+		"warehouseName": "河北代发配件：伟圆梯具"
+	},
+	{
+		"warehouseID": "BB4DDABCC30B3675857ECE650BD5E0DC",
+		"warehouseName": "河北代发配件：河北博瑞朗"
+	},
+	{
+		"warehouseID": "CDA68B901B733391B23E3D51D6FEE559",
+		"warehouseName": "河北代发配件：翔天"
+	},
+	{
+		"warehouseID": "F5A43DD8580E3A7B87BCF6000718208C",
+		"warehouseName": "山东代发：徐州古香祺"
+	},
+	{
+		"warehouseID": "CDAF534AD92037EFA1D88896D94C3510",
+		"warehouseName": "山东代发：徐州爱居美"
+	},
+	{
+		"warehouseID": "F31E8AE5004B36B8BA032400B163AB28",
+		"warehouseName": "浙江代发：浙江山氏"
+	},
+	{
+		"warehouseID": "200F94050E2C339596EE7C755353991A",
+		"warehouseName": "售后退货仓"
+	},
+	{
+		"warehouseID": "5316048104D23D5BBF48EC1E7F05515A",
+		"warehouseName": "线下异常仓"
+	},
+	{
+		"warehouseID": "385A9375EF3D399DB332E86E28C668D8",
+		"warehouseName": "掌柜（拼多多）"
+	},
+	{
+		"warehouseID": "1D302854146E3D249F3D1C26D9CC90C9",
+		"warehouseName": "安徽配件仓"
+	},
+	{
+		"warehouseID": "AED14445B132376CB0F3565CEF96779F",
+		"warehouseName": "常州京东仓"
+	},
+	{
+		"warehouseID": "6AA14781BDC931A7A0DF0C043A4C03C2",
+		"warehouseName": "常州外贸仓"
+	},
+	{
+		"warehouseID": "75AB79EA500F33D38F569245338B41BA",
+		"warehouseName": "常州专线仓"
+	},
+	{
+		"warehouseID": "117038C0306D3DAC9722758FF8724E28",
+		"warehouseName": "山东代发：临沂沫沐"
+	},
+	{
+		"warehouseID": "9487BDB72854384198518FC368A413BC",
+		"warehouseName": "山东代发：烟台莱州"
+	},
+	{
+		"warehouseID": "FA168F919BC53E06AFA25210EC7BC9B0",
+		"warehouseName": "山东代发：定陶创意"
+	},
+	{
+		"warehouseID": "FBC60163C6F53C55AE5868C458019821",
+		"warehouseName": "山东代发：郑州荥阳"
+	},
+	{
+		"warehouseID": "68627C2A73D23EEFAB6E421821032817",
+		"warehouseName": "山东代发：广东纳捷"
+	},
+	{
+		"warehouseID": "12A7B0EB124338E3823062423433A979",
+		"warehouseName": "浙江代发：凯顺"
+	},
+	{
+		"warehouseID": "D5B8BE45462931CB9616B6F92ABDC0CB",
+		"warehouseName": "山东代发：广东喜勒"
+	},
+	{
+		"warehouseID": "8F7D278124A430B193FD4E17BBE1C310",
+		"warehouseName": "山东代发：浙江龙泉"
+	},
+	{
+		"warehouseID": "2953E64BBD1F393EB83385F6870946DA",
+		"warehouseName": "山东代发：河北欧尚"
+	},
+	{
+		"warehouseID": "0AE80B4BBDD4388791460462913A3696",
+		"warehouseName": "河北代发：霸州奥康"
+	},
+	{
+		"warehouseID": "52AF6304CF5E3E5B892326B6793DD541",
+		"warehouseName": "河北代发：霸州奥康二仓"
+	},
+	{
+		"warehouseID": "81BA8182844136A690F635CA4BE8FE48",
+		"warehouseName": "河北代发配件：霸州奥康"
+	},
+	{
+		"warehouseID": "A5067364137B3AC8A5BBEDC1B1B9D974",
+		"warehouseName": "江西代发：啊飘飘"
+	},
+	{
+		"warehouseID": "DBAB1131A9343FC8AF0AEE6DCD378181",
+		"warehouseName": "江西代发：啊飘飘配件"
+	},
+	{
+		"warehouseID": "06A28111098C386CA4B1C2947B7F7DC8",
+		"warehouseName": "山东代发：枣庄奥盛"
+	},
+	{
+		"warehouseID": "238709A54AA4338BB438BA2F2CE33C6C",
+		"warehouseName": "山东代发：徐州爱之初"
+	},
+	{
+		"warehouseID": "952C33B4B442312BB5C2A07683DC1B6C",
+		"warehouseName": "山东代发：湖北百邦"
+	},
+	{
+		"warehouseID": "27BDE2B8CD573ADC91FBFE68CD4C5D24",
+		"warehouseName": "山东代发：安徽贝贝"
+	},
+	{
+		"warehouseID": "73769BC7860B3370B148D105AE697631",
+		"warehouseName": "河北代发：宾城五金"
+	},
+	{
+		"warehouseID": "D725C13C2DD5386CB809C4322C334016",
+		"warehouseName": "山东代发：曹县佰凡"
+	},
+	{
+		"warehouseID": "43DCB5F7F60839DD826D387EA966FA4F",
+		"warehouseName": "山东代发：河北柏森"
+	},
+	{
+		"warehouseID": "D9C9899445D433EAAB7995DC94F6E4CF",
+		"warehouseName": "河北代发:河北奔腾"
+	},
+	{
+		"warehouseID": "80FB81AF480D3C9E8A9721A010ACB6C8",
+		"warehouseName": "河北代发配件：奔腾"
+	},
+	{
+		"warehouseID": "47BD5E22A4ED33288153647C8C7406C8",
+		"warehouseName": "厨帮代发仓"
+	},
+	{
+		"warehouseID": "3384AF63E09336EF95FB23312692318E",
+		"warehouseName": "山东代发：浙江初贝"
+	},
+	{
+		"warehouseID": "6FE240A452C731EFA92D848C584FCF54",
+		"warehouseName": "山东代发：霸州陈家匠"
+	},
+	{
+		"warehouseID": "19BD9551353E3281B6C568F6BD1E4E8A",
+		"warehouseName": "山东代发：河北春茂"
+	},
+	{
+		"warehouseID": "633AA91AAF5834F099C8FE477A84EFC3",
+		"warehouseName": "山东代发：临沂茶妙"
+	},
+	{
+		"warehouseID": "DFED05D40EA43958BF022799D8B9CE06",
+		"warehouseName": "山东代发：霸州创舒"
+	},
+	{
+		"warehouseID": "BF5DE2ADB2463319B60FAE69DFC547E6",
+		"warehouseName": "河北代发：常鑫"
+	},
+	{
+		"warehouseID": "38515CAE8384307494106F093A3DF3C8",
+		"warehouseName": "河北代发：驰旭"
+	},
+	{
+		"warehouseID": "2C2E51F11BA73A4786546352A40EA57A",
+		"warehouseName": "河北代发配件：常鑫"
+	},
+	{
+		"warehouseID": "D7080561664D3704AFCA73D713213B94",
+		"warehouseName": "山东代发：缔结万兴"
+	},
+	{
+		"warehouseID": "8A451C0571F53193906FC863D5A8AD92",
+		"warehouseName": "山东代发：广东鼎利"
+	},
+	{
+		"warehouseID": "46815C74A62B37C68013D45DE0C007CB",
+		"warehouseName": "（作废）徐州睢宁仓"
+	},
+	{
+		"warehouseID": "9CE13DD4A421334382D46B26E9D7B59B",
+		"warehouseName": "常州武进仓WMS"
+	},
+	{
+		"warehouseID": "88ADC1B38B5F38AAA84118BABA16A8DD",
+		"warehouseName": "常州凯莱仓WMS"
+	},
+	{
+		"warehouseID": "EE1B7C70556C32B0AF31D7AD5822E8BA",
+		"warehouseName": "常州玉兰仓WMS"
+	},
+	{
+		"warehouseID": "4C857EDAA73F376DB17D282B561E804E",
+		"warehouseName": "常州东洲二仓WMS"
+	},
+	{
+		"warehouseID": "92160C144E1A3AEEA0644F2EEEEDBEF1",
+		"warehouseName": "常州芙蓉二仓WMS"
+	},
+	{
+		"warehouseID": "5DB565B13282343488B08CB967D0DFDF",
+		"warehouseName": "山东菏泽仓WMS"
+	},
+	{
+		"warehouseID": "589BB00C4A743AE98DD4CD52C7C92716",
+		"warehouseName": "霸州胜芳仓WMS"
+	},
+	{
+		"warehouseID": "D2A780091F973B1F8EC846B5EF16B566",
+		"warehouseName": "霸州胜芳二仓WMS"
+	},
+	{
+		"warehouseID": "B21F0992053D30DEB62076EF4F555AD4",
+		"warehouseName": "宿迁沭阳仓WMS"
+	},
+	{
+		"warehouseID": "E20DB5D67181396D9B7084A8ACE8AE21",
+		"warehouseName": "宿迁沭阳二仓WMS"
+	},
+	{
+		"warehouseID": "8AD08F8BF92130CBB90A56DDC6012829",
+		"warehouseName": "孝感云梦仓WMS"
+	},
+	{
+		"warehouseID": "7E35EA2C652A3CFCB24ED1A8AFC04B7C",
+		"warehouseName": "常州德邦贴单仓WMS"
+	},
+	{
+		"warehouseID": "AE108251000A343695579CB22D6E4FE6",
+		"warehouseName": "霸州胜芳外贸仓"
+	},
+	{
+		"warehouseID": "59FFD12F974A397698BA4530D60C8564",
+		"warehouseName": "徐州睢宁仓WMS"
+	},
+	{
+		"warehouseID": "6D96E677B99D3B978F8C7575AF267402",
+		"warehouseName": "安徽蚌埠仓WMS"
+	},
+	{
+		"warehouseID": "D212090FB0FE3CE18531C2A9D5631546",
+		"warehouseName": "河北代发：河北帝图"
+	},
+	{
+		"warehouseID": "78F3FF8AECD431AFACC2E0D6862C76D2",
+		"warehouseName": "江西代发：大王"
+	},
+	{
+		"warehouseID": "CB957C6DA30A323C92BC430ED943B339",
+		"warehouseName": "春节—东洲仓"
+	},
+	{
+		"warehouseID": "66AF45CAFEA7304991B2C165D5DFD6D3",
+		"warehouseName": "广东恩乐聚代发仓"
+	},
+	{
+		"warehouseID": "AAECDEB316EB3BC3B2AC8AA694098F15",
+		"warehouseName": "山东代发：广东梵梵居"
+	},
+	{
+		"warehouseID": "B93D53BD1D8635D3B45B4B67F76C519D",
+		"warehouseName": "山东代发：广东富洛诚"
+	},
+	{
+		"warehouseID": "12D8108978A93170A859D4D966A664B6",
+		"warehouseName": "山东代发：定陶飞洛力"
+	},
+	{
+		"warehouseID": "F19AD9A7ACBC384A97868FBB335FB46A",
+		"warehouseName": "春节—芙蓉仓"
+	},
+	{
+		"warehouseID": "CCBDC82757463F92B0DB36A85ACDDE2D",
+		"warehouseName": "山东代发：广东顾淇"
+	},
+	{
+		"warehouseID": "B0122396801F38D2ADF75092D77C7DD1",
+		"warehouseName": "山东代发：霸州花道"
+	},
+	{
+		"warehouseID": "46B00481CAD43DDC9A3D370198D44543",
+		"warehouseName": "浙江代发：华林"
+	},
+	{
+		"warehouseID": "872BB6EDA6F330308ABF6D7ABB208FD4",
+		"warehouseName": "河北代发：华莱鑫"
+	},
+	{
+		"warehouseID": "5A0EC9D2F3733C90B4A4CDAB8F61C625",
+		"warehouseName": "河北代发：绘梦"
+	},
+	{
+		"warehouseID": "31F7ABD718E03626AF5999B6752E9594",
+		"warehouseName": "河北代发：瀚明"
+	},
+	{
+		"warehouseID": "E8DD4731386931D186A408FBBB688365",
+		"warehouseName": "河北代发：绘梦配件"
+	},
+	{
+		"warehouseID": "EEACEA0E467E308B8D60404ABA1A3550",
+		"warehouseName": "山东代发：广东海纳"
+	},
+	{
+		"warehouseID": "533BD5D3E87E3B97B5D78E3D1896BB78",
+		"warehouseName": "河南配件仓"
+	},
+	{
+		"warehouseID": "955A3FDB2F4D3BFF9D4ED865377B6A1A",
+		"warehouseName": "山东代发：浙江贺普"
+	},
+	{
+		"warehouseID": "F451DCDFF70F3CE3A321C070B8461606",
+		"warehouseName": "山东代发：广东华思梦"
+	},
+	{
+		"warehouseID": "22EE41A40DBE33DD85282189C4517328",
+		"warehouseName": "山东代发：菏泽红威"
+	},
+	{
+		"warehouseID": "409CABD5463530DB96C2FD584707546E",
+		"warehouseName": "河北代发：豪炫捷"
+	},
+	{
+		"warehouseID": "EE227D137884389EA8D76177C62A40D4",
+		"warehouseName": "徐州代发：胡晓伟"
+	},
+	{
+		"warehouseID": "4DC3BA26E9983D27AD6B524711F2193F",
+		"warehouseName": "山东代发：华耀"
+	},
+	{
+		"warehouseID": "E37D1E40E8B134F2BE0C25CEBC896AF7",
+		"warehouseName": "河北代发：宏宇"
+	},
+	{
+		"warehouseID": "60EA959241CF3F08AF25F5A0556629BB",
+		"warehouseName": "河北代发：宏煜家具"
+	},
+	{
+		"warehouseID": "FE4191370C493B9EA849414611BBECF4",
+		"warehouseName": "广东代发：惠众"
+	},
+	{
+		"warehouseID": "0A2B2A674F3D3811ADDD356075DE850D",
+		"warehouseName": "春节—菏泽仓"
+	},
+	{
+		"warehouseID": "56E6C84CB60E36D7A0826F16A5C5B675",
+		"warehouseName": "山东代发：临沂江樊"
+	},
+	{
+		"warehouseID": "38E4ED36C151372FBBA88B42C3CD632E",
+		"warehouseName": "山东代发：河北距豪"
+	},
+	{
+		"warehouseID": "3231ECDC59323E5698C6ECA13664768A",
+		"warehouseName": "山东代发：河北建合"
+	},
+	{
+		"warehouseID": "2264F360B9DF3F3B954177B07B825428",
+		"warehouseName": "山东代发：君米"
+	},
+	{
+		"warehouseID": "F0741E76F89E3D46BFD3F77FC077ED61",
+		"warehouseName": "浙江代发: 金猫塑料厂"
+	},
+	{
+		"warehouseID": "6C1CD2C8D34B3C9A8F690E236278CA78",
+		"warehouseName": "河北代发：洁美"
+	},
+	{
+		"warehouseID": "86885A59403030D3A0F94BBD2D8F1CFA",
+		"warehouseName": "山东代发：吉曼诗"
+	},
+	{
+		"warehouseID": "CF88ED5A36063862B53EA72A1A8C038F",
+		"warehouseName": "山东代发：福建玖伍后"
+	},
+	{
+		"warehouseID": "EB8D0B8EFFA43D5DA0ED345CFAC1CF03",
+		"warehouseName": "山东代发：曹县金信 "
+	},
+	{
+		"warehouseID": "34563019CAF2399BB2461682F2536D5F",
+		"warehouseName": "山东代发：河北锦轩"
+	},
+	{
+		"warehouseID": "D3A6CF654CC73A66B33A9CFD504EEA42",
+		"warehouseName": "春节—凯莱仓"
+	},
+	{
+		"warehouseID": "482DACA558453FEEA0555F4BC53F42A3",
+		"warehouseName": "山东代发：霸州乐美"
+	},
+	{
+		"warehouseID": "61F5A21B534F3B53BAEC3E81BBC7C706",
+		"warehouseName": "山东代发：霸州乐美二仓"
+	},
+	{
+		"warehouseID": "F71F9E07599B3B24AAADFA77C21590D9",
+		"warehouseName": "山东代发：曹县龙鹏"
+	},
+	{
+		"warehouseID": "455474BBDAD23B0980ACC08549775A94",
+		"warehouseName": "江西代发：赣州木昇"
+	},
+	{
+		"warehouseID": "E89A7546675431FA9B30DAA39A615F8F",
+		"warehouseName": "山东代发：江西木昇"
+	},
+	{
+		"warehouseID": "39F1514955673A73B1D8C6BB9E108982",
+		"warehouseName": "江西代发：名屋居"
+	},
+	{
+		"warehouseID": "3938EBE214BC386EAC9BAFDFDC2146AD",
+		"warehouseName": "山东代发：定陶美逸"
+	},
+	{
+		"warehouseID": "65565381FD80309CA940A628C793FAC2",
+		"warehouseName": "江西代发：赣州木喆"
+	},
+	{
+		"warehouseID": "EAB8A83D67E33383944050E6DC1EA5F8",
+		"warehouseName": "山东代发：家森"
+	},
+	{
+		"warehouseID": "DE1B6578F07632328B28C35E5B0E57F7",
+		"warehouseName": "山东代发：诺尔"
+	},
+	{
+		"warehouseID": "BB8522B81E5735D3911470392C2AA132",
+		"warehouseName": "山东代发：广东纳份爱"
+	},
+	{
+		"warehouseID": "EC937E1D65D4394FB23ED498C2220FC3",
+		"warehouseName": "广东代发：恩乐聚配件"
+	},
+	{
+		"warehouseID": "7B5162DADCC23360A11D84D864CD09B4",
+		"warehouseName": "浙江代发：欧谷"
+	},
+	{
+		"warehouseID": "8B228186837E35539D6BE45F1D2002E6",
+		"warehouseName": "山东代发：商丘欧逸家"
+	},
+	{
+		"warehouseID": "42C201A822A132248BBFCCF7BE7D03A2",
+		"warehouseName": "浙江代发：千本"
+	},
+	{
+		"warehouseID": "7576ADE2CFAC3F5B821214C967B7210E",
+		"warehouseName": "徐州代发：旗木堂"
+	},
+	{
+		"warehouseID": "20ED7E1BE09130D8BD459CECD1FFE291",
+		"warehouseName": "山东代发：霸州乾通"
+	},
+	{
+		"warehouseID": "A7F5B6A9688A33F2A3ADEC3E4F2D85E8",
+		"warehouseName": "河北代发：七兴"
+	},
+	{
+		"warehouseID": "35C6C96D49623F2696B633D1FC6EDEA2",
+		"warehouseName": "江西代发：仟约"
+	},
+	{
+		"warehouseID": "ABA1B3DF8FC237A1B23B08EB7CCF15E5",
+		"warehouseName": "山东代发：河北瑞邦"
+	},
+	{
+		"warehouseID": "1F16BE78A0CC3BB78D009CD591326EA8",
+		"warehouseName": "山东代发配件：河北瑞邦"
+	},
+	{
+		"warehouseID": "58DC87BA08C13973880FF194509A678B",
+		"warehouseName": "山东代发：河北瑞晶"
+	},
+	{
+		"warehouseID": "24005A5F9F2E3BD1A3EC5E3C67702775",
+		"warehouseName": "山东代发：霸州锐诺"
+	},
+	{
+		"warehouseID": "756F65BB828B39B18DAFFC5F718C7E35",
+		"warehouseName": "山东代发：广东日昇"
+	},
+	{
+		"warehouseID": "645C0206AC8F3DEC97DC3B1B2AC2FFFA",
+		"warehouseName": "河北代发：瑞维斯"
+	},
+	{
+		"warehouseID": "62C3D70095D13C9D8F0C2F0A02F29523",
+		"warehouseName": "山东代发：斯比得"
+	},
+	{
+		"warehouseID": "B592FC998C113F888B7AFEEB2890A36D",
+		"warehouseName": "山东代发：定陶顺帆"
+	},
+	{
+		"warehouseID": "F2445CD32E663AD4A5C763E8A1981D93",
+		"warehouseName": "春节—胜芳仓"
+	},
+	{
+		"warehouseID": "0ECF8CFC631436CE997C30BABE02AFE8",
+		"warehouseName": "徐州代发：帅铭"
+	},
+	{
+		"warehouseID": "2DC4340B4AEE377A9A6CE1A17C6891CC",
+		"warehouseName": "浙江代发：森然"
+	},
+	{
+		"warehouseID": "960D87BD5D5D340EBC8106405460BA7E",
+		"warehouseName": "浙江代发配件：森然"
+	},
+	{
+		"warehouseID": "C1AE527B1BA3353AB15E695B0F3AFC7E",
+		"warehouseName": "浙江代发：申威"
+	},
+	{
+		"warehouseID": "2B775E8B074931CDBC00CA68CA1BD8A7",
+		"warehouseName": "尚鑫达代发仓"
+	},
+	{
+		"warehouseID": "9C18F60FF6C839AFBA8332E059DCC11E",
+		"warehouseName": "广东代发：尚鑫达配件"
+	},
+	{
+		"warehouseID": "32F44A883F773DCB9A3470DB63F79D78",
+		"warehouseName": "春节—沭阳仓"
+	},
+	{
+		"warehouseID": "57EBD3DCC53C311DABA6428C74B5E7BE",
+		"warehouseName": "春节—贴单仓"
+	},
+	{
+		"warehouseID": "15AECF25D27E356E931811B880A8D98D",
+		"warehouseName": "山东代发：成武桐乐"
+	},
+	{
+		"warehouseID": "7619DB945BF932AD94D30423966BAB0B",
+		"warehouseName": "江西代发：天瑞"
+	},
+	{
+		"warehouseID": "65ACAC87A9563B17ACA78D48EDD6EA85",
+		"warehouseName": "河北代发:河北天旺"
+	},
+	{
+		"warehouseID": "48B0FCCDA4673B3EBB3B0BE8157A261E",
+		"warehouseName": "山东代发：浙江文海"
+	},
+	{
+		"warehouseID": "33A6B78374A9397FAC2A670C10AC1F36",
+		"warehouseName": "广东代发：万进电器"
+	},
+	{
+		"warehouseID": "26F57777F461339A9E8C84B07BF5C21A",
+		"warehouseName": "春节—武进仓"
+	},
+	{
+		"warehouseID": "F6A97CD3E729308ABCB8A89B74D13887",
+		"warehouseName": "山东代发：定陶伟颂"
+	},
+	{
+		"warehouseID": "5478C2BB753B3B1EA316D71929F308C7",
+		"warehouseName": "河北代发：维氏兰"
+	},
+	{
+		"warehouseID": "886245F5A6503470921C5991B01A4074",
+		"warehouseName": "山东代发：信百瑞"
+	},
+	{
+		"warehouseID": "865DCE3C0B3E321C957C621624F21AE8",
+		"warehouseName": "河北代发：鑫福轩"
+	},
+	{
+		"warehouseID": "A4A5EA51540B3BFCB721A10EB0282375",
+		"warehouseName": "春节—孝感仓"
+	},
+	{
+		"warehouseID": "64FE5A5EF2273D629A0F92B5BE8664D8",
+		"warehouseName": "浙江代发：鑫乐"
+	},
+	{
+		"warehouseID": "835A4F41A9AD3610A2CD381D9A121611",
+		"warehouseName": "浙江代发：西马仑"
+	},
+	{
+		"warehouseID": "6CA2C6A997FB329288D4893DC7CE37A5",
+		"warehouseName": "河北代发：鑫诺祥"
+	},
+	{
+		"warehouseID": "C5A97A6A14383A1C8C14FCCA4BEF30C6",
+		"warehouseName": "河北代发：鑫诺祥配件"
+	},
+	{
+		"warehouseID": "7070FD800FC83BCBB3964ECF1ED29B61",
+		"warehouseName": "山东代发：菏泽向荣"
+	},
+	{
+		"warehouseID": "EB1DD2A609413B6A9F4F8C696DE534A8",
+		"warehouseName": "山东代发：徐州欣然"
+	},
+	{
+		"warehouseID": "956737D468CF3E05BDA78B17C3B17CDE",
+		"warehouseName": "山东代发：鑫瑞达"
+	},
+	{
+		"warehouseID": "C68B4AED4C13367995CB6C2451576168",
+		"warehouseName": "山东代发：河北旭升"
+	},
+	{
+		"warehouseID": "69434C2C4B483B4BB97F0B2AFE261F69",
+		"warehouseName": "河北代发：小旺塑料"
+	},
+	{
+		"warehouseID": "6B570A0AD7123CCF813788142D9981BB",
+		"warehouseName": "浙江代发:星优"
+	},
+	{
+		"warehouseID": "69928E2D36AC336390EC57168542C7C4",
+		"warehouseName": "春节—徐州仓"
+	},
+	{
+		"warehouseID": "87D37D7BAD0B36DCA290B8031B2ED5F6",
+		"warehouseName": "山东代发：席之雅"
+	},
+	{
+		"warehouseID": "4E0AAE0607903048B24E92C75DE54CD5",
+		"warehouseName": "河北代发：勇博"
+	},
+	{
+		"warehouseID": "66B1FBF45605374B849442926B4FC113",
+		"warehouseName": "山东代发：定陶雅诚"
+	},
+	{
+		"warehouseID": "595770D701763D33855E6A67653351A9",
+		"warehouseName": "山东代发：霸州耀辰"
+	},
+	{
+		"warehouseID": "DC9C20B0140C3713817B239FD49D73B5",
+		"warehouseName": "山东代发：湖南云峰"
+	},
+	{
+		"warehouseID": "88EDCD287D823B9AA0226636B1C255AD",
+		"warehouseName": "山东代发：淄博友和"
+	},
+	{
+		"warehouseID": "C433061E5F123DB9A8B219C67F498E27",
+		"warehouseName": "山东代发：定陶亿家乐"
+	},
+	{
+		"warehouseID": "A54AF983C43F3B84AE9C3DD957FD1E2C",
+		"warehouseName": "浙江代发: 永康大桐"
+	},
+	{
+		"warehouseID": "3419AB823475303DA681ED7BD4E984E5",
+		"warehouseName": "春节—玉兰仓"
+	},
+	{
+		"warehouseID": "51084718D1C93BC493E0A5D3C7CE8806",
+		"warehouseName": "山东代发：安吉义鹏"
+	},
+	{
+		"warehouseID": "B0FE6E7FA8D539D5A7403576B92C67FB",
+		"warehouseName": "山东代发：定陶依然"
+	},
+	{
+		"warehouseID": "73C4E930226E3C60A62503B3A61C666B",
+		"warehouseName": "山东代发：曹县殷氏"
+	},
+	{
+		"warehouseID": "F430AD7289CF3C63A56974BE8EBBB735",
+		"warehouseName": "河北代发：河北煜鑫"
+	},
+	{
+		"warehouseID": "AB6B5E9DB81D3D6B9535B088A6D488A2",
+		"warehouseName": "浙江代发：雅心晴"
+	},
+	{
+		"warehouseID": "C4D9AA3F73A8319CBEC1C2F8CEA07BB6",
+		"warehouseName": "河北代发：怡之然"
+	},
+	{
+		"warehouseID": "A929B98F2FAB3364B03F0216819ECB40",
+		"warehouseName": "徐州代发：张不快"
+	},
+	{
+		"warehouseID": "D5FFB9D21DD33452ABD3BB0AA683B8FB",
+		"warehouseName": "山东代发：霸州筑浮"
+	},
+	{
+		"warehouseID": "B87C4F40939C37A6A5960E4AB3E29556",
+		"warehouseName": "山东代发：众合五金"
+	},
+	{
+		"warehouseID": "0A6FADE519B532398958CAB47CEA6FFA",
+		"warehouseName": "福建代发：众凯"
+	},
+	{
+		"warehouseID": "DCE9327428B737DEB5932B325715AF5A",
+		"warehouseName": "河北代发:河北中胜"
+	},
+	{
+		"warehouseID": "8017B64572083C09B2259180DC67090C",
+		"warehouseName": "山东代发：菏泽造舍"
+	}
+]

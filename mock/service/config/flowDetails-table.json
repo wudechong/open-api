@@ -1,0 +1,33 @@
+{
+  "streamExtPage":{
+    "$entityCount":99,
+    "$data":[
+      {
+        "shopName":"店铺aaa",
+        "olnTid":"111111",
+        "billType":0,
+        "remark":"备注",
+        "cost":-100,
+        "createTime":""
+      },
+      {
+        "shopName":"店铺aaa",
+        "olnTid":"111111",
+        "billType":0,
+        "remark":"备注",
+        "cost":100,
+        "createTime":""
+      },
+      {
+        "shopName":"店铺aaa",
+        "olnTid":"111111",
+        "billType":0,
+        "remark":"备注",
+        "cost":-200,
+        "createTime":""
+      }
+    ]
+  },
+  "rechargePrice":100,
+  "settlePrice":200
+}

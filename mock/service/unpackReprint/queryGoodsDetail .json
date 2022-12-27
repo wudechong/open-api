@@ -1,0 +1,34 @@
+{"data":[{
+    "goodsUid": "173711717420399152",
+    "goodsCode": "SI6945484603546",
+    "goodsName": "AYANEO",
+    "pic1": "https://cdn.shopify.com/s/files/1/0569/2771/5482/products/0402__1.png?v=1649828838",
+	"unit": "件",
+	"pic1 ": "",
+    "isPackage": 0,
+    "specCode": "5469",
+    "specValue1": "1",
+    "specValue2": "1",
+    "specValue": "1，1",
+    "barCode": "111",
+    "specPic": "https://cdn.shopify.com/s/files/1/0569/2771/5482/products/0402__1.png?v=1649828838",
+    "goods_spec_uid":1
+
+},{
+    "goodsUid": "2",
+    "goodsCode": "S2",
+    "goodsName": "AY2",
+    "pic1": "https://cdn.shopify.com/s/files/1/0569/2771/5482/products/0402__1.png?v=1649828838",
+	"unit": "件",
+	"pic1 ": "",
+    "isPackage": 0,
+    "specCode": "2",
+    "specValue1": "2",
+    "specValue2": "2",
+    "specValue": "2，2",
+    "barCode": "222",
+    "specPic": "https://cdn.shopify.com/s/files/1/0569/2771/5482/products/0402__1.png?v=1649828838",
+    "goods_spec_uid":"11B6F03E93063E498F797B7BD2917AE3"
+
+}
+]}

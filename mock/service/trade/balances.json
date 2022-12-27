@@ -1,0 +1,32 @@
+{
+	"code": 200,
+	"data": {
+		"currentPaid": 2481.3,
+		"currentDebt": 0.0,
+		"totalDebt": 0.0,
+		"payment": 2481.3,
+		"payType": "预付款",
+		"account": "公司主账户",
+		"modifiable": true,
+		"details": [
+			{
+				"billID": "D6B380E3CBCD3235AFCBC62C47A7DB10",
+				"paidTime": "2021-05-25T00:00:00.000+0800",
+				"accountID": "694C053717EE3933A094F39FAD027470",
+				"accountName": "公司主账户",
+				"money": 2481.3,
+				"billType": 12,
+				"billStatus": 1
+			},
+			{
+				"billID": "D6B380E3CBCD3235AFCBC62C47A7DB10",
+				"paidTime": "2021-05-25T00:00:00.000+0800",
+				"accountID": "694C053717EE3933A094F39FAD027470",
+				"accountName": "公司主账户",
+				"money": 2481.3,
+				"billType": 12,
+				"billStatus": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,2657 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"brandID": "77AE702BFCD631D6824B0CFBCD84490C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "AMj/奥美嘉",
+			"createTime": "2016-12-27T17:50:20.000+0800"
+		},
+		{
+			"brandID": "F47BC3B7CE22339AAE0342500C9CEE2A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "米居111",
+			"createTime": "2016-12-28T11:04:01.000+0800"
+		},
+		{
+			"brandID": "8C71608D71C1371D9AE8D42BA2DD5D35",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "other/其他",
+			"createTime": "2016-12-28T11:04:06.000+0800"
+		},
+		{
+			"brandID": "95DAB1EB4AF73966AD9CD5DD926A6658",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东信",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "9B3BDAC6352A3085ADD03576973BCD6B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "杜蕾斯",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "A613D2A0C7EC35019E3BEE469B8AF6D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "佰年龄",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "A952726B076938E7A72AAEDD608B665F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "白云山",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "B0944BA32E7330D482C3E373722E928B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康毅",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "C05629BAAF8A31ECA65167961F142411",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康祝",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "49A6367DD7D23BDCA50486F8D5AD1B7E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "迪皿",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "4C8D3BFBC6B4340B8DE304C945D0C554",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "优香",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "4F1FB23E67EF3C2F9AD7B240DA20745D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "普米克都保",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "5997E4213F793E9DB4183D71E2B68434",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "汇仁",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "64C3DC8A889732E78F66B4DF413FC745",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "咪多吡",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "6B6C92F9A50F3BDF87813F9E02A000F5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "艾得辛",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "716B407F8F053690B6155606E08F73F5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "老山",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "7688398F8A983A7FA90DE8C0352E0948",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "京诺",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "792D97C310F730B6A4035F8BE481ADA3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "妥抒",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "08D102FA60D93AE18B558898370A0369",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "安素",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "0C7B4C9053263C2BB61F8A8A997E9FFE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "济仁",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "1EE1536522C53E41A611A517B9B430FA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天草",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "2B18FA0B78E53294BBC148C4C0255DEA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "耐氏",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "CC34889181AE37838E653F2233434941",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "银诺克",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "CFCD9902456135A0BA8CA429B05F2A30",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "冈底斯峰",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "D1E7EE7DA1213182A15F3C80FBAD4C29",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "好好",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "D29D225A0C25373582DEC68DE3F6336F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "钙尔奇",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "D7100DBAA7C83B0084B4C584FB37BB68",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "百善为民",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "DDB333A6C0BF3C32AB7329FD5B7A92A0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "星元佳",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "E2FF0DC29FDD3E0E99CE5018051A0B4C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "加衡",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "EABD8B520A113BF6B96A7DF7099C710A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华帅",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "ECBCD73006503CB1AC207C8ED6F4F223",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东方人",
+			"createTime": "2016-12-28T20:01:12.000+0800"
+		},
+		{
+			"brandID": "C82315197798347EAF1B5E39F7A3CBF1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "亿活",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "E34078CC33523428B7EBFB9454398780",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金元",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "E9F1647A6041391D9E1AA7DBCC05C128",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "优锐",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "EC2D488AD0A63BDBBCE87C57FF0574AC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "锋锐",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "F6888AD1EE243EB6BA6BA113042AC879",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "润众",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "F7FFD3B33EA63D0E8B2BAFC3215A19DA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "艾丽",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "F9DCE67630533978BF263A6C1C349D67",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "米雅",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "FA55DA154A5E34D59C37105CB1277EB8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "赤峰",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "FA63026FE3613619BBE1BDBEF451ADDD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "依苏",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "44C5347670FB3CA1983D638FABE4F9C8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "启维",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "4BA561D142233C718F26B5A1CAC2E650",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "友来特",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "59E81C06042336559D3AFE5A58991D25",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "九芝堂",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "5B59B4340C9F3715889892AC851F6D82",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "维和",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "687FE08B018D3DC7B3EEB5E5211F6B81",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "根本",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "71B2363733AF35958EABEC6A25B3D548",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康缘",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "81D30B80E6063B69A356A3BB005F688F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "迪可罗",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "8CC0964ADAE23FA1A9CF9A4F7818454B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "汉方",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "8FC58D94447C348B84DC8D8C2A5C5DC3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "长晟",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "93132BF36CEE377FBDBC7F0E8C625A7C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "世康特",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "93C213C034453F899EBC62D79A98E724",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "美迪康",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "A1AA98129A173E4AB8B4EA8EC5493D22",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍林达",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "A457F08D58C73A149B24194A5A28423D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金戈",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "A7D34172EEA93BAB8B43A3DB72FBFE0F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "莎普爱思",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "B688EB7A42673620AF84AF815BD9145C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天银",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "BD5772BCB39439A195C8050DA4C202F6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "逸舒",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "C0412B7754C23A7F986771AC93798418",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "一新",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "C2B2AE98388D3C7A86D78C4FF694566A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华西牌",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "C467C160237F3F7FB51067A8DEE7110D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "足御堂",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "C4D70EF3E5983CE68D3684A29B2F8205",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "白敬宇",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "C5ADE9F3F9FA302CAD842E9DB797EB37",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金日",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "15D6CAF7BFB33AEA907D9E42476F70A1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "云昆",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "1E95FC62852739049F484244C2024EAB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "仁苏",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "23D3562EEE8C3ABAB405689F845626C5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "灵泰",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "2533B143CAEC3D7891DC45A0E6644AC4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "托妥",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "255969387AD23DB7BB2CCFB1D4570482",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "新和成",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "2AEA99E0387E3BB1945C521E9455E741",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "科伦",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "31FA5DBBF28133DDBAB1DB76DB6A5DF5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "冬神",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "39FEE9ED147635B1AA280A361075109C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "君力达",
+			"createTime": "2016-12-28T20:01:13.000+0800"
+		},
+		{
+			"brandID": "044A7E1C072B3D42AB59D875341BB2F5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "仙琚",
+			"createTime": "2016-12-28T20:01:14.000+0800"
+		},
+		{
+			"brandID": "373A138E927F380E98FE013A86F55674",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "柯医师",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "38EEEB0BFE493400810EEB622FC901A8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "四川大冢",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "39C429722EF23B04AC2DAD16903638AE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "协力甘宝",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "39F11944CCDF30ECAD31F7021998143B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "云丰",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "42F7AC4CEE6C35FE991671F288CCCBE3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "舒视明",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "4D73F6C671D732C2A03D4B868FCE3A1D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "同达莫星",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "5BA1A9CDE2A435879125B6E0025D0B6F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "兰美抒",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "635B18D97F443A919F2905579548A5B8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华中",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "66B5FAD396CE31BEBEFEC265EE5B53CE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "希舒美",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "7890A1CDDAEC32E4A0E18939A7692BF2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "曲莱",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "8144C1333A9B3974A3C79E3A48D52EE3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "联环",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "84B64021472F33D486BA7AE86C31825A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "博曼欣",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "C83B399A3A913737A324FA05322B7AF1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "希刻劳",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "CD60E04B11193EF49DAC54E37513638A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "斯达芬宁",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "DCD430530AFD36EAAA4645AAD78CCAF2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "安阳中智",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "E0C93F8FF7153BA2BBF4C5A12EC9C699",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "寳瑞坦",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "E611A451A53037CAA8F8C266804DAC39",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "奇力康",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "E9701A55D8C63EDB867CC6B13BCF3426",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "艾暖",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "F566F7BC15E739C68D7CB8EEC2403B9D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "余良卿号",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "F964BFC9C0EF3C9F819BBAB17F73433E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "永刚",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "FB455CBADE393BA49D7ECC17459259A1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "芬吗通",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "896285FCFCCD396D986518C1486B8DCF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天立威",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "8E1BDAAF26CB37B09442BE3AA83B699E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金龙",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "957315C130A73F048E462DD998BC475D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "百雀羚",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "A663DA81BA673D09A29760656A1BEC18",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "山佳",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "B4B776C2C8FE303DB6A24ED75A996D7C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "维康速克",
+			"createTime": "2016-12-28T20:01:17.000+0800"
+		},
+		{
+			"brandID": "872C0D7EF7E538F6BC7DB1191770E465",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天顺",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "8AA1AF572C323B2B975B972CD61038A3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "理洫王",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "8CA7E98B35283DDE8A09257688E85714",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "比复健",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "9ACEB9B8BA563026A33088F5B036838C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天安",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "A843B2F28DFA317187B18E3F6995EDEB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "爱微妈咪",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "B1538CA2E8543996ACEBF27AEB74615F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "衡山",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "B380450164A137148B3182FA0994BAAC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "景忠山",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "B58FF0DCD73A308D8BF5DB05FBD0A0F6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "普力得",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "BCF9AF2B7D263DA1BD4BB1F1E41061C1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "左拂",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "553C8C5BAFA73DEDA1513205800DFA9B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "石药",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "5A3D7A335E1731A29BD8B87661D4081A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "迪康",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "5F9133726068356D9DFCCECB80B55201",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "德众",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "61622E1CD74830A99AE706279E9F0C7C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "新海康",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "6989C224C341321E8CA37F519E6FD390",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "YADA/鑫达康",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "6D858DE682433489957E3AA0ADA9338D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "滴露",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "723456A8372D3EF09D191993A572C3DD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "集希通",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "79995A80E84432DDB58C77540D1807B9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "早康",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "818A5367BA24353F8B2FE414BE1793F6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "易明",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "05D81C7708BB352F9606192EE53519B8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "护佑",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "0D371F5A5D6B355BBFCB00CC841A2B44",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "通用纾宁",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "1FAFF826B8A8392B8F117CACE83E4A4C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "鸿茅",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "2C55D916D04B3EC281494258B7ADC35C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康恩贝",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "3624657525A63044B97CBB64782E053F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "新康泰克",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "3EE487B7F38F3A4786B624F737736896",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍尔康",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "E4F2655EAC673BD8878D62FD6E533344",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "林平",
+			"createTime": "2016-12-28T20:01:18.000+0800"
+		},
+		{
+			"brandID": "C70E5E4FBAF23DF98EA4946F9DA6B008",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "虎镖",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "DA98CE25398D39BEB74C2CA6DC4F9B5E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "依叶",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "DC38927AECEC35BC8A0DA3F2065319D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "汉磁",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "E06ABC06D5A83F408717EFCF21BD2699",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华北制药",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "E47F2AE1FE1A3401B7E759D2AC18C9FF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "艾科",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "EAD41AE14235394A83EE859F95BA12F3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "吉春",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "F3F7B3672577319198D9F67D3C47C5B9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "均必治",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "F4386D40F5603F438601FE9DFEF57C1E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "千金",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "413AA660ABE430C6B757A8DFB163EC21",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "速笑",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "5C2B3199966F345B9169A1A388E21E8F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "道君",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "6736A2E37EAE3535AEB9C2F1EBFE6B91",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "槐花维肤膏",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "81BDDBDFD75236A18529389E6B3FA72C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "伊瑞",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "8567324DE64F30F6BEA0957E224F6672",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "力弗",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "89B6DDC83FAE37F1A71090D774F583D8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "海氏海诺",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "8DB32AEEC36036458D32C481F49DD712",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金丐",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "99969AB6A6123FC98F9069F81EEECB7E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "颈复康",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "9C2D5FC3FA8B35D38ED7BC645C844A06",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "今辰",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "AC24BBA2DD0F35F0BD53D91DBE2CCE39",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "达力新",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "0B41A320963339E397D118CFC55D7C74",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "伏羲",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "0BEE0AEB76AF3C9B993CC7F10927BAE0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "震元",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "18DF09CEBCDC3A6A8878711EC0BFE93A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "小林",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "20CBA76BD55D3BAEBEF759C47C01EF22",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "依利康",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "26DAC7A1EEA03B009C4A45EB333D479C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "明竹欣",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "3E83B93A841333F3AEC315C3CF4A2D2D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "大卫",
+			"createTime": "2016-12-28T20:01:19.000+0800"
+		},
+		{
+			"brandID": "0867CA4851213505A029FF1AB904DD9E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "红芍牌",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "199C98C812C6341BAF67520AEA2E3434",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "丽科吉",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "1A583BE8E8BC37C6B912F4E96E8C48D2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康刻尔",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "22FFFF7A313733989AA120845D5C838E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "惠迪",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "361FBC08BED832F9BF62711D9C63CCB4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "海正",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "3F456438B6BC3A849B6B9BCDFFDE16AA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "丽珠欣乐",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "4FA035190A7F3D6B8C61EC2EA8E3A468",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "信龙",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "5F5228715C12339AB2775D386A4945BE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "汉森",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "6152FF4B89C53F35BB95FCDB1EFCE21E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "鲁抗",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "61EEA96F220D372F889EB6B6D26DE305",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "禾正",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "637410CC4BA93221AAFA4B595AD13F96",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "谷参",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "6815B6D3578736CCBDB23869C8635F51",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "无比滴",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "82A49BD9BA9C3F14A313ECEF5529C16E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华邦",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "83239E504EC33017B6095F392CD66582",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "乐赛",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "E81A4A869B4239EB8BCDA34A1EC8191E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金宇",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "ED7F975F1571324298B0F9D609E4E7B2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "黄山天目",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "EE930CBC46773B8F94BAC0038BEF1DD9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "海外",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "FDF52E001E1A3AF5B6A1F0BA41B1CC40",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "999",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "FE63AAD169E9343098462D438A4D0CB4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "扬子江",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "87EB92F9579539E89A591E15B76A890C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恒久远",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "A65776DED0E332B9B7CD3EC2BF8F3CAA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "敬修堂",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "ADE8FFFF1F0E37478CA7E14730AC5185",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恒瑞",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "B571F4C7147B3D8AADFDE8384B15B58E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金络",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "C1C86E12FE78345B9E4BD680ADC4ABED",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "国缔",
+			"createTime": "2016-12-28T20:01:20.000+0800"
+		},
+		{
+			"brandID": "86A3E6F4BD6036EAB1C978C6F7874C9C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "三力",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "88EEBF7C3B463C54A6A8B2423E3A0455",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "君碧莎",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "8C13656C629635D2ABEFDA87BC7684C0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "威士雅",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "8D96FB773526307BA770869C1C045C3C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "春萌",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "936EEC2C303F36E895B8D8008E16B7BA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "昊福",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "A07D31F83E963EE3B302FBE10BFAF54F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "曲可伸",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "A18FABCE8A1C3AE6A4CA5F1E684DE1A5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "旁恩",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "A7A24CE98342352B909F74718405482D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "圣大",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "B367193368DF32469578C62CBA7E3A34",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "泾渭",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "BBE96F8AF42B3545861DB6C3F965A3B2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "美林",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "4AA62C9F653C33E3838C6D5C30F6E818",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "欣可静",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "4CAE7A4F4BA73880B14D9E7A956CB5B0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恒霸",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "4DE81E6BEB043C9CA7B0E983B5A860A5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "冠峰",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "521BB29E06B83E2F981D0B2A40D62FFF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "胡庆余堂",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "6BADE5579E75361AB550CA8E386C8E34",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "先声",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "7D71C23FB4693CB0B259F34FAAC87A00",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "花城",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "0646E96AF2273B378A5FDBFE23AF185F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "中央",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "113F8070E7A93F6092FE042BED9EB9E4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "亿华",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "118FF08A9C42330D96F8E7F3E2FF6B73",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍佳",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "1A0D3C2F344B3F639A5C1C8E83A9EC6B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "景优同",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "1A22B7A147583D57B734DF9C7E66335C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金鸡",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "1A7DD86B5D923B33BABF4940F2E52739",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天安堂",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "1ED20811689E3EFA84E6B7BC3417CDEA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "吉春黄金",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "2A040850082033D08628F66848D75D20",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "龙泰",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "2AAF307C1C4339FFBB91339CC025E64C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "好护士",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "32794D298BD3301F9EDBF2D8A40C6390",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "京丰",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "353DA8B0EC0239B9A02ABE0F966B4445",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金钱",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "3B37B3A109713D4F82470C6C3D02CD3E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "君之堂",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "EBEA368AE0D43224B67FA18B1B2B7959",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "联邦",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "F2B4D2D1FB093E2FAA1E28A6744C949E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "仁和",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "F59B1F634FC13C24BD418BE0FC920C45",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "齐鲁",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "FF6B1B6D4DF73B97A0135EA41E14C4D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "郝其军",
+			"createTime": "2016-12-28T20:01:21.000+0800"
+		},
+		{
+			"brandID": "C7F3ED71201D33238168339555BFCB62",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "紫鑫",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "CD154FC0E33733D0A749285F76B47297",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "慢严舒柠",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "E4B46768E2FD3E959B98F4E2E9ADE332",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "鲁北",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "E6E2EA2671DE386EABD7610E5AD3B96D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "保龙康",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "E784E0DCDCF433AD8001497E8C2DCC39",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "百会",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "E870488E79263CC3A40E7D3652C7361D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恩威",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "EDDD28FE6F423F3BA25A8DFA6A901644",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "葛泰",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "F62307CB966E3B55A581C15665CF6EF9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "万年青",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "4793260EEBA2363AA3A6B9E563F0677E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康麦尔",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "572C1F360277314A8D6508ADB4B0F4F7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "陈李济",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "5CD99BFF09D33399AD52818581214559",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "水仙",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "7C14CCD532D63588AA5C4FBFB6F448B0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "绿太阳",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "878355239B7F33BDA49EB5E75CD6BDDD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "颜山",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "8E10F583280C3227927C29D71A62BC08",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "奇正",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "8F6DCAC6855532E4B1717BF27B828FBD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "立效",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "92506C40F8713D0E96DADC2BD1878C19",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "思密达",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "92E9505A9A5C39E19A5DE687DA0F552A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "欣欣",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "9DEBFEAF58E93EF5BF44F81151028B87",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "常州四药",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "BAAE54F9E04E3ACB8CB6F38AFAB088A7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "苏芙",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "BFAEDD4775DD3AF4952E097910B9392D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "普元",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "C4860F4E92A53253BBBB520B7B2C1C4F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "海昇",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "092E36EC51DB3CD2BD07853F8883A46B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "俊宏",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "0B2B35663B1B3E458F7A88D1F9692EAE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "宏仁堂",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "17960B6E9B6C3B71B9F7D3EB6892296F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "佛慈",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "2EEFBF8F75453536BB4C2E49CB4550DD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "神威",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "306FD0304FC43267839809A224330370",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "良济",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "31B1365844D13A7E863D03FF8C4CF8AE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "同济堂",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "33EECE089CFE36119A6199DA97C0C02C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "彼迪",
+			"createTime": "2016-12-28T20:01:22.000+0800"
+		},
+		{
+			"brandID": "0232E908DA893081BE1D9659077E382E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "四环",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "05B11B79C020302AA06789A4DDF58D00",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "奥邦",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "0C1D9BC9EF973B6F96090B2A0B8F4244",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康瑞保",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "29C5622C6D513E6F90C89E26DAEE2F33",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "和恩",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "2BA0FC3DFF15311C9BBE112283723B8A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "纯正堂",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "2EE69E610C7E3DAEB7327A4DFF9CC89E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "开思亭",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "3970438FB8EA33D5969818D1C395B8AB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东药",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "3A15C98ED0CA3BA8BB1D8DF5F3A7C112",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "辰欣",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "3CE8F0E9EE9633EC81AA7C699285B3EE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "万全",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "3FFD7565EA703019B4B7DE8AF0AD5D6F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "罗欣津",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "43A27E82AFAD3A25BBA6BB07B829C31D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "畅迪",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "47E107EBAC653F9FB3C28EAEC0C9FEEA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "开浦兰",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "4FFB71423B57319899D8CA7CB6C3AEF5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "来士普",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "5037D522ECAF3D31B6388181F0541965",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "利必通",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "53E2D731324134B79DD36DF98031EDAF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "沙药",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "59C9E3F4392B36E4B22BF96A5143AAFB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "静青",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "610A0770AD1F3F6C8BFBB8F97157D32A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "不养",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "6793C63477403CFEBAA3859096BCA4AE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "艾迪莎",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "74F4CEC6B71D3E7D903D871A26D7C647",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "芬必得",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "844A28A07A15357293D894D470F79027",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "扶正",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "D0CC350EB3AF3B5BB289F1415E74F5BE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "益佰",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "E2C2F238DA4C3B3C8040BCEE1397B2F7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "太龙",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "E868BC61360D3AB4964CECC42C1C3F36",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康裕",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "EF92CD2A07F03421839C2A6AFED7C437",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "双燕牌",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "F54A335711F03677880D3DCE4D0D4B6E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "世贸天阶",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "AA022BF6211F3F1F8185B88132863EB1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金焦",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "AE0FE88DA7B53877A20BD379398CC4D2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "苏中",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "BE89F20E7B693129BA0A36DCBE18763C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "上海医疗",
+			"createTime": "2016-12-28T20:01:23.000+0800"
+		},
+		{
+			"brandID": "8635EA5357B935259F053231521B21DB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍他乐克",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "86B9115F258034D587822873A5C3ADA6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "朗逸",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "8C0F35AA7AFD33ADA55B105EF4D8BE7B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "希臣",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "8EE05E3608AC3D96B19B7AB93CEC2EBD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "海露",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "949032B88F5D3AE4A29C4656CA4C8D44",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "迪根",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "A4142FF4E06E3B2A9138640135B26BEB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "虎标",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "ABC582E5495E3CF8BC42D7E45F875702",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "活垴素",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "BF7BE7AC2BBB358BAD60AC0EEA739F67",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东泰",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "C095CC7EAC8C3E18A631F5F73C68BA4D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "利君",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "50DBAB5E39B1363BBAF4716C4984A2B6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "古田",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "51ED4589F7213C56AF78451F2DE2791A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "盖克",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "527611BCB8793161B5E1DA17F174CC6B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "乐喜林",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "52DECA4C16A730C6BBDC73BF792DD6AD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "克之",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "53FE3783D48330B294C382C2253C3452",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "昊畅",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "57A481449E7D38D386339B6A2CEFC229",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "植孕",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "59DC4EDA4F9A38E1AAF6BE69A8943111",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "现代",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "6A8297233E133AE59FD99F207947CBB4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍特",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "6D7B23EFBAB934DA8B8B7180169BC70C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "消脱止",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "7596849E40CB337C9B67A2E981F407A4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "常药",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "7F22A87189673F279232EFAA9D11458F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "凯尔",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "852086655A4936AB81F9EFDA8BA915E3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "晶安",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "0416F46FD53E379E9AAB78BC8E7C427A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "博士伦",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "05059090616C371CB4FABC69FABFE3D6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "科苏",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "07A330EBB6063A1AA0F1950B5D55885A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "定律",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "09B98BA672473499A94065009969FB1E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "紫竹",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "0B3BEA455A583ADEA0AEF0486794D3BF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "维甘苏",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "1592220E9CC431AA8FC716610FC181B4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "淮加",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "17517B8DA1843B4A81D3178DD562CFEB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "郝智",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "2993384528D439CEA4587F054FC3E8FA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恒诚制药",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "2CDEA5159CCE3B57935B7A0B08EC8952",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天龙",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "3ADDCFE9FBCD3560BF9BEC246AB33E98",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "欣他",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "D1B491790C423E5C892F4EDAB400A57C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "甘泽",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "D811A25A06F13586B663535816F92902",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "会康",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "E094CCC0E65732DCBBF8BF41D46755F2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "舒夫坦",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "E8EABD84BA443EB1BFF238FA9A784C73",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "积大帼妥",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F0A2AD74BC133051B2C2FAB76A5CCFEB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "芙原",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F42FDC5B8E54359EB800ED90174F0C92",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "独圣",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F5B3C7BD94DD336AA0C01646A52D46CE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华丹",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F85AF001C5753987AB47ACB312785869",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "高易肖",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F861D3536C293DBFB28CB662EAC53029",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天士力",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "F86B100F84543F4E91AAEEB9ECD5EB51",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "美宝",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "FA3520C3D61C39769A8520A8C0098E54",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "雅施达",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "FB7C074F01DF3BD88FE07B73E5EA152F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "利业新",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "FB9A6ED6B7743B7E8B39994FFC6CF0A6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "亚东瑞晴",
+			"createTime": "2016-12-28T20:01:24.000+0800"
+		},
+		{
+			"brandID": "CC1242521A8E3D9B9EBE319DAA11C3DC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康扬",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "CF99C5A4DF6036739A0AC15282FE2414",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "再泰",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "EF85F3665BAD35CB99AC29CBA62850FA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "嘉仕力",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "F810E32ACE2E3171BE93CD31E606DFA1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "希夫牌",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "4EE4AF7FA3493D909BBE10F0D777BB3F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "上元堂",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "5D56A0B7F53339E7A08699972519EC5C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "顺峰康宁",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "81EB625F64893D77B94A115FB5162502",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "鼻朗",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "81F3910F76AF3A31BAABE9CBCBEC8F2E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "金缬克",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "A36BE6F30A7D346E80993EE25E713361",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "国华",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "A99EB5BB8D56361189AF5031429FA67C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "乐友",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "C1ACE2B012B032BB944DB174EE8E7367",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "燕峰",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "2CE18ACCEC7D3B54952FFC43B7AC3AE4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "奇康",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "2E54A801F56B340596FE4F7DA84C3F32",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "德济",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "33B6D6937CC732DABF961488F5D21E83",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "丽珠",
+			"createTime": "2016-12-28T20:01:25.000+0800"
+		},
+		{
+			"brandID": "02F9048457CA3C02BCCBDD82186E4840",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "尤佳",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "0834F46E548A354BA7E86A11C002ECF7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "达克宁",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "0CCDA76375A9346BA813FCF6EB476BD1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "邦迪",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "26CD3B77B52E322EB13A79EC9D0D85F9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "和兴",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "36741549F5AF35EF9BB7DB7900E539BB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "紫舒",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "4B36C8D703603D33B193C0563DD8140D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "通吧儿",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "531000C898273DACA34080E0C1A47AA1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "雅皓",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "5C69080F57B53DE09CFCB6D19066D25D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "国康",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "5F407D4936C93B5F8B7E85DCAACF5A0D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "孔府",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "60406C3D9A403C1699D2472AEBFDA0D9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "古汉",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "652868D02DEB35D3B6A8BEE06EA40960",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "前列康",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "7D78C10F5C353DBCAB3FB4B43E6BA790",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "龙虎",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "D32C4E3B5C503AEFB6D280863E01C5D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华森",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "D563E169E1283B1E8EFA2F8BFEA006DC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "安邦",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "D9BBEEB567A63EDC8149018925DC8383",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "爱爱迷",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "E291E46E8CFF382AA958081EDDF5354D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "巴斯特",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "F3CC66DF0D3A3107BA3606F40E72172F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "香雪",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "F8604C0BBCE0307689B4990C76FEF809",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "卜可",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "FCE421A86BBC37C094D26B151253C9C0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "积大本特",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "90FC7BEA44CC3A4A8585F4AC0FE77428",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "普华",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "96897E2D351237849CFF1FA28D7DE51C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "香丹清",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "9856BD2FC469317E80675332BCB5E4A3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "莱泰",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "9A1D68F0D3133000A8C64795705F10EB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "安必丁",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "9C3C5501418134D89377348A52B52526",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "达因",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "A32C2D25DB2638D590BB678AA6E03785",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "强生",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "A64958233C9B3127B960801F787E7EEB",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "信东",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "A7C87C0BFFEA3B84A6ADD8CFF003906B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "皇城",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "ACFF5B7A4DC23FE699D4CA7F14EF8B78",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "孚松",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "B458B79A1CC6323F866E09E0DEBB5F61",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "舒适康",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "B5F9289FBDBE365D8CC4BE9BA0D6C337",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "德莫林",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "B8C89CD2F3633263A9F1638745DAC382",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "必坦",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "BA8A661EA4FE3AA18CB142BE4AB920E4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "欢宝",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "BE974D7DC9AA3C668C083F7DECE2E1F5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "峰力",
+			"createTime": "2016-12-28T20:01:26.000+0800"
+		},
+		{
+			"brandID": "87346398DAF935B189607EE15D9B9000",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东乐",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "8A9B6050021635BC83BE9BE508D6324A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "欧维奥",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "AD99DE517D5B3A20A3B214658331DFD6",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "羚锐",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "B9586E27FDD33F809B207D39A5612BC3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "恒建",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "BD6CBE101DAC302FB554DF95936AAB08",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "朗迪",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "5A1AB11119503176A3E6AFCCCA361B76",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "众生",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "5BE785A0CAC335BD8B09FC3575DFB15E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "太宁",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "5FEFD5EB927C39BE857CE21B668DDA0E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天武",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "04A316A08C6F3252B4376F3A1EFC67D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "滇虹",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "35D2930E0E1F34F68236A883452400C8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "稳健",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "D37403932B7630D1A0BE28310DBDE3D8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "扶他林",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "E8568B83BF7D3A7197A3719870164677",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "东维力",
+			"createTime": "2016-12-28T20:01:27.000+0800"
+		},
+		{
+			"brandID": "DA5085C4AF1B3CE3B2539EACDF8230DE",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "民生",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "DD2C10DBDC973705B926F37A871E99E5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "南国",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "F2AB0846BEF53E82BAC3F0F19FD87720",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "扶娃",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "F986E3DFAD2B35C5B2FCE4D74CE5546C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "琪宁",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "4F84928AA0E53E4A91BFFB01B7774191",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "宏宇",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "68B577167D64322191203FB38B52805F",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "尖峰",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "79618EB19FD4379E994DF9864BB6831E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "立众",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "81FE319DF38C390FAD3D8DECBB89E954",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "大洋",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "85828CF8355F37D5A7EEACD72C30F526",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "惠氏",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "8D9547A6F2063C5F807FE0F700A236E1",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "滇中",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "A1E4550A0D7A3E8EACED46149AF819C7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "舒邦",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "A50941A236BC331E9DA9AB59CD9B24FF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "仲景",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "A622C4FD3EAF3E4E85C3140878D6186E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "龙牡",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "A9CD2FF483C03F8883CE48EBD788391D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "明康欣",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "B9777B266EC33D3C98B4D8ECB1246D88",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "瑞珠",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "C36E8AD386593D8389CA6388BB8E3DDC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "天和",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "1F3930F7193B3846840EE35075B1B8C2",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "太太",
+			"createTime": "2016-12-28T20:01:28.000+0800"
+		},
+		{
+			"brandID": "0EF2946CBA633C6DBCEF4F5F6D13D323",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "辅仁",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "21BB193D95F731A88DF6A57EBFC79EDA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "美邦",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "2268090B28B638F482882FD0D6452C16",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "寿全斋",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "33DE3B9D77F630B893C65424EA2EBA71",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "六棉",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "36EE4F33970537A69CDD5DF69511D6AD",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "双士",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "3AC3C7E364C339268CC9BEA333638176",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "升和",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "3BDF96E37FC73522A42922E8BBBF0B82",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "初元",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "43B55884732A34A0A014AE8017E28547",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "青磨坊",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "5A4CB35E112E36D8917CAF8042EB5FD0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "斯必申",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "62AD9DE93D0F3717A285DC8ACFB57588",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "丹媚",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "69F6010CBDF23CCDB25A6D50E82886C7",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "洁尔阴",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "6A7BF5419465307196AAF36E9D4F8700",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "西可韦",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "6C8E9AF9BED33183AD96CD811BAFE59C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "脉博士",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "73B7466BDE023EAFB2CF3541CD4C9012",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "妇炎洁",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "7465A2F295D23DD3934B73C478ECE45B",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "百花",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "795C17D8E4583D65A749460851F6CC33",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "圣泰",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "80172B967A29314B81920CFC0F578385",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "白猫",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "C845678F7A0637DCBC5B6513DFB03725",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "圣华",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "CFC7F10EABD4347092A643F2344DEFEA",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "伊健仕",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "EE938720EA393953AEF7A239B88FE180",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "千金净雅",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "BF0342B73C413E929DAF9CB9A8C345D0",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "阿乐",
+			"createTime": "2016-12-28T20:01:29.000+0800"
+		},
+		{
+			"brandID": "8CD7890546D0393BB5E3C8B8B55A3EEF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "圣手",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "931FF30374D332CA8E8CF5D31DA62443",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "开瑞坦",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "9CED92AB818035ABB1456DC9118D9703",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "百神",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "B49C23958C553FC4B9A1BF27A0C20142",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "真仁堂",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "B80B8D0E03A63241BD6DF53CE1777124",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "西施兰夏露",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "4FA58A29DDCD398494D5D3D0AD121F8E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "强列",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "7C66D44AC0CE3E1B831A80A556136C84",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "为美同",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "83ABB56EC37036FEA59BFA7C6B70480E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "棒棒龙",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "06C4FD908B8E3034A7D4DF6E8E78AEE8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "光辉",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "238533C0079834F9B4151D76F01966F5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "亚宝",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "3824FDED67543A18AB3A1D87F9BA0D1C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "爱乐维",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "3DE20175716E37CC9881398C835016AC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "见笑",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "D3244F62283C326BA7DFB37D4C929625",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "少林寺",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "D4047BC5D20A3A05ABD62E7011679D6E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "宏兴",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "D6F6749ED4C335F6A0DFD595E4DDA295",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "吉民",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "EFF0F2997D3C338CADABAEE2EC683224",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍耐力",
+			"createTime": "2016-12-28T20:01:30.000+0800"
+		},
+		{
+			"brandID": "DBF04D9F00E831AC932A2BCB7C8EC833",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "国药",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "EEB7A4FFDA09345284B94333379FEC4E",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "宝尔通",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "F15D8EA193A33DBB93C7A93042D35D1A",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "玉威",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "489CAF1AEB16308EB4844682938712B3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "佩夫人",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "67E1740273FE328FB7C933B6764F187C",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "维力盖",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "6E320ECB83073F7486EEEA5CEF67C4DC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "英华融泰",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "9068890A4C2C3687ADD569B299EC945D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "薇婷",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "9181C89C2F03322DBCB0E2F45E0FB252",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "泰诺林",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "04F3B93C52B93130A464C043D0BCD209",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "丽波",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "0D4044AAF2EE3AC090EE3187F811213D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "美羚",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "1E7E1FF2C3C43E15A4401A41477F5AC8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "成一药业",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "3577A6D854943741BC3B3B1E221DF8D3",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "克刻",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "3E99F3814C2335E39D2D10C635BB3BA4",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "秦丹",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "402A5E4A558A38A39F81E2E5DCF5603D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "仙鹤",
+			"createTime": "2016-12-28T20:01:31.000+0800"
+		},
+		{
+			"brandID": "216B7AA027F83C07AC575ACEA5A92DD9",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "禾邦",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "5315C454D1E138EAA87A54E7123204A5",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "速力菲",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "633237948C7F3907AEE2F65D8A55A573",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "毓婷",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "666A2F5D3AC135E99EBCA907FAA101E8",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "慧宝源",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "76321D6616923743902089A7BAAAE033",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "康臣",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "CB74C155FC3F31889B3B8BCCD0CF876D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "倍力乐",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "CBAA4FF508DC3B6BAAACF70D9D7229EC",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "雅培",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "DB8564ABDFBA39298BD4F83D8FDB9600",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "华信",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "DDED24201B7C3910A4C05CE9744E2957",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "DMM",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "F470DCC1427B3A9989836FA460AE5922",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "易舒特",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "F8D853A83F2632A9854536A4491CEF73",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "杰士邦",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "A13960BB6A6438E69539EEEEA201C10D",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "伊士情缘",
+			"createTime": "2016-12-28T20:01:32.000+0800"
+		},
+		{
+			"brandID": "895673907E6036E58A3EF87A97FF84AF",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "西同静",
+			"createTime": "2016-12-28T20:01:33.000+0800"
+		},
+		{
+			"brandID": "8B8F779807BD3E0C9C49B5F1DAED3E69",
+			"companyID": "D0C6DDB852323F36B204836864ACBEF0",
+			"brandName": "中大",
+			"createTime": "2016-12-28T20:01:33.000+0800"
+		}
+	]
+}

@@ -1,0 +1,399 @@
+[
+  {
+    "sys": false,
+    "seq": 0,
+    "type": 0,
+    "attribute": 0,
+    "id": "-1"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "d",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 0,
+    "type": 0,
+    "attribute": 0,
+    "id": "402230757935394045"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "订单标记订单标记",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 1,
+    "type": 0,
+    "attribute": 0,
+    "id": "173884811214699155"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "1111111",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 2,
+    "type": 0,
+    "attribute": 0,
+    "id": "868021163979781061"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "1无1",
+    "color": "#F8AB7C",
+    "sys": false,
+    "seq": 3,
+    "type": 0,
+    "attribute": 1,
+    "id": "306535608880843129"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "yy",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 4,
+    "type": 0,
+    "attribute": 0,
+    "id": "758643593100254226"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "wms取消失败",
+    "color": "#e31616",
+    "sys": true,
+    "seq": 5,
+    "type": 0,
+    "attribute": 1,
+    "id": "4"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "地址异常",
+    "color": "#ff8833",
+    "sys": true,
+    "seq": 6,
+    "type": 0,
+    "attribute": 0,
+    "id": "5"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "发货后关闭",
+    "color": "#d0a862",
+    "sys": true,
+    "seq": 7,
+    "type": 0,
+    "attribute": 0,
+    "id": "2"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "testone",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 8,
+    "type": 0,
+    "attribute": 0,
+    "id": "476063008318888625"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "2232323",
+    "color": "#53F7C5",
+    "sys": false,
+    "seq": 9,
+    "type": 0,
+    "attribute": 0,
+    "id": "269351380757314163"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "asd342",
+    "color": "#56C5FC",
+    "sys": false,
+    "seq": 10,
+    "type": 0,
+    "attribute": 0,
+    "id": "206526815233633091"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "tr",
+    "color": "#87F4F8",
+    "sys": false,
+    "seq": 11,
+    "type": 0,
+    "attribute": 0,
+    "id": "202479022320877497"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "空单",
+    "color": "#0066FF",
+    "sys": true,
+    "seq": 12,
+    "type": 0,
+    "attribute": 0,
+    "id": "1"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "yeager2",
+    "color": "#90C2F5",
+    "sys": false,
+    "seq": 13,
+    "type": 0,
+    "attribute": 0,
+    "id": "804349938609819057"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "asd1",
+    "color": "#000000",
+    "sys": false,
+    "seq": 14,
+    "type": 0,
+    "attribute": 0,
+    "id": "102220443322366006"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "sssss1",
+    "color": "#6BC53E",
+    "sys": false,
+    "seq": 15,
+    "type": 0,
+    "attribute": 0,
+    "id": "767536848849728427"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "e",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 16,
+    "type": 0,
+    "attribute": 0,
+    "id": "112694715182485397"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "你好是是是",
+    "color": "#ff00ff",
+    "sys": false,
+    "seq": 17,
+    "type": 0,
+    "attribute": 0,
+    "id": "565121977018458389"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "rr33",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 18,
+    "type": 0,
+    "attribute": 0,
+    "id": "408221532050724481"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "yeage",
+    "color": "#ff0080",
+    "sys": false,
+    "seq": 19,
+    "type": 0,
+    "attribute": 0,
+    "id": "402102923408356646"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "iiiii",
+    "color": "#000000",
+    "sys": false,
+    "seq": 20,
+    "type": 0,
+    "attribute": 0,
+    "id": "374363356516729127"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "ye2",
+    "color": "#3EC5AF",
+    "sys": false,
+    "seq": 21,
+    "type": 0,
+    "attribute": 0,
+    "id": "958289761804385105"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "45",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 22,
+    "type": 0,
+    "attribute": 0,
+    "id": "608508932141822253"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "222",
+    "color": "#3e81c5",
+    "sys": false,
+    "seq": 23,
+    "type": 0,
+    "attribute": 0,
+    "id": "173710080463899887"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "zzqeqw",
+    "color": "#3E49C5",
+    "sys": false,
+    "seq": 24,
+    "type": 0,
+    "attribute": 0,
+    "id": "276004390487172777"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "yeager22",
+    "color": "#808040",
+    "sys": false,
+    "seq": 25,
+    "type": 0,
+    "attribute": 0,
+    "id": "273877949657975145"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "we",
+    "color": "#AFC53E",
+    "sys": false,
+    "seq": 26,
+    "type": 0,
+    "attribute": 0,
+    "id": "271652426019704784"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "fr",
+    "color": "#8F3EC5",
+    "sys": false,
+    "seq": 27,
+    "type": 0,
+    "attribute": 0,
+    "id": "904470990018053593"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "q",
+    "color": "#AFC53E",
+    "sys": false,
+    "seq": 28,
+    "type": 0,
+    "attribute": 0,
+    "id": "300559174435660421"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "yea",
+    "color": "#3EC5AF",
+    "sys": false,
+    "seq": 29,
+    "type": 0,
+    "attribute": 0,
+    "id": "100124100970461987"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "222222222",
+    "color": "#793EC5",
+    "sys": false,
+    "seq": 30,
+    "type": 0,
+    "attribute": 0,
+    "id": "104541643870641158"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "aws",
+    "color": "#43D4D9",
+    "sys": false,
+    "seq": 31,
+    "type": 0,
+    "attribute": 0,
+    "id": "364944260286142506"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "1",
+    "color": "#3E4EC5",
+    "sys": false,
+    "seq": 32,
+    "type": 0,
+    "attribute": 0,
+    "id": "506407689614781898"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "12去",
+    "color": "#3EC59D",
+    "sys": false,
+    "seq": 33,
+    "type": 0,
+    "attribute": 0,
+    "id": "156723941226486353"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "111",
+    "color": "#3EC572",
+    "sys": false,
+    "seq": 34,
+    "type": 0,
+    "attribute": 0,
+    "id": "569592845029394862"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "测试标记2",
+    "color": "#A1C53E",
+    "sys": false,
+    "seq": 35,
+    "type": 0,
+    "attribute": 0,
+    "id": "678238093147607785"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "测试标记3",
+    "color": "#3EC584",
+    "sys": false,
+    "seq": 36,
+    "type": 0,
+    "attribute": 0,
+    "id": "460833814955108951"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "122",
+    "color": "#C55E3E",
+    "sys": false,
+    "seq": 37,
+    "type": 0,
+    "attribute": 0,
+    "id": "371722727613580856"
+  },
+  {
+    "companyID": "10688908897004",
+    "label": "测试标记5",
+    "color": "#3E45C5",
+    "sys": false,
+    "seq": 38,
+    "type": 0,
+    "attribute": 0,
+    "id": "904177015710016394"
+  }
+]

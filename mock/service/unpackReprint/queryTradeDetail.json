@@ -1,0 +1,30 @@
+{"data":[{
+	"tp_item_size": "4",
+	"unit": "件",
+	"pic1 ": "",
+	"goods_name": "泡面",
+	"spec_code": "123456",
+    "specName":"da",
+    "spec1_value":"11",
+    "spec2_value":"11",
+	"bar_code": "bacode",
+    "is_package":"0",
+    "goods_spec_uid":1
+    
+
+},{
+    "tp_item_size": "2",
+	"unit": "件",
+	"pic1 ": "",
+    "specName":"da111",
+	"goods_name": "泡面2",
+	"spec_code": "12345226",
+    "spec1_value":"1221",
+    "spec2_value":"1221",
+	"bar_code": "bacode22",
+    "is_package":"1",
+    "goods_spec_uid":2
+
+
+}
+]}

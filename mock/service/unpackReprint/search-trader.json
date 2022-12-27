@@ -1,0 +1,16 @@
+[{
+	"express_uid": "0BB90F263F03CD7ECB",
+	"salercpt_no": "123456787",
+	"p_batch_serial": "123",
+	"delivery_name": "顺分",
+	"express_uid": "123456",
+	"show_receiver_name": "胡红"
+},{
+    "express_uid": "20BB90F263F03CD7ECB",
+	"salercpt_no": "2123456787",
+	"p_batch_serial": "2123",
+	"delivery_name": "2顺分",
+	"express_uid": "2123456",
+	"show_receiver_name": "胡红2" 
+}
+]

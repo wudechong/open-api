@@ -1,0 +1,46 @@
+[
+	{
+		"code": "data_edit_trade_approve",
+		"hasAuth": true
+	},
+	{
+		"code": "data_show_trade_price",
+		"hasAuth": true
+	},
+	{
+		"code": "data_show_customer_sensitive",
+		"hasAuth": true
+	},
+	{
+		"code": "data_show_business_oper",
+		"hasAuth": true
+	},
+	{
+		"code": "data_show_express_cost",
+		"hasAuth": true
+	},
+	{
+		"code": "data_edit_express_cost",
+		"hasAuth": true
+	},
+	{
+		"code": "data_show_cost",
+		"hasAuth": true
+	},
+	{
+		"code": "data_edit_mark_type",
+		"hasAuth": true
+	},
+	{
+		"code": "csw_sensitive_data_not_notify",
+		"hasAuth": false
+	},
+	{
+		"code": "csw_auto_approve",
+		"hasAuth": true
+	},
+	{
+		"code": "csw_open_occupy_inventory",
+		"hasAuth": false
+	}
+]

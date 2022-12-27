@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "data": {
+    "invoiceKind": 0,
+    "invoiceRate": 0,
+    "printable": 0
+  }
+}

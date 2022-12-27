@@ -1,0 +1,104 @@
+[
+  {
+    "expressID": "363172170868738309",
+    "expressName": "EMS",
+    "localCode": "0001",
+    "taobaoCode": "EMS"
+  },
+  {
+    "expressID": "56C44CFB682D317D866C94A34597DABD",
+    "expressName": "德邦",
+    "localCode": "0002",
+    "taobaoCode": "DBKD"
+  },
+  {
+    "expressID": "96F1DB08662E3E79BA8924624D693A7F",
+    "expressName": "韵达",
+    "localCode": "0003",
+    "taobaoCode": "YUNDA"
+  },
+  {
+    "expressID": "26CB22CC298C3271ABDF7C8D1FD80863",
+    "expressName": "顺丰-抖音面单",
+    "localCode": "0004",
+    "taobaoCode": "SF"
+  },
+  {
+    "expressID": "3115BA1F92B53FF7A22F9BB26EE80A92",
+    "expressName": "测试2",
+    "localCode": "0005",
+    "taobaoCode": "DISTRIBUTOR_30452995"
+  },
+  {
+    "expressID": "093A9D96B2A234908F42F03A02A49ABE",
+    "expressName": "中通",
+    "localCode": "0006",
+    "taobaoCode": "ZTO"
+  },
+  {
+    "expressID": "D65B410BAC513C88B42B3BEA32C6529B",
+    "expressName": "YTO",
+    "localCode": "0007",
+    "taobaoCode": "YTO"
+  },
+  {
+    "expressID": "B84741A36FAD3CAC891B4C0607E0A929",
+    "expressName": "京东青龙",
+    "localCode": "0008",
+    "taobaoCode": "JD"
+  },
+  {
+    "expressID": "781A24E629D439C690D5B5110C97B52F",
+    "expressName": "京东居家-厂家自送",
+    "localCode": "0009",
+    "taobaoCode": "CJZS"
+  },
+  {
+    "expressID": "C648081689773867A25B4E5D02E13EFC",
+    "expressName": "拼多多测试电子面单",
+    "localCode": "0010",
+    "taobaoCode": "SF"
+  },
+  {
+    "expressID": "61C485307CBE3E369E119D2A7E8A61C2",
+    "expressName": "韵达国际",
+    "localCode": "0011",
+    "taobaoCode": "DISTRIBUTOR_13180342"
+  },
+  {
+    "expressID": "211A03759E6230378B42FB151A3395EF",
+    "expressName": "京东（丰网）",
+    "localCode": "0012",
+    "taobaoCode": "FENGWANG"
+  },
+  {
+    "expressID": "9D5B5CC93CBD307F95DBEE1DEF6B1BB0",
+    "expressName": "京东（韵达）",
+    "localCode": "0013",
+    "taobaoCode": "YUNDA"
+  },
+  {
+    "expressID": "0EFD6303B85232BBA560D484CCB8A498",
+    "expressName": "jd",
+    "localCode": "0014",
+    "taobaoCode": "JD"
+  },
+  {
+    "expressID": "178301959848521327",
+    "expressName": "特殊地区快递",
+    "localCode": "5000000007756",
+    "taobaoCode": "5000000007756"
+  },
+  {
+    "expressID": "673592279175543042",
+    "expressName": "顺丰快递",
+    "localCode": "YUNDA-001",
+    "taobaoCode": "SF"
+  },
+  {
+    "expressID": "F83BA91727573131ADB68BB46C4A0C81",
+    "expressName": "韵达拼多多(客户的)",
+    "localCode": "ydpdd2",
+    "taobaoCode": "YUNDA"
+  }
+]

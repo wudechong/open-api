@@ -1,0 +1,208 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "remind",
+      "code": "remind",
+      "name": "提醒",
+      "width": 80,
+      "visible": false
+    },
+    {
+      "id": "73",
+      "code": "goods",
+      "name": "商品显示",
+      "width": 152,
+      "visible": false
+    },
+    {
+      "id": "75",
+      "code": "remark",
+      "name": "备注",
+      "width": 144,
+      "visible": false
+    },
+    {
+      "id": "74",
+      "code": "message",
+      "name": "买家留言/附加信息",
+      "width": 144,
+      "visible": false
+    },
+    {
+      "id": "92",
+      "code": "linkCode",
+      "name": "订单号",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "72",
+      "code": "goodsCount",
+      "name": "商品总数",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "76",
+      "code": "warehouseName",
+      "name": "仓库",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "93",
+      "code": "tradeCode",
+      "name": "系统单号",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "94",
+      "code": "shopName",
+      "name": "平台/店铺",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "70",
+      "code": "markTypes",
+      "name": "订单标记",
+      "width": 156,
+      "visible": true
+    },
+    {
+      "id": "71",
+      "code": "restShipTime",
+      "name": "剩余发货时间",
+      "width": 108,
+      "visible": true
+    },
+    {
+      "id": "77",
+      "code": "logisticsTypeName",
+      "name": "配送方式",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "78",
+      "code": "expressName",
+      "name": "快递",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "79",
+      "code": "buyer",
+      "name": "买家ID(旺旺)",
+      "width": 108,
+      "visible": true
+    },
+    {
+      "id": "80",
+      "code": "address",
+      "name": "收货地址",
+      "width": 264,
+      "visible": true
+    },
+    {
+      "id": "81",
+      "code": "payment",
+      "name": "订单金额",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "82",
+      "code": "discount",
+      "name": "优惠",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "83",
+      "code": "postfee",
+      "name": "邮费",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "84",
+      "code": "servicePay",
+      "name": "服务费",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "85",
+      "code": "weight",
+      "name": "重量",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "86",
+      "code": "volume",
+      "name": "体积",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "87",
+      "code": "expressFee",
+      "name": "快递成本",
+      "width": 100,
+      "visible": true
+    },
+    {
+      "id": "88",
+      "code": "createTimePeriod",
+      "name": "下单时间/距今",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "89",
+      "code": "paidTime",
+      "name": "付款时间/距今",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "90",
+      "code": "estimateTime",
+      "name": "预计发货时间",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "91",
+      "code": "esTime",
+      "name": "预计送达时间",
+      "width": 140,
+      "visible": true
+    },
+    {
+      "id": "95",
+      "code": "salesmanName",
+      "name": "业务员",
+      "width": 100,
+      "visible": false
+    },
+    {
+      "id": "96",
+      "code": "declaredValue",
+      "name": "声明价值",
+      "width": 100,
+      "visible": false
+    },
+    {
+      "id": "97",
+      "code": "invoice",
+      "name": "发票抬头",
+      "width": 100,
+      "visible": false
+    }
+  ]
+}

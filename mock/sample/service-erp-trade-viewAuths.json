@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "code": "csw_open_occupy_inventory",
+      "hasAuth": true
+    },
+    {
+      "code": "csw_open_split_occupied_item",
+      "hasAuth": true
+    },
+    {
+      "code": "csw_tax_switch",
+      "hasAuth": true
+    },
+    {
+      "code": "data_edit_customer_address",
+      "hasAuth": true
+    },
+    {
+      "code": "data_edit_express_cost",
+      "hasAuth": true
+    },
+    {
+      "code": "data_edit_mark_type",
+      "hasAuth": true
+    },
+    {
+      "code": "data_edit_trade_approve",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_business_oper",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_customer_buyer",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_customer_sensitive",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_express_cost",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_trade_price",
+      "hasAuth": true
+    },
+    {
+      "code": "data_show_cost",
+      "hasAuth": true
+    },
+    {
+      "code": "csw_item_cost",
+      "hasAuth": true
+    },
+    {
+      "code": "csw_split_limitation_order",
+      "hasAuth": true
+    },
+    {
+      "code": "biz_openBatch",
+      "hasAuth": true
+    },
+    {
+      "code": "ver_professional",
+      "hasAuth": true
+    }
+  ]
+}

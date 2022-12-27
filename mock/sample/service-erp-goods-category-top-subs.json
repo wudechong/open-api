@@ -1,0 +1,75 @@
+[
+  {
+    "categoryID": "-2",
+    "categoryName": "[未分类商品]",
+    "isPackage": 0,
+    "hasChild": false
+  },
+  {
+    "categoryID": "C676BD9DD709317EA54138355A68AE30",
+    "companyID": "10688908897004",
+    "categoryName": "外贸商品",
+    "sequence": 1,
+    "sortTime": "2021-01-11T11:44:50.000+0800",
+    "isPackage": 0,
+    "declarationCnName": "外贸商品中文",
+    "declarationEnName": "外贸商品英文",
+    "hasChild": true
+  },
+  {
+    "categoryID": "76A58A91A0E0396DBE8AA6B992786008",
+    "companyID": "10688908897004",
+    "categoryName": "内贸商品",
+    "sequence": 2,
+    "sortTime": "2021-01-11T11:44:59.000+0800",
+    "isPackage": 0,
+    "declarationCnName": "内贸商品中文",
+    "declarationEnName": "内贸商品英文",
+    "hasChild": true
+  },
+  {
+    "categoryID": "D49F2F43BDA43C0B923AE94B25E9E386",
+    "companyID": "10688908897004",
+    "categoryName": "导入商品",
+    "sequence": 3,
+    "sortTime": "2021-07-30T18:44:35.000+0800",
+    "isPackage": 0,
+    "hasChild": false
+  },
+  {
+    "categoryID": "18A120B63CBB3595B97939FE47A3577A",
+    "companyID": "10688908897004",
+    "categoryName": "虚拟仓商品",
+    "sequence": 4,
+    "sortTime": "2021-09-27T16:30:29.000+0800",
+    "isPackage": 0,
+    "hasChild": false
+  },
+  {
+    "categoryID": "8E5FE708CFD23EA4978B4AE202259757",
+    "companyID": "10688908897004",
+    "categoryName": "验证备注",
+    "sequence": 7,
+    "sortTime": "2021-11-08T16:57:25.000+0800",
+    "isPackage": 0,
+    "hasChild": false
+  },
+  {
+    "categoryID": "E640878B8117371FA368323585DAA00F",
+    "companyID": "10688908897004",
+    "categoryName": "无规格商品",
+    "sequence": 8,
+    "sortTime": "2021-12-23T16:29:28.000+0800",
+    "isPackage": 0,
+    "hasChild": false
+  },
+  {
+    "categoryID": "185B859951673061B1EB30D51E6C68BD",
+    "companyID": "10688908897004",
+    "categoryName": "批次商品",
+    "sequence": 9,
+    "sortTime": "2022-01-14T19:08:53.000+0800",
+    "isPackage": 0,
+    "hasChild": false
+  }
+]

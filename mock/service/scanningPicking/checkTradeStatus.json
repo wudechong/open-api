@@ -1,0 +1,29 @@
+[
+    {
+     "salercpt_uid":"1",
+      "tid":"",
+      "shopUid":"",
+      "expressNo":"11111",
+      "error":"订单自动挂起",
+      "tradeNo":"11",
+      "suspend": 11,
+      "goodsInfo":"商品A",
+      "suspendInfo":"申请退款,订单自动挂起",
+      "isIntercept":true, 
+      "isPartIntercept":true, 
+      "pending":false 
+    },{
+        "tradeUid":"2",
+         "tid":"",
+         "shopUid":"",
+         "expressNo":"2222",
+         "goodsInfo":"商品B",
+         "error":"订单自动挂起",
+         "tradeNo":"33",
+         "suspend": 11,
+         "suspendInfo":"申请退款,订单自动挂起",
+         "isIntercept":false, 
+         "isPartIntercept":false, 
+         "pending":true 
+       }
+]

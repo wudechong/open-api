@@ -1,0 +1,9 @@
+[
+  {
+    "categoryID": "0",
+    "categoryName": "<<所有系统分类>>",
+    "isPackage": 1,
+    "hasChild": 1,
+    "child": true
+  }
+]

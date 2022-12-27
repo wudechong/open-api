@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "warehouseID": "5390CA18CC9D3CD685BCB4E9D21C78A5",
+      "warehouseName": "first"
+    },
+    {
+      "warehouseID": "91CE3FD4C21C3F89B105F08B081D7030",
+      "warehouseName": "wms仓01"
+    },
+    {
+      "warehouseID": "10688908897004",
+      "warehouseName": "默认仓库"
+    },
+    {
+      "warehouseID": "198CD5466765308D9125396D4B0D60D4",
+      "warehouseName": "second"
+    },
+    {
+      "warehouseID": "F180824FB66037CE9AC44A58F00BAB0D",
+      "warehouseName": "third"
+    },
+    {
+      "warehouseID": "C61F74259C4F32F2BF4434289C3C6A16",
+      "warehouseName": "four"
+    },
+    {
+      "warehouseID": "34DE25951FA53C5EB2588A75543D6F43",
+      "warehouseName": "five"
+    },
+    {
+      "warehouseID": "6549FE94B6873AD9800A6DF5D29F7345",
+      "warehouseName": "单种单件仓"
+    },
+    {
+      "warehouseID": "3C57B9F670EC3E389C649403677FACEF",
+      "warehouseName": "单种多件仓"
+    },
+    {
+      "warehouseID": "B7F92794F6753C9A882876FCF2CE10D7",
+      "warehouseName": "多种多件仓"
+    }
+  ]
+}

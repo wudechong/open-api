@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="//hcalf.hupun.com/resources/favicon.ico">
+  <title><%= title %></title>
+  <style>
+      body {
+          margin: 20px;
+          font-size: 15px;
+      }
+
+      h3 {
+          font-size: 110%;
+          font-weight: normal;
+          margin-top: 42px;
+      }
+
+      a {
+          color: dodgerblue;
+      }
+
+      input {
+          padding: 6px;
+      }
+
+	  li {
+		  margin-top: 6px;
+	  }
+  </style>
+</head>
+
+<body>
+<h3>可用的子视图</h3>
+<ul>
+  <% for (var i in entries) { %>
+  <li>
+    <a href="<%= entries[i] %>">/<%= entries[i] %></a>
+  </li>
+  <% } %>
+</ul>
+
+<h3>模拟Session</h3>
+Cookie名：<br><input id="inputCookieName" size="60" placeholder="请输入CookieID，如有多个可用,分隔" onchange="cookieNameChange()">
+<br>
+<br>
+SessionID：<br><input id="inputSession" size="60" placeholder="请输入SessionID的值" onchange="sessionIdChange()">
+</body>
+
+<script>
+  function setCookie(name, value) {
+    const days = (value == null || value === "") ? -1 : 365;
+    const exp = new Date();
+    exp.setTime(exp.getTime() + days * 24 * 60 * 60 * 30);
+    document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString()+"domain=" + window.document.domain;
+  }
+
+  function getCookie(name) {
+    const arr = document.cookie.match(new RegExp("(^| )" + name + "=([^;]*)(;|$)"));
+    return (arr) ? unescape(arr[2]) : null;
+  }
+
+  const COOKIE_NAME_KEY = "SESSION_COOKIE_NAME";
+  document.getElementById("inputCookieName").value = getCookie(COOKIE_NAME_KEY) || 'ERPSESSIONID';
+
+  let sessionKey = getCookie(COOKIE_NAME_KEY);
+  if (sessionKey) {
+    const key = sessionKey.split(/[,;]/)[0].trim()
+    document.getElementById("inputSession").value = getCookie(key);
+  }
+
+  function cookieNameChange() {
+    setSessionId(null);
+    sessionKey = document.getElementById("inputCookieName").value;
+    setCookie(COOKIE_NAME_KEY, sessionKey);
+    sessionIdChange();
+  }
+
+  function sessionIdChange() {
+    const sessionId = document.getElementById("inputSession").value;
+    setSessionId(sessionId);
+  }
+
+  function setSessionId(sessionId) {
+    if (sessionKey) {
+      sessionKey.split(/[,;]/).forEach(key => {
+        setCookie(key.trim(), sessionId);
+      });
+    }
+  }
+</script>
+
+</html>

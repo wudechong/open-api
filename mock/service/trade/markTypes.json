@@ -1,0 +1,319 @@
+[
+	{
+		"sys": false,
+		"seq": 0,
+		"id": "-1"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "指定快递",
+		"color": "#0066FF",
+		"sys": true,
+		"seq": 0,
+		"id": "7"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "关闭",
+		"color": "#c6533f",
+		"sys": false,
+		"seq": 1,
+		"id": "967843369555571829"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "刷单",
+		"color": "#9300ff",
+		"sys": false,
+		"seq": 2,
+		"id": "E5DAB660A25930A7A4F82665F8792232"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "未付款",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 3,
+		"id": "706412819109567495"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "线上已发货",
+		"color": "0066FF",
+		"sys": true,
+		"seq": 4,
+		"id": "6"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "快运停发",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 5,
+		"id": "908688751890933957"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "圆通停发",
+		"color": "#0066FF",
+		"sys": false,
+		"seq": 6,
+		"id": "12ED95323F2231E4A606C6ADF5B923E6"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "拦截退回",
+		"color": "#15ff00",
+		"sys": false,
+		"seq": 7,
+		"id": "D1153D27C2BD3F30A26995C519DA539D"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "已补发的",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 8,
+		"id": "114825966158406059"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "没有搭配的",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 9,
+		"id": "304412342271237451"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "延迟发货仓库等通知",
+		"color": "#0a57fa",
+		"sys": false,
+		"seq": 10,
+		"id": "358843383198036201"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "发货",
+		"color": "#ff0000",
+		"sys": false,
+		"seq": 11,
+		"id": "CB8E013C3B713FEE8A631F2BEA66AE6D"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "换颜色",
+		"color": "#ff2700",
+		"sys": false,
+		"seq": 12,
+		"id": "9E26DAD72D393357A841FE5692118D5E"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "等通知订单",
+		"color": "#0066ff",
+		"sys": false,
+		"seq": 13,
+		"id": "0EE8F04B0F663FA195388F2EFDCB1B0E"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "停发订单",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 14,
+		"id": "478308587698963723"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "四区京东单",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 15,
+		"id": "312996812885803497"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "超重",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 16,
+		"id": "254666271445883493"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "已关闭订单强制发货",
+		"color": "#FF0000",
+		"sys": true,
+		"seq": 17,
+		"id": "10"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "改款",
+		"color": "#4d3ba4",
+		"sys": false,
+		"seq": 18,
+		"id": "B92A960828013D999D6C68D85944FCEB"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "百世停发",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 19,
+		"id": "970070403136753889"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "转仓",
+		"color": "#ffa300",
+		"sys": false,
+		"seq": 20,
+		"id": "A9E08FC100613DBCB41C650BAB23D9CB"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "疫情停发",
+		"color": "#4e6a95",
+		"sys": false,
+		"seq": 21,
+		"id": "C2AED3CF10EE326E899CEBCBD8333346"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "中断",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 22,
+		"id": "267229849671643452"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "中通停发",
+		"color": "#a700ff",
+		"sys": false,
+		"seq": 23,
+		"id": "170256F752363817BA0D192EB2B1464B"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "韵达停发",
+		"color": "#ff0600",
+		"sys": false,
+		"seq": 24,
+		"id": "DE2C6D3B13FB343B9F91191E40B845D7"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "缺货未叫",
+		"color": "#1a6234",
+		"sys": false,
+		"seq": 25,
+		"id": "30F9E7AE654036EE8D16B20AC89C5D13"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "取消发货",
+		"color": "#070707",
+		"sys": true,
+		"seq": 26,
+		"id": "5"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "参数不完整",
+		"color": "#ff4900",
+		"sys": false,
+		"seq": 27,
+		"id": "A7A842C8C1C1348A9D28A7981CB9392B"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "其他订单",
+		"color": "#c63f3f",
+		"sys": false,
+		"seq": 28,
+		"id": "369767737853652013"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "物流订单",
+		"color": "#5c3fc6",
+		"sys": false,
+		"seq": 29,
+		"id": "206174172589321644"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "他方代发",
+		"color": "#3fc673",
+		"sys": false,
+		"seq": 30,
+		"id": "269295774863375436"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "退款的订单",
+		"color": "#db8c8c",
+		"sys": false,
+		"seq": 31,
+		"id": "A7432D02CEC33DE3A44389F4120619F2"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "通知wms失败",
+		"color": "0066FF",
+		"sys": true,
+		"seq": 32,
+		"id": "4"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "缺货拆单",
+		"color": "#ed0202",
+		"sys": false,
+		"seq": 33,
+		"id": "400047529511784789"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "正常订单",
+		"color": "#9000ff",
+		"sys": false,
+		"seq": 34,
+		"id": "79B21CFFC8F231D4BF6242EEF7B5FC51"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "空单",
+		"color": "#0066FF",
+		"sys": true,
+		"seq": 35,
+		"id": "1"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "发货后关闭",
+		"color": "0066FF",
+		"sys": true,
+		"seq": 36,
+		"id": "2"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "囤货订单",
+		"color": "#ea00ff",
+		"sys": false,
+		"seq": 37,
+		"id": "89975D7AD236384296EA0B118AA0A893"
+	},
+	{
+		"companyID": "83587229083529",
+		"label": "延迟发货",
+		"color": "#3e81c5",
+		"sys": false,
+		"seq": 38,
+		"id": "361015173128917868"
+	}
+]

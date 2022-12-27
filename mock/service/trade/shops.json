@@ -1,0 +1,351 @@
+[
+	{
+		"s": false,
+		"showName": "分销",
+		"groupID": "DRPSHOP",
+		"shops": [
+			{
+				"shopID": "06960B1CDC253CEE9DFB53C24CD28F3B",
+				"shopNick": "269",
+				"shopName": "269",
+				"shopType": 28,
+				"subType": 0,
+				"s": false,
+				"showName": "[拼多多]269",
+				"distrID": "7F01E386DE3032529CC7968108B71BD6"
+			},
+			{
+				"shopID": "9A3B5C2D2AC93DB9B24A8EC1D629E778",
+				"shopNick": "30587",
+				"shopName": "30587",
+				"shopType": 28,
+				"subType": 0,
+				"s": false,
+				"showName": "[拼多多]30587",
+				"distrID": "7F01E386DE3032529CC7968108B71BD6"
+			},
+			{
+				"shopID": "44EC9199D9413EEAA73BEE60F1CB2000",
+				"shopNick": "杭州湖畔网络",
+				"shopName": "杭州湖畔网络",
+				"shopType": 8,
+				"subType": 0,
+				"s": false,
+				"showName": "[阿里巴巴]杭州湖畔网络",
+				"distrID": "93060D5AACBC3E50A35DC2D496D61C28"
+			},
+			{
+				"shopID": "5CEA5362C1593CB3B876B8539080EC5D",
+				"shopNick": "123",
+				"shopName": "123",
+				"shopType": -1,
+				"subType": 0,
+				"s": false,
+				"showName": "[其他平台]123",
+				"distrID": "D0CB7B776BB633ED93220FE250D910EE"
+			},
+			{
+				"shopID": "30006A2F679433C88FE28ACC8BC3757C",
+				"shopNick": "test",
+				"shopName": "test",
+				"shopType": -1,
+				"subType": 0,
+				"s": false,
+				"showName": "[其他平台]test",
+				"distrID": "FF5963B43E0139AE8C5086C21BB5F1C8"
+			},
+			{
+				"shopID": "CDF64984EA983866B501F7EA0D8E7F9F",
+				"shopNick": "分销自建平台001",
+				"shopName": "分销自建平台001",
+				"shopType": -1,
+				"subType": 0,
+				"s": false,
+				"showName": "[其他平台]分销自建平台001",
+				"distrID": "A1ED36CCEF323BCD858DD6939656C041"
+			},
+			{
+				"shopID": "2E431D7699FE3ECD80F1CDC302E54DBD",
+				"shopNick": "分销自建平台002",
+				"shopName": "分销自建平台002",
+				"shopType": -1,
+				"subType": 0,
+				"s": false,
+				"showName": "[其他平台]分销自建平台002",
+				"distrID": "A1ED36CCEF323BCD858DD6939656C041"
+			}
+		]
+	},
+	{
+		"s": false,
+		"showName": "直营",
+		"groupID": "ERPSHOP",
+		"shops": [
+			{
+				"s": false,
+				"showName": "未分类店铺",
+				"shops": [
+					{
+						"shopID": "7DBB627F356137AA8932485E9A9E5460",
+						"shopNick": "9345",
+						"shopName": "9345",
+						"shopType": 28,
+						"subType": 0,
+						"s": false,
+						"showName": "[拼多多]9345"
+					},
+					{
+						"shopID": "563D84622D6835F9A67EAB6AD92A72QH",
+						"shopNick": "95018",
+						"shopName": "95018",
+						"shopType": 2,
+						"subType": 0,
+						"s": false,
+						"showName": "[京东]95018"
+					},
+					{
+						"shopID": "D0C6DDB852343F36B204836864ACBEF0",
+						"shopNick": "185677",
+						"shopName": "185677",
+						"shopType": 2,
+						"subType": 0,
+						"s": false,
+						"showName": "[京东]185677"
+					},
+					{
+						"shopID": "DA13C38C213336829DF5F8A838FBB883",
+						"shopNick": "全平台",
+						"shopName": "枫树路2店",
+						"shopType": -2,
+						"subType": 0,
+						"s": false,
+						"showName": "[线下门店]枫树路2店"
+					},
+					{
+						"shopID": "F123ACB851D2BFFF53048DF864ACFEF1",
+						"shopNick": "天天好大药房旗舰店",
+						"shopName": "天天好大药房旗舰店",
+						"shopType": 0,
+						"subType": 3,
+						"s": false,
+						"showName": "[天猫]天天好大药房旗舰店"
+					},
+					{
+						"shopID": "09A40437410B312C8E5AF5CD869191EA",
+						"shopNick": "10477",
+						"shopName": "洋码头测试店铺",
+						"shopType": 12,
+						"subType": 0,
+						"s": false,
+						"showName": "[有赞]洋码头测试店铺"
+					},
+					{
+						"shopID": "A96132AE51DD3FD7BEFE69C77D9CA3B4",
+						"shopNick": "线下店铺",
+						"shopName": "线下店铺",
+						"shopType": -1,
+						"subType": 0,
+						"s": false,
+						"showName": "[其他平台]线下店铺"
+					},
+					{
+						"shopID": "30A2AF15272839ACBF0BE97064C5CFB4",
+						"shopNick": "竞信科技",
+						"shopName": "竞信科技",
+						"shopType": 0,
+						"subType": 0,
+						"s": false,
+						"showName": "[店铺无子类型]竞信科技"
+					},
+					{
+						"shopID": "2225BD2AC0D83635A62346A176F54487",
+						"shopNick": "那点创意生活",
+						"shopName": "那点创意生活",
+						"shopType": 28,
+						"subType": 0,
+						"s": false,
+						"showName": "[拼多多]那点创意生活"
+					},
+					{
+						"shopID": "AA9350D6457435C2BC6A2DBAF68467C2",
+						"shopNick": "整点制衣",
+						"shopName": "整点制衣",
+						"shopType": 0,
+						"subType": 0,
+						"s": false,
+						"showName": "[店铺无子类型]整点制衣"
+					},
+					{
+						"shopID": "2CB4028EFB273D77A6EBD4901208290E",
+						"shopNick": "A2NXL89RLFHQAH",
+						"shopName": "亚马逊测试店铺",
+						"shopType": 3,
+						"subType": 0,
+						"s": false,
+						"showName": "[亚马逊]亚马逊测试店铺"
+					},
+					{
+						"shopID": "D6F252504640389DB2FF3BCBC0F3747D",
+						"shopNick": "40971027",
+						"shopName": "假的亚马逊",
+						"shopType": 12,
+						"subType": 0,
+						"s": false,
+						"showName": "[有赞]假的亚马逊"
+					},
+					{
+						"shopID": "EE66AD6E3919356AA8BA36C35AB8A696",
+						"shopNick": "Helen-放心购",
+						"shopName": "Helen-放心购",
+						"shopType": 51,
+						"subType": 0,
+						"s": false,
+						"showName": "[放心购]Helen-放心购"
+					},
+					{
+						"shopID": "A61B73B8D92534939F2F65DF02BFDFED",
+						"shopNick": "Helen-唯品会MP",
+						"shopName": "Helen-唯品会MP",
+						"shopType": 108,
+						"subType": 0,
+						"s": false,
+						"showName": "[唯品会MP]Helen-唯品会MP"
+					},
+					{
+						"shopID": "8BE6B82EF5E13CFAAE05DDD490014296",
+						"shopNick": "Helen-平安好医生",
+						"shopName": "Helen-平安好医生",
+						"shopType": 47,
+						"subType": 0,
+						"s": false,
+						"showName": "[平安好医生]Helen-平安好医生"
+					},
+					{
+						"shopID": "0752BF87BB9A3BC794B2D2A879AF7AB8",
+						"shopNick": "Helen-寺库",
+						"shopName": "Helen-寺库",
+						"shopType": 52,
+						"subType": 0,
+						"s": false,
+						"showName": "[寺库]Helen-寺库"
+					},
+					{
+						"shopID": "876F3FAC7B793E6E844AAB93F2F7CE24",
+						"shopNick": "A店铺",
+						"shopName": "A店铺",
+						"shopType": -1,
+						"subType": 0,
+						"s": false,
+						"showName": "[其他平台]A店铺"
+					},
+					{
+						"shopID": "940F1E6E87E03A2F8E1E7DCDC6060AB9",
+						"shopNick": "新·店铺",
+						"shopName": "新·店铺",
+						"shopType": -1,
+						"subType": 0,
+						"s": false,
+						"showName": "[其他平台]新·店铺"
+					},
+					{
+						"shopID": "F21E107A498137B996A1F5D24EB86D5B",
+						"shopNick": "Helen-西湖",
+						"shopName": "Helen-西湖",
+						"shopType": -1,
+						"subType": 0,
+						"s": false,
+						"showName": "[其他平台]Helen-西湖"
+					},
+					{
+						"shopID": "E9A83349C6ED373DA49D127E9DD40535",
+						"shopNick": "hdp95556",
+						"shopName": "hdp95556",
+						"shopType": 100,
+						"subType": 0,
+						"s": false,
+						"showName": "[独立B2C]hdp95556"
+					},
+					{
+						"shopID": "F5D03B13C03C453C8E0FA6033D2E2BFE",
+						"shopNick": "fs0001",
+						"shopName": "枫树路1店",
+						"shopType": -2,
+						"subType": 0,
+						"s": false,
+						"showName": "[线下门店]枫树路1店"
+					},
+					{
+						"shopID": "7B9ED3FC40E6365FB04378E834C08CF5",
+						"shopNick": "京东-压测店铺",
+						"shopName": "京东-压测店铺",
+						"shopType": -1,
+						"subType": 0,
+						"s": false,
+						"showName": "[其他平台]京东-压测店铺"
+					},
+					{
+						"shopID": "904410443241995155",
+						"shopNick": "410885593608025113",
+						"shopName": "分销-TB",
+						"shopType": 55,
+						"subType": 0,
+						"s": false,
+						"showName": "[分销]分销-TB"
+					}
+				]
+			},
+			{
+				"s": false,
+				"showName": "2个店铺",
+				"shops": [
+					{
+						"shopID": "D0C6DDB852323F36B204836864ACBEF0",
+						"shopNick": "九阳创美专卖店",
+						"shopName": "九阳创美专卖店",
+						"shopType": 0,
+						"subType": 0,
+						"s": false,
+						"showName": "[店铺无子类型]九阳创美专卖店",
+						"groupID": "DB6CB8B490763D82842644E110EA0579"
+					},
+					{
+						"shopID": "D714E5BB65E03F2CBD2BAE93E9B81A97",
+						"shopNick": "誉福园",
+						"shopName": "誉福天下农牧科技开发有限公司",
+						"shopType": 10,
+						"subType": 4,
+						"s": false,
+						"showName": "[唯品会]誉福天下农牧科技开发有限公司",
+						"groupID": "DB6CB8B490763D82842644E110EA0579"
+					}
+				]
+			},
+			{
+				"s": false,
+				"showName": "test",
+				"shops": [
+					{
+						"shopID": "B483E304D77D3A29A7BEB9575B74E7A6",
+						"shopNick": "瑞派数码专营店",
+						"shopName": "瑞派数码专营店",
+						"shopType": 0,
+						"subType": 3,
+						"s": false,
+						"showName": "[天猫]瑞派数码专营店",
+						"groupID": "AB894C0F919035459BA8ACBA6EBFBB0A"
+					},
+					{
+						"shopID": "9359BFA524D834C9B3DA11AD76DA4003",
+						"shopNick": "台电瑞派专卖店",
+						"shopName": "台电瑞派专卖店",
+						"shopType": 0,
+						"subType": 3,
+						"s": false,
+						"showName": "[天猫]台电瑞派专卖店",
+						"groupID": "AB894C0F919035459BA8ACBA6EBFBB0A"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "data": {
+    "currentPaid": 0,
+    "currentDebt": 12,
+    "totalDebt": 0,
+    "payment": 12,
+    "payType": "预付款",
+    "modifiable": false
+  }
+}

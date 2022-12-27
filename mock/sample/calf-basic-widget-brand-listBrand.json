@@ -1,0 +1,77 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "brandID": "CA94FBC35F2F3041AB128F7E316FFB74",
+      "companyID": "10688908897004",
+      "brandName": "归园田居",
+      "createTime": "2020-04-16T17:29:21.000+0800"
+    },
+    {
+      "brandID": "60F8B3C34BBE35FB8F1716BAD672511C",
+      "companyID": "10688908897004",
+      "brandName": "Andy",
+      "createTime": "2020-04-16T17:29:21.000+0800"
+    },
+    {
+      "brandID": "E572945716EB31D390226008035354E3",
+      "companyID": "10688908897004",
+      "brandName": "乡村风情",
+      "createTime": "2020-04-16T17:29:21.000+0800"
+    },
+    {
+      "brandID": "42AAF09E1A5F31EDBC18130DCD766BF7",
+      "companyID": "10688908897004",
+      "brandName": "乐知竹",
+      "createTime": "2020-04-16T17:29:21.000+0800"
+    },
+    {
+      "brandID": "207E23FB6DB535E5A895DEC745343773",
+      "companyID": "10688908897004",
+      "brandName": "21",
+      "createTime": "2020-06-12T14:07:22.000+0800"
+    },
+    {
+      "brandID": "776486218451259463",
+      "companyID": "10688908897004",
+      "brandName": "奇映",
+      "createTime": "2020-08-21T15:43:00.000+0800"
+    },
+    {
+      "brandID": "FCDC7B5EB0C33877A847EC1F56E94F11",
+      "companyID": "10688908897004",
+      "brandName": "90寻画",
+      "createTime": "2020-08-21T15:44:25.000+0800"
+    },
+    {
+      "brandID": "93D4780298273F2DBFAC43B795C97D42",
+      "companyID": "10688908897004",
+      "brandName": "IMANT/依蔓特",
+      "createTime": "2020-08-21T15:44:25.000+0800"
+    },
+    {
+      "brandID": "840188544D0E3393B715D90E87265E0D",
+      "companyID": "10688908897004",
+      "brandName": "-37度诱惑",
+      "createTime": "2021-07-30T19:57:26.000+0800"
+    },
+    {
+      "brandID": "55AEA3C866E832EBBB99BFFEBF3A7500",
+      "companyID": "10688908897004",
+      "brandName": "便万家",
+      "createTime": "2021-09-27T14:52:51.000+0800"
+    },
+    {
+      "brandID": "F0E59CD0C2803A0A945D2049AB55F420",
+      "companyID": "10688908897004",
+      "brandName": "万里牛",
+      "createTime": "2021-11-08T16:59:47.000+0800"
+    },
+    {
+      "brandID": "9ADA488A20E93B23B215F8993BC63B90",
+      "companyID": "10688908897004",
+      "brandName": "Iapetus",
+      "createTime": "2021-12-14T17:45:42.000+0800"
+    }
+  ]
+}

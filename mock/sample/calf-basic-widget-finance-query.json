@@ -1,0 +1,24 @@
+[
+  {
+    "finAccountID": "367300387064610342",
+    "companyID": "10688908897004",
+    "name": "系统账户",
+    "code": 100201,
+    "institutionType": 2,
+    "initial": 0,
+    "balance": 314735.27,
+    "status": 1,
+    "createTime": "2020-04-16T17:14:07.000+0800"
+  },
+  {
+    "finAccountID": "078A13293D87356D90A2FB47458F519B",
+    "companyID": "10688908897004",
+    "name": "工商银行",
+    "code": 100202,
+    "institutionType": 2,
+    "initial": 0,
+    "balance": 1255,
+    "status": 1,
+    "createTime": "2020-08-05T11:31:51.000+0800"
+  }
+]

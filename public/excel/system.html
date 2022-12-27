@@ -1,0 +1,338 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 7.2.1.2 (Windows)"/>
+	<meta name="author" content="Apache POI"/>
+	<meta name="created" content="2021-10-15T03:38:32"/>
+	<meta name="changedby" content="huhh"/>
+	<meta name="changed" content="2021-10-15T03:40:50"/>
+	<meta name="AppVersion" content="16.0300"/>
+	
+	<style type="text/css">
+		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"等线"; font-size:x-small }
+		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
+		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
+		comment { display:none;  } 
+        ::-webkit-scrollbar {
+            height: 9px;
+            width: 9px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border: 2px solid transparent;
+            background: rgba(0, 0, 0, 0.2);
+            background-clip: padding-box;
+        }
+        ::-webkit-scrollbar-thumb:hover{
+            background: rgba(0, 0, 0, 0.4);
+        }
+
+        ::-webkit-scrollbar-track {
+            border-radius: 1px;
+            background: #fff;
+            opacity: 0.2;
+        }
+        table{
+            table-layout:fixed
+        }
+        td{
+            width: 100px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+            border-top: 0px; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"
+        }
+        .tdHeader{
+            border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"
+        }
+	</style>
+	
+</head>
+
+<body>
+<table cellspacing="0" border="0" width="100%" style="table-layout:fixed;word-wrap:break-word;word-break:break-all;">
+	<!-- <colgroup span="67" width="67"></colgroup> -->
+	<tr>
+		<td  style="width:120px;"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">店铺名称</font></b></td>
+		<td style="width:120px;"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">分销商名称</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">分销店铺名称</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">订单号</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">系统单号</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">外部单号</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">订单标记</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">异常类型</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">实付总计</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">优惠总计</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">仓库编码</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">仓库名称</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">买家留言</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">备注</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">打印备注</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">系统订单状态</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">线上订单状态</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">批次流水号</font></b></td>
+		<td style="width:150px"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">商品成本(订单)</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">预计送达时间</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">附加信息</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">发票抬头</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开票内容</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开户银行</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">银行账户</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开票税号</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开票地址</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开票电话</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">开票邮箱</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">快递公司</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">快递单号</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">多包裹</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">快递成本</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">估重</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">称重</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">体积</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">包裹数量</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">运费</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">服务费</font></b></td>
+		<td style="width:150px;"   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">买家ID(客户昵称)</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">收货人</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">身份证号</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">身份证姓名</font></b></td>
+		<td style="width:150px;"   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">手机/电话</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">省</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">市</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">区</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">详细地址</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">邮编</font></b></td>
+		<td style="width:150px;"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">下单时间</font></b></td>
+		<td style="width:150px;"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">付款时间</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">打单时间</font></b></td>
+		<td  style="width:150px;" class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">发货时间</font></b></td>
+		<td style="width:150px;"  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">完成时间</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">交易佣金</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">信用卡佣金</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">返点积分</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">审单员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">财审员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">打单员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">配货员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">验货员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">打包员</font></b></td>
+		<td   class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">称重员</font></b></td>
+		<td  class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">发货员</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">业务员</font></b></td>
+		<td class="tdHeader" align="center" valign=bottom><b><font size=3 color="#0000FF">定金</font></b></td>
+	</tr>
+	<tr>
+		<td  align="left" valign=bottom>京东店铺</td>
+		<td align="left" valign=bottom></td>
+		<td align="left" valign=bottom></td>
+		<td align="left" valign=bottom><font face="Arial">213823971266</font></td>
+		<td align="left" valign=bottom><font face="Arial">XD210810007366</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="right" valign=bottom sdval="37" sdnum="2052;0;0.00"><font face="Arial">37.00</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">003</font></td>
+		<td align="left" valign=bottom>仓库two</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom>发顺丰</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0000</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">75600934569083</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0</font></td>
+		<td align="left" valign=bottom><font face="Arial">1.0000</font></td>
+		<td align="left" valign=bottom>未称重</td>
+		<td align="left" valign=bottom><font face="Arial">0.000</font></td>
+		<td align="left" valign=bottom><font face="Arial">1</font></td>
+		<td align="left" valign=bottom><font face="Arial">20.0</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">wdoyoyulmhztwl</font></td>
+		<td align="left" valign=bottom>阿****</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">176****3130/176****3130</font></td>
+		<td align="left" valign=bottom>新疆维吾尔自治区</td>
+		<td align="left" valign=bottom>喀什地区</td>
+		<td align="left" valign=bottom>泽普县</td>
+		<td align="left" valign=bottom>阿依库勒乡****</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 02:35:05</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 02:36:33</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/08/10 18:13:58</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/28 18:10:58</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">0</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom>[拼多多]拼多多柯飞</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">210717-29587669</font></td>
+		<td align="left" valign=bottom><font face="Arial">XD210816001278</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="right" valign=bottom sdval="7.9" sdnum="2052;0;0.00"><font face="Arial">7.90</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">005</font></td>
+		<td align="left" valign=bottom>仓库four</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0000</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">9865630510321</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0</font></td>
+		<td align="left" valign=bottom><font face="Arial">0.0000</font></td>
+		<td align="left" valign=bottom>未称重</td>
+		<td align="left" valign=bottom><font face="Arial">0.000</font></td>
+		<td align="left" valign=bottom><font face="Arial">1</font></td>
+		<td align="left" valign=bottom><font face="Arial">0.0</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 05:41:17</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 05:41:22</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 09:01:29</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/08/16 11:52:28</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">0</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+	</tr>
+	<tr>
+		<td height="19" align="left" valign=bottom>[拼多多]拼多多柯飞</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">210717-552893</font></td>
+		<td align="left" valign=bottom><font face="Arial">XD210816003369</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="right" valign=bottom sdval="6.8" sdnum="2052;0;0.00"><font face="Arial">6.80</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">005</font></td>
+		<td align="left" valign=bottom>仓库four</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom>成功</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0000</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">9865630498597</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">0.0</font></td>
+		<td align="left" valign=bottom><font face="Arial">0.0000</font></td>
+		<td align="left" valign=bottom>未称重</td>
+		<td align="left" valign=bottom><font face="Arial">0.000</font></td>
+		<td align="left" valign=bottom><font face="Arial">1</font></td>
+		<td align="left" valign=bottom><font face="Arial">0.0</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 06:31:04</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 06:31:16</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><font face="Arial">2021/07/17 09:01:31</font></td>
+		<td align="left" valign=bottom><font face="Arial">2021/08/16 11:55:46</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="2052;0;0.00"><font face="Arial">0.00</font></td>
+		<td align="left" valign=bottom><font face="Arial">0</font></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+</body>
+
+</html>

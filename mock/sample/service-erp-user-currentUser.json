@@ -1,0 +1,38 @@
+{
+  "id": "902045593339352991",
+  "companyID": "10688908897004",
+  "createDate": "2022-01-11T17:24:25.000+0800",
+  "createUserId": "600045529960486776",
+  "updateUserId": "600045529960486776",
+  "accountID": "102WG00001",
+  "account": "15858119822",
+  "userID": "902045593339352991",
+  "applicationType": 2,
+  "name": "Eric",
+  "status": 1,
+  "type": 1,
+  "isSalesman": 0,
+  "isStoreGuide": 0,
+  "routerEnabled": false,
+  "company": {
+    "name": "Andy-服务化测试04【新仓储+批次号】",
+    "created": "2020-04-16T17:14:03.703+0800",
+    "id": "10688908897004"
+  },
+  "application": {
+    "applicationType": 2,
+    "expires": "2099-04-03T10:44:21.000+0800",
+    "trial": true,
+    "version": 200,
+    "created": "2020-04-16T17:14:03.713+0800",
+    "archived": 0,
+    "expired": false
+  },
+  "versionName": "专业版",
+  "typeName": "普通账号",
+  "roleName": "all,",
+  "lastLogin": "2022-03-01T13:38:01.000+0800",
+  "systemOwner": false,
+  "systemAdmin": false,
+  "showName": "Eric"
+}

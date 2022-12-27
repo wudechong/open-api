@@ -1,0 +1,80 @@
+[
+  {
+    "s": false,
+    "showName": "未分类店铺",
+    "shops": [
+      {
+        "shopID": "9BE14184CD7834B6974676199BE6E1E4",
+        "shopNick": "532315037",
+        "shopName": "532315037",
+        "shopType": 35,
+        "subType": 0,
+        "s": false,
+        "showName": "[唯品会JIT]532315037"
+      },
+      {
+        "shopID": "106889088970042222",
+        "shopNick": "创意满屋旗舰店",
+        "shopName": "创意满屋旗舰店",
+        "shopType": 35,
+        "subType": 0,
+        "s": false,
+        "showName": "[唯品会JIT]创意满屋旗舰店"
+      },
+      {
+        "shopID": "904F39C66C803E76950B851B698EEBB1",
+        "shopNick": "cdfi 中免國際(店铺)",
+        "shopName": "cdfi 中免國際(店铺)",
+        "shopType": 106,
+        "subType": 0,
+        "s": false,
+        "showName": "[微盟新云]cdfi 中免國際(店铺)"
+      },
+      {
+        "shopID": "DE3E1002B7033C59B3CA8F9FE2370B1E",
+        "shopNick": "断糖谷小红书店",
+        "shopName": "断糖谷小红书店",
+        "shopType": 32,
+        "subType": 0,
+        "s": false,
+        "showName": "[小红书]断糖谷小红书店"
+      },
+      {
+        "shopID": "57CE29598E963C18A86837DD1EAAA4CB",
+        "shopNick": "店铺01",
+        "shopName": "店铺01",
+        "shopType": -1,
+        "subType": 0,
+        "s": false,
+        "showName": "[其他平台]店铺01"
+      },
+      {
+        "shopID": "9C9AFA1D7EA134DA9FA5CD8F88FD2B27",
+        "shopNick": "25600001",
+        "shopName": "25600001",
+        "shopType": 30,
+        "subType": 0,
+        "s": false,
+        "showName": "[多牛]25600001"
+      },
+      {
+        "shopID": "E06550800AC130389F1A34E8EE99BE3E",
+        "shopNick": "iapetus海外旗舰店",
+        "shopName": "iapetus海外旗舰店",
+        "shopType": 0,
+        "subType": 3,
+        "s": false,
+        "showName": "[天猫]iapetus海外旗舰店"
+      },
+      {
+        "shopID": "97143F447CA533D7AF7C1A95EEE39CDA",
+        "shopNick": "87915440800",
+        "shopName": "hupun",
+        "shopType": 28,
+        "subType": 0,
+        "s": false,
+        "showName": "[拼多多]hupun"
+      }
+    ]
+  }
+]

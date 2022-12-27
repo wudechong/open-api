@@ -1,0 +1,569 @@
+{
+  "code": 200,
+  "data": {
+    "shopID": "95AAA45D24D23B7099778B353DC98715",
+    "shopType": 0,
+    "shopNick": "金康大药房旗舰店",
+    "cid": "50023753",
+    "spuId": "F0295C134C35399792C0A6B56237A5EF",
+    "refreshQuery": false,
+    "dynamicProperties": [
+      {
+        "propsId": "prop_164376033",
+        "propsName": "左右眼",
+        "selectedValues": {
+          "propValue": {
+            "value": []
+          },
+          "type": 3
+        },
+        "attributeType": 2,
+        "propsValue": [
+          {
+            "id": "104871770",
+            "value": "左眼"
+          },
+          {
+            "id": "126497292",
+            "value": "右眼"
+          }
+        ],
+        "inputType": 3,
+        "extendProperty": {
+          "isColor": false,
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "prop_1627207",
+        "propsName": "颜色分类",
+        "selectedValues": {
+          "propValue": {
+            "value": []
+          },
+          "type": 1
+        },
+        "attributeType": 2,
+        "propsValue": [
+          {
+            "id": "3232483",
+            "value": "军绿色"
+          },
+          {
+            "id": "3232484",
+            "value": "天蓝色"
+          },
+          {
+            "id": "3232481",
+            "value": "巧克力色"
+          },
+          {
+            "id": "90554",
+            "value": "桔色"
+          },
+          {
+            "id": "28332",
+            "value": "浅灰色"
+          },
+          {
+            "id": "30156",
+            "value": "浅绿色"
+          },
+          {
+            "id": "60092",
+            "value": "浅黄色"
+          },
+          {
+            "id": "3232482",
+            "value": "深卡其布色"
+          },
+          {
+            "id": "3232478",
+            "value": "深灰色"
+          },
+          {
+            "id": "3232479",
+            "value": "深紫色"
+          },
+          {
+            "id": "28340",
+            "value": "深蓝色"
+          },
+          {
+            "id": "28320",
+            "value": "白色"
+          },
+          {
+            "id": "3232480",
+            "value": "粉红色"
+          },
+          {
+            "id": "80882",
+            "value": "紫罗兰"
+          },
+          {
+            "id": "28329",
+            "value": "紫色"
+          },
+          {
+            "id": "28326",
+            "value": "红色"
+          },
+          {
+            "id": "28335",
+            "value": "绿色"
+          },
+          {
+            "id": "130164",
+            "value": "花色"
+          },
+          {
+            "id": "28338",
+            "value": "蓝色"
+          },
+          {
+            "id": "132069",
+            "value": "褐色"
+          },
+          {
+            "id": "107121",
+            "value": "透明"
+          },
+          {
+            "id": "28327",
+            "value": "酒红色"
+          },
+          {
+            "id": "28324",
+            "value": "黄色"
+          },
+          {
+            "id": "28341",
+            "value": "黑色"
+          }
+        ],
+        "inputType": 1,
+        "isRequired": 1,
+        "extendProperty": {
+          "isColor": true,
+          "requireCondition": false,
+          "first": true
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "prop_12278437",
+        "propsName": "度数",
+        "selectedValues": {
+          "propId": "prop_12278437",
+          "propValue": {
+            "value": [
+              "-1"
+            ]
+          },
+          "type": 3
+        },
+        "attributeType": 2,
+        "propsValue": [
+          {
+            "id": "50789966",
+            "value": "0"
+          },
+          {
+            "id": "10276",
+            "value": "625"
+          },
+          {
+            "id": "33273",
+            "value": "100"
+          },
+          {
+            "id": "3250468",
+            "value": "125"
+          },
+          {
+            "id": "917",
+            "value": "150"
+          },
+          {
+            "id": "137292",
+            "value": "175"
+          },
+          {
+            "id": "1032",
+            "value": "200"
+          },
+          {
+            "id": "28294",
+            "value": "225"
+          },
+          {
+            "id": "1035",
+            "value": "250"
+          },
+          {
+            "id": "1036",
+            "value": "275"
+          },
+          {
+            "id": "33287",
+            "value": "300"
+          },
+          {
+            "id": "3272756",
+            "value": "325"
+          },
+          {
+            "id": "1037",
+            "value": "350"
+          },
+          {
+            "id": "3270736",
+            "value": "375"
+          },
+          {
+            "id": "75367941",
+            "value": "400"
+          },
+          {
+            "id": "3290073",
+            "value": "425"
+          },
+          {
+            "id": "75369323",
+            "value": "450"
+          },
+          {
+            "id": "3375333",
+            "value": "475"
+          },
+          {
+            "id": "75367881",
+            "value": "500"
+          },
+          {
+            "id": "10627",
+            "value": "525"
+          },
+          {
+            "id": "75369542",
+            "value": "550"
+          },
+          {
+            "id": "10773",
+            "value": "575"
+          },
+          {
+            "id": "75366569",
+            "value": "600"
+          },
+          {
+            "id": "75370925",
+            "value": "650"
+          },
+          {
+            "id": "75372814",
+            "value": "700"
+          },
+          {
+            "id": "75370318",
+            "value": "750"
+          },
+          {
+            "id": "75368529",
+            "value": "800"
+          },
+          {
+            "id": "75368818",
+            "value": "850"
+          },
+          {
+            "id": "75367831",
+            "value": "900"
+          },
+          {
+            "id": "75367330",
+            "value": "950"
+          },
+          {
+            "id": "689",
+            "value": "1000"
+          },
+          {
+            "id": "133680",
+            "value": "1050"
+          },
+          {
+            "id": "10086",
+            "value": "1100"
+          },
+          {
+            "id": "3253364",
+            "value": "1150"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 1,
+        "extendProperty": {
+          "isColor": false,
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "in_prop_12278437",
+        "propsName": "度数",
+        "selectedValues": {
+          "propValue": {
+            "value": []
+          },
+          "type": 1
+        },
+        "attributeType": 2,
+        "inputType": 1,
+        "requireCondition": {
+          "operator": "and",
+          "conditions": [
+            {
+              "symbol": "==",
+              "key": "prop_12278437",
+              "value": "-1"
+            }
+          ]
+        }
+      },
+      {
+        "propsId": "item_qualification",
+        "propsName": "品质资质",
+        "attributeType": 3,
+        "specialValue": [
+          {
+            "id": "produce_area_agreement",
+            "value": "原产地资质认证协议",
+            "type": 2
+          },
+          {
+            "id": "produce_area_qualification",
+            "value": "原产地认证证书",
+            "type": 5
+          }
+        ],
+        "inputType": 15
+      },
+      {
+        "propsId": "only_tmall",
+        "propsName": "天猫独家(只在天猫销售)",
+        "attributeType": 1,
+        "propsValue": [],
+        "inputType": 3,
+        "isRequired": 0,
+        "sortOrder": 1,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "<a target='_blank' href='//maowo.tmall.com/discussion.htm?id=13759&circleId=29'>“天猫独家”标签相关说明</a>",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {
+          "operator": "and",
+          "conditions": [
+            {
+              "symbol": "==",
+              "key": "channel_type",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      {
+        "propsId": "has_invoice",
+        "propsName": "发票",
+        "selectedValues": {
+          "propValue": {
+            "value": [
+              "true"
+            ]
+          },
+          "type": 3
+        },
+        "attributeType": 3,
+        "propsValue": [
+          {
+            "id": "true",
+            "value": "有"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 1,
+        "sortOrder": 2,
+        "requireCondition": {}
+      },
+      {
+        "propsId": "has_warranty",
+        "propsName": "保修",
+        "selectedValues": {
+          "propValue": {
+            "value": [
+              "false"
+            ]
+          },
+          "type": 3
+        },
+        "attributeType": 3,
+        "propsValue": [
+          {
+            "id": "false",
+            "value": "无"
+          },
+          {
+            "id": "true",
+            "value": "有"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 1,
+        "sortOrder": 3,
+        "requireCondition": {}
+      },
+      {
+        "propsId": "sell_promise",
+        "propsName": "退换货服务",
+        "attributeType": 1,
+        "propsValue": [
+          {
+            "id": "false",
+            "value": "否"
+          },
+          {
+            "id": "true",
+            "value": "是"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 0,
+        "sortOrder": 4,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "凡使用支付宝服务付款购买本店商品，若存在质量问题或与描述不符，本店将主动提供退换货服务并承担来回邮费",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "viewschema_saomayanzhen",
+        "propsName": "扫码验真服务",
+        "attributeType": 1,
+        "propsValue": [
+          {
+            "id": "98242",
+            "value": "选择扫码验真服务"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 0,
+        "sortOrder": 5,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "<a href='https://pages.tmall.com/wow/yao/act/qianlima' target='_blank'>查看详情</a>",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "viewschema_shibeipeichang",
+        "propsName": "十倍赔偿服务",
+        "attributeType": 1,
+        "propsValue": [
+          {
+            "id": "98178",
+            "value": "支持十倍赔偿服务"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 0,
+        "sortOrder": 6,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "<a href='https://pages.tmall.com/wow/yao/act/qianlima' target='_blank'>查看详情</a>",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "viewschema_yanguanshizixun",
+        "propsName": "验光师咨询服务",
+        "attributeType": 1,
+        "propsValue": [
+          {
+            "id": "98050",
+            "value": "选择验光师咨询服务"
+          }
+        ],
+        "inputType": 3,
+        "isRequired": 0,
+        "sortOrder": 7,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "<a href='https://pages.tmall.com/wow/yao/act/qianlima' target='_blank'>查看详情</a>",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      },
+      {
+        "propsId": "auction_point",
+        "propsName": "返点比例",
+        "selectedValues": {
+          "propValue": {
+            "value": [
+              "1"
+            ]
+          },
+          "type": 16
+        },
+        "attributeType": 3,
+        "inputType": 16,
+        "isRequired": 1,
+        "sortOrder": 8,
+        "extendProperty": {
+          "isColor": false,
+          "graphic": "该类商品的最低返点比例为0.5%，设定的返点比例必须是0.5%的整数倍，且不能高于1.5%",
+          "requireCondition": false,
+          "first": false
+        },
+        "requireCondition": {}
+      }
+    ],
+    "skus": [
+      {
+        "sysSkuId": "3F86B0E89E9C31A790161126A4ABC773",
+        "value1": "天蓝色",
+        "value2": "标准装",
+        "price": 1.0,
+        "sysSkuCode": "MT_102160",
+        "skuCode": "MT_102160",
+        "quantity": 1,
+        "properties": [
+          {
+            "propId": "prop_1627207",
+            "value": "3232484"
+          }
+        ],
+        "imageUrl": [
+          {
+            "colorId": "3232484"
+          }
+        ]
+      }
+    ],
+    "productInfo": {
+      "productId": "2466816598"
+    }
+  }
+}

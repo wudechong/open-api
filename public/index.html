@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="//hcalf.hupun.com/resources/favicon.ico">
+  <title><%= htmlWebpackPlugin.options.title %></title>
+  <% if (htmlWebpackPlugin.options.cdn && htmlWebpackPlugin.options.cdn.css) { %>
+  <!-- require cdn assets css -->
+  <% for (var i in htmlWebpackPlugin.options.cdn.css) { %>
+  <link rel="stylesheet" href="<%= htmlWebpackPlugin.options.cdn.css[i] %>"/>
+  <% } %>
+  <% } %>
+  <link name="iconfont-calf" rel="stylesheet" href="//at.alicdn.com/t/font_1800787_62imvadjfi2.css"/>
+  <!--erp的图标-->
+  <link rel="stylesheet" href="//at.alicdn.com/t/c/font_1800787_htajzts535.css"/>
+</head>
+<body>
+<noscript>
+  <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+    Please enable it to continue.</strong>
+</noscript>
+<div id="app"></div>
+<% if (htmlWebpackPlugin.options.cdn && htmlWebpackPlugin.options.cdn.js) { %>
+<!-- require cdn assets js -->
+<% if (htmlWebpackPlugin.options.cdn && htmlWebpackPlugin.options.cdn.js) for (var i in htmlWebpackPlugin.options.cdn.js) { %>
+<script type="text/javascript" src="<%= htmlWebpackPlugin.options.cdn.js[i] %>"></script>
+<% } %>
+<% } %>
+<script src="//hcalf.hupun.com/lib/jquery-3.3.1/jquery.min.js"></script>
+<script src="//hcalf.hupun.com/common/220512/common.min.js"></script>
+<script src="//hcalf.oss-cn-hangzhou.aliyuncs.com/print/js/printCenter.js"></script>
+<!-- <script src="./static/js/print.js"></script> -->
+<!--erp的图标-->
+<script src="//at.alicdn.com/t/font_1800787_0anaef8by8r9.js"></script>
+<script src="//jm-static.jd.com/jssdk/jmsdkPC-1.1.0.js"></script>
+<script src="https://hpublic.oss-cn-hangzhou.aliyuncs.com/erp/purchase/zh-address-parse.min.js"></script>
+<script src="https://cdn.bootcss.com/clipboard.js/2.0.6/clipboard.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/echarts@4.1.0/dist/echarts.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue-echarts@4.0.2"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.0/heatmap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.10.0/localforage.min.js"></script>
+
+<script src="https://assets.alicdn.com/s/kissy/1.2.0/kissy-min.js"></script>
+<script src="https://market.m.taobao.com/app/aliww/bc-ww/webww"></script>
+
+<!-- built files will be auto injected -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://wa.hupun.com/";
+    _paq.push(["setTrackerUrl", u+"track"]);
+    if(document.domain === 'erp.hupun.com' ){
+      _paq.push(["setSiteId", "2"]);
+    }else{
+      _paq.push(["setSiteId", "1"]);
+    }
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.async=true; g.src="https://hcalf.hupun.com/wa/track.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+</body>
+</html>

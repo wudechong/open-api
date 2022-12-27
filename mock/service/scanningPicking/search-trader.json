@@ -1,0 +1,22 @@
+[{
+    "salercpt_uid": "1",
+    "salercpt_no": "XD210927000031",
+	"p_batch_serial": "123",
+	"delivery_name": "顺分",
+	"tp_receiver_name": "胡红"
+},{
+    "salercpt_uid": "2",
+    "salercpt_no": "XD210927000032",
+	"p_batch_serial": "123",
+	"delivery_name": "顺分",
+	"tp_receiver_name": "胡红"
+},{
+        "salercpt_uid": "3",
+        "salercpt_no": "XD210927000033",
+        "p_batch_serial": "123",
+        "delivery_name": "顺分",
+        "tp_receiver_name": "胡红3"
+}
+    
+
+]

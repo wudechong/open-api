@@ -1,0 +1,18 @@
+{
+	"code": 200,
+	"data": {
+		"tradeID": "348068781626687168",
+		"buyer": "bc9****6d8134e73",
+		"receiverName": "陈*",
+		"mobile": "13*******66",
+		"phone": "",
+		"province": "湖北省",
+		"city": "荆州市",
+		"district": "沙市区",
+		"address": "楚天都市城园**-*-***",
+		"idCardNo": "",
+		"idCardName": "",
+		"fuzzyColumns": ["buyer", "receiverName", "mobile", "phone", "address", "idCardNo", "idCardName"],
+		"featureKind": 51
+	}
+}
